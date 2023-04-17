@@ -1,4 +1,4 @@
-# @marianmers/emoji-list
+# @marianmeres/emoji-list
 
 Full list of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
 compiled into javascript plain object maps.
