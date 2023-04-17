@@ -3,7 +3,7 @@
 Full list of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
 compiled into javascript plain object maps.
 
-Useful for UI emoji search pickers and/or other emoji processing tools.
+Useful for various emoji processing tools.
 
 ## key to hex
 ```javascript
