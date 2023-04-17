@@ -1,9 +1,9 @@
 # @marianmeres/emoji-list
 
-Full list of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
-compiled into javascript plain object maps.
+List of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
+compiled into javascript plain object maps. Useful for various emoji processing tools.
 
-Useful for various emoji processing tools.
+NOTE: only default skin-tone
 
 ## key to hex
 ```javascript
