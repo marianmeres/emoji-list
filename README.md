@@ -63,3 +63,11 @@ import { emojiFulltextMap } from './@marianmers/emoji-list';
     "emojiFlagWales": "flag: Wales"
 }
 ```
+
+## `emojiToKey` and `keyToEmoji` utils
+```javascript
+import { emojiToKey, keyToEmoji } from './@marianmers/emoji-list';
+
+assert('emojiPileOfPoo' === emojiToKey('💩'));
+assert('💩' === keyToEmoji('emojiPileOfPoo'));
+```

@@ -144,8 +144,26 @@ export { emojiCodeMap } from './code-map.js';
 export { emojiKeyToGroupMap, emojiGroupToKeyMap } from './groups.js';
 export { emojiFulltextMap } from './fulltext.js';
 `;
-	fs.writeFileSync(path.join(OUTDIR, 'index.js'), index);
-	fs.writeFileSync(path.join(OUTDIR, 'index.d.ts'), index);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'index.js'),
+		`${index}
+import { emojiCodeMap } from './code-map.js';
+export const emojiToKey = (emoji) => {
+\tconst id = [...emoji].map((char) => (char.codePointAt(0) || '').toString(16)).join('-');
+\treturn emojiCodeMap[id] || null;
+}
+
+import { emojiKeyMap } from './key-map.js';
+export const keyToEmoji = (key) => \`\${emojiKeyMap[key] || ''}\`.split('-').reduce((m, v) => m += String.fromCodePoint(parseInt(v, 16)), '');
+`
+	);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'index.d.ts'),
+		`${index}
+export declare const emojiToKey = (emoji: string) => string;
+export declare const keyToEmoji = (id: string) => string;
+`
+	);
 
 	// index.d.ts
 

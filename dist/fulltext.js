@@ -1,4 +1,3 @@
-
 export const emojiFulltextMap = {
  "emojiGrinningFace": "grinning face",
  "emojiGrinningFaceWithBigEyes": "grinning face with big eyes",
