@@ -52,6 +52,7 @@ import { emojiKeyToGroupMap, emojiGroupToKeyMap } from './@marianmers/emoji-list
 }
 ```
 
+## text description
 ```javascript
 import { emojifulltextMap } from './@marianmers/emoji-list';
 
