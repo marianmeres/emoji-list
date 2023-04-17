@@ -1,8 +1,8 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { mkdirpSync } = require('mkdirp');
+const { rimrafSync } = require('rimraf');
 const { yellow, red, cyan, gray } = require('kleur/colors');
-const { rimraf, rimrafSync } = require("rimraf");
 const args = require('minimist')(process.argv.slice(2));
 
 const COMMAND = args._[0];
@@ -117,10 +117,11 @@ async function build() {
 	);
 
 	//
-	fs.writeFileSync(path.join(OUTDIR, 'groups.js'), `
-export const emojiKeyToGroupMap = ${JSON.stringify(keyToGroupMap, null, ' ')};
-export const emojiGroupToKeyMap = ${JSON.stringify(groupToKeyMap, null, ' ')};
-`);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'groups.js'),
+		`export const emojiKeyToGroupMap = ${JSON.stringify(keyToGroupMap, null, ' ')};
+export const emojiGroupToKeyMap = ${JSON.stringify(groupToKeyMap, null, ' ')};\n`
+	);
 	fs.writeFileSync(
 		path.join(OUTDIR, 'groups.d.ts'),
 		`export declare const emojiKeyToGroupMap: Record<string, string[]>;
@@ -128,9 +129,10 @@ export declare const emojiGroupToKeyMap: Record<string, string[]>;\n`
 	);
 
 	//
-	fs.writeFileSync(path.join(OUTDIR, 'fulltext.js'), `
-export const emojiFulltextMap = ${JSON.stringify(fulltextMap, null, ' ')};
-`);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'fulltext.js'),
+		`export const emojiFulltextMap = ${JSON.stringify(fulltextMap, null, ' ')};\n`
+	);
 	fs.writeFileSync(
 		path.join(OUTDIR, 'fulltext.d.ts'),
 		`export declare const emojiFulltextMap: Record<string, string>;\n`
@@ -141,7 +143,7 @@ export { emojiKeyMap } from './key-map.js';
 export { emojiCodeMap } from './code-map.js';
 export { emojiKeyToGroupMap, emojiGroupToKeyMap } from './groups.js';
 export { emojiFulltextMap } from './fulltext.js';
-`
+`;
 	fs.writeFileSync(path.join(OUTDIR, 'index.js'), index);
 	fs.writeFileSync(path.join(OUTDIR, 'index.d.ts'), index);
 
