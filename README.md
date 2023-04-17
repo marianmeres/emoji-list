@@ -1,7 +1,9 @@
 # @marianmers/emoji-list
 
 Full list of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
-compilled into javascript plain object maps.
+compiled into javascript plain object maps.
+
+Useful for UI emoji search pickers and/or other emoji processing tools.
 
 ## key to hex
 ```javascript
@@ -44,7 +46,7 @@ import { emojiKeyToGroupMap, emojiGroupToKeyMap } from './@marianmers/emoji-list
     "smileys and emotion": [ "emojiGrinningFace", /*...*/ ],
     // ...
 	
-    // major/minor groups
+    // major/minor group
     "smileys and emotion/face-smiling": [ "emojiGrinningFace", /*...*/ ],
     // ...
 }
@@ -55,8 +57,8 @@ import { emojifulltextMap } from './@marianmers/emoji-list';
 
 // emojifulltextMap contains full key-to-text map of all emojis
 {
-	"emojiGrinningFace": "grinning face",
-	// ... ~1870 records omitted here
-	"emojiFlagWales": "flag: Wales"
+    "emojiGrinningFace": "grinning face",
+    // ... ~1870 records omitted here
+    "emojiFlagWales": "flag: Wales"
 }
 ```
