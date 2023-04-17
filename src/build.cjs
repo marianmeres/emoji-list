@@ -96,30 +96,56 @@ async function build() {
 	rimrafSync(OUTDIR);
 	mkdirpSync(OUTDIR);
 
-	fs.writeFileSync(path.join(OUTDIR, 'key-map.js'), `
-export const emojiKeyMap = ${JSON.stringify(keyMap, null, ' ')};
-`);
+	//
+	fs.writeFileSync(
+		path.join(OUTDIR, 'key-map.js'),
+		`export const emojiKeyMap = ${JSON.stringify(keyMap, null, ' ')};\n`
+	);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'key-map.d.ts'),
+		`export declare const emojiKeyMap: Record<string, string>;\n`
+	);
 
-	fs.writeFileSync(path.join(OUTDIR, 'code-map.js'), `
-export const emojiCodeMap = ${JSON.stringify(codeMap, null, ' ')};
-`);
+	//
+	fs.writeFileSync(
+		path.join(OUTDIR, 'code-map.js'),
+		`export const emojiCodeMap = ${JSON.stringify(codeMap, null, ' ')};\n`
+	);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'key-map.d.ts'),
+		`export declare const emojiCodeMap: Record<string, string>;\n`
+	);
 
+	//
 	fs.writeFileSync(path.join(OUTDIR, 'groups.js'), `
 export const emojiKeyToGroupMap = ${JSON.stringify(keyToGroupMap, null, ' ')};
-
 export const emojiGroupToKeyMap = ${JSON.stringify(groupToKeyMap, null, ' ')};
 `);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'groups.d.ts'),
+		`export declare const emojiKeyToGroupMap: Record<string, string[]>;
+export declare const emojiGroupToKeyMap: Record<string, string[]>;\n`
+	);
 
+	//
 	fs.writeFileSync(path.join(OUTDIR, 'fulltext.js'), `
 export const emojiFulltextMap = ${JSON.stringify(fulltextMap, null, ' ')};
 `);
+	fs.writeFileSync(
+		path.join(OUTDIR, 'fulltext.d.ts'),
+		`export declare const emojiFulltextMap: Record<string, string>;\n`
+	);
 
-	fs.writeFileSync(path.join(OUTDIR, 'index.js'), `
+	const index = `
 export { emojiKeyMap } from './key-map.js';
 export { emojiCodeMap } from './code-map.js';
 export { emojiKeyToGroupMap, emojiGroupToKeyMap } from './groups.js';
-export { emojifulltextMap } from './fulltext.js';
-`);
+export { emojiFulltextMap } from './fulltext.js';
+`
+	fs.writeFileSync(path.join(OUTDIR, 'index.js'), index);
+	fs.writeFileSync(path.join(OUTDIR, 'index.d.ts'), index);
+
+	// index.d.ts
 
 	log(gray(`OK\n`));
 }

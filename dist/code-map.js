@@ -1,4 +1,3 @@
-
 export const emojiCodeMap = {
  "2049": "emojiExclamationQuestionMark",
  "2122": "emojiTradeMark",

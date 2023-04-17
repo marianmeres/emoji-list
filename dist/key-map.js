@@ -1,4 +1,3 @@
-
 export const emojiKeyMap = {
  "emojiGrinningFace": "1f600",
  "emojiGrinningFaceWithBigEyes": "1f603",

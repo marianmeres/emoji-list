@@ -7501,7 +7501,6 @@ export const emojiKeyToGroupMap = {
   "subdivision-flag"
  ]
 };
-
 export const emojiGroupToKeyMap = {
  "smileys and emotion": [
   "emojiGrinningFace",
