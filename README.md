@@ -1,7 +1,7 @@
 # @marianmeres/emoji-list
 
 List of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
-compiled into javascript plain object maps. Useful as a low level helpers for various 
+compiled into javascript plain object maps. Useful as low level helpers for various 
 emoji processing tools.
 
 NOTE: only default skin-tone
