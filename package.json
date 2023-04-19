@@ -14,7 +14,8 @@
     "clean": "rimraf dist/*",
     "prettier": "prettier --write src/build.cjs",
     "build": "npm run clean && node src/build.cjs build",
-    "release": "release -v minor"
+    "release": "release -v minor",
+    "test": "node test"
   },
   "author": "Marian Meres <marian@meres.sk>",
   "license": "MIT",

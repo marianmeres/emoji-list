@@ -191,6 +191,10 @@ function ucfirst(str) {
 	return `${str}`.charAt(0).toUpperCase() + `${str}`.slice(1);
 }
 
+function lcfirst(str) {
+	return `${str}`.charAt(0).toLowerCase() + `${str}`.slice(1);
+}
+
 function outHex(s) {
 	return `${s}`
 		.toLowerCase()
@@ -205,8 +209,7 @@ function outGroup(name) {
 }
 
 function outKey(name) {
-	return (
-		'emoji' +
+	return lcfirst(
 		replaceMap(unaccent(name), {
 			'#': 'hash',
 			'*': 'star',

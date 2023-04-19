@@ -1,11472 +1,11472 @@
 export const emojiKeyToGroupMap = {
- "emojiGrinningFace": [
+ "grinningFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiGrinningFaceWithBigEyes": [
+ "grinningFaceWithBigEyes": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiGrinningFaceWithSmilingEyes": [
+ "grinningFaceWithSmilingEyes": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiBeamingFaceWithSmilingEyes": [
+ "beamingFaceWithSmilingEyes": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiGrinningSquintingFace": [
+ "grinningSquintingFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiGrinningFaceWithSweat": [
+ "grinningFaceWithSweat": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiRollingOnTheFloorLaughing": [
+ "rollingOnTheFloorLaughing": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiFaceWithTearsOfJoy": [
+ "faceWithTearsOfJoy": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiSlightlySmilingFace": [
+ "slightlySmilingFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiUpsideDownFace": [
+ "upsideDownFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiMeltingFace": [
+ "meltingFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiWinkingFace": [
+ "winkingFace": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiSmilingFaceWithSmilingEyes": [
+ "smilingFaceWithSmilingEyes": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiSmilingFaceWithHalo": [
+ "smilingFaceWithHalo": [
   "smileys and emotion",
   "face-smiling"
  ],
- "emojiSmilingFaceWithHearts": [
+ "smilingFaceWithHearts": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiSmilingFaceWithHeartEyes": [
+ "smilingFaceWithHeartEyes": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiStarStruck": [
+ "starStruck": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiFaceBlowingAKiss": [
+ "faceBlowingAKiss": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiKissingFace": [
+ "kissingFace": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiSmilingFace": [
+ "smilingFace": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiKissingFaceWithClosedEyes": [
+ "kissingFaceWithClosedEyes": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiKissingFaceWithSmilingEyes": [
+ "kissingFaceWithSmilingEyes": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiSmilingFaceWithTear": [
+ "smilingFaceWithTear": [
   "smileys and emotion",
   "face-affection"
  ],
- "emojiFaceSavoringFood": [
+ "faceSavoringFood": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiFaceWithTongue": [
+ "faceWithTongue": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiWinkingFaceWithTongue": [
+ "winkingFaceWithTongue": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiZanyFace": [
+ "zanyFace": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiSquintingFaceWithTongue": [
+ "squintingFaceWithTongue": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiMoneyMouthFace": [
+ "moneyMouthFace": [
   "smileys and emotion",
   "face-tongue"
  ],
- "emojiSmilingFaceWithOpenHands": [
+ "smilingFaceWithOpenHands": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiFaceWithHandOverMouth": [
+ "faceWithHandOverMouth": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiFaceWithOpenEyesAndHandOverMouth": [
+ "faceWithOpenEyesAndHandOverMouth": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiFaceWithPeekingEye": [
+ "faceWithPeekingEye": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiShushingFace": [
+ "shushingFace": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiThinkingFace": [
+ "thinkingFace": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiSalutingFace": [
+ "salutingFace": [
   "smileys and emotion",
   "face-hand"
  ],
- "emojiZipperMouthFace": [
+ "zipperMouthFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiFaceWithRaisedEyebrow": [
+ "faceWithRaisedEyebrow": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiNeutralFace": [
+ "neutralFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiExpressionlessFace": [
+ "expressionlessFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiFaceWithoutMouth": [
+ "faceWithoutMouth": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiDottedLineFace": [
+ "dottedLineFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiFaceInClouds": [
+ "faceInClouds": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiSmirkingFace": [
+ "smirkingFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiUnamusedFace": [
+ "unamusedFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiFaceWithRollingEyes": [
+ "faceWithRollingEyes": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiGrimacingFace": [
+ "grimacingFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiFaceExhaling": [
+ "faceExhaling": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiLyingFace": [
+ "lyingFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiShakingFace": [
+ "shakingFace": [
   "smileys and emotion",
   "face-neutral-skeptical"
  ],
- "emojiRelievedFace": [
+ "relievedFace": [
   "smileys and emotion",
   "face-sleepy"
  ],
- "emojiPensiveFace": [
+ "pensiveFace": [
   "smileys and emotion",
   "face-sleepy"
  ],
- "emojiSleepyFace": [
+ "sleepyFace": [
   "smileys and emotion",
   "face-sleepy"
  ],
- "emojiDroolingFace": [
+ "droolingFace": [
   "smileys and emotion",
   "face-sleepy"
  ],
- "emojiSleepingFace": [
+ "sleepingFace": [
   "smileys and emotion",
   "face-sleepy"
  ],
- "emojiFaceWithMedicalMask": [
+ "faceWithMedicalMask": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiFaceWithThermometer": [
+ "faceWithThermometer": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiFaceWithHeadBandage": [
+ "faceWithHeadBandage": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiNauseatedFace": [
+ "nauseatedFace": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiFaceVomiting": [
+ "faceVomiting": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiSneezingFace": [
+ "sneezingFace": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiHotFace": [
+ "hotFace": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiColdFace": [
+ "coldFace": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiWoozyFace": [
+ "woozyFace": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiFaceWithCrossedOutEyes": [
+ "faceWithCrossedOutEyes": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiFaceWithSpiralEyes": [
+ "faceWithSpiralEyes": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiExplodingHead": [
+ "explodingHead": [
   "smileys and emotion",
   "face-unwell"
  ],
- "emojiCowboyHatFace": [
+ "cowboyHatFace": [
   "smileys and emotion",
   "face-hat"
  ],
- "emojiPartyingFace": [
+ "partyingFace": [
   "smileys and emotion",
   "face-hat"
  ],
- "emojiDisguisedFace": [
+ "disguisedFace": [
   "smileys and emotion",
   "face-hat"
  ],
- "emojiSmilingFaceWithSunglasses": [
+ "smilingFaceWithSunglasses": [
   "smileys and emotion",
   "face-glasses"
  ],
- "emojiNerdFace": [
+ "nerdFace": [
   "smileys and emotion",
   "face-glasses"
  ],
- "emojiFaceWithMonocle": [
+ "faceWithMonocle": [
   "smileys and emotion",
   "face-glasses"
  ],
- "emojiConfusedFace": [
+ "confusedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFaceWithDiagonalMouth": [
+ "faceWithDiagonalMouth": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiWorriedFace": [
+ "worriedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiSlightlyFrowningFace": [
+ "slightlyFrowningFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFrowningFace": [
+ "frowningFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFaceWithOpenMouth": [
+ "faceWithOpenMouth": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiHushedFace": [
+ "hushedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiAstonishedFace": [
+ "astonishedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFlushedFace": [
+ "flushedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiPleadingFace": [
+ "pleadingFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFaceHoldingBackTears": [
+ "faceHoldingBackTears": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFrowningFaceWithOpenMouth": [
+ "frowningFaceWithOpenMouth": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiAnguishedFace": [
+ "anguishedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFearfulFace": [
+ "fearfulFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiAnxiousFaceWithSweat": [
+ "anxiousFaceWithSweat": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiSadButRelievedFace": [
+ "sadButRelievedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiCryingFace": [
+ "cryingFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiLoudlyCryingFace": [
+ "loudlyCryingFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFaceScreamingInFear": [
+ "faceScreamingInFear": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiConfoundedFace": [
+ "confoundedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiPerseveringFace": [
+ "perseveringFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiDisappointedFace": [
+ "disappointedFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiDowncastFaceWithSweat": [
+ "downcastFaceWithSweat": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiWearyFace": [
+ "wearyFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiTiredFace": [
+ "tiredFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiYawningFace": [
+ "yawningFace": [
   "smileys and emotion",
   "face-concerned"
  ],
- "emojiFaceWithSteamFromNose": [
+ "faceWithSteamFromNose": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiEnragedFace": [
+ "enragedFace": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiAngryFace": [
+ "angryFace": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiFaceWithSymbolsOnMouth": [
+ "faceWithSymbolsOnMouth": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiSmilingFaceWithHorns": [
+ "smilingFaceWithHorns": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiAngryFaceWithHorns": [
+ "angryFaceWithHorns": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiSkull": [
+ "skull": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiSkullAndCrossbones": [
+ "skullAndCrossbones": [
   "smileys and emotion",
   "face-negative"
  ],
- "emojiPileOfPoo": [
+ "pileOfPoo": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiClownFace": [
+ "clownFace": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiOgre": [
+ "ogre": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiGoblin": [
+ "goblin": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiGhost": [
+ "ghost": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiAlien": [
+ "alien": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiAlienMonster": [
+ "alienMonster": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiRobot": [
+ "robot": [
   "smileys and emotion",
   "face-costume"
  ],
- "emojiGrinningCat": [
+ "grinningCat": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiGrinningCatWithSmilingEyes": [
+ "grinningCatWithSmilingEyes": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiCatWithTearsOfJoy": [
+ "catWithTearsOfJoy": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiSmilingCatWithHeartEyes": [
+ "smilingCatWithHeartEyes": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiCatWithWrySmile": [
+ "catWithWrySmile": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiKissingCat": [
+ "kissingCat": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiWearyCat": [
+ "wearyCat": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiCryingCat": [
+ "cryingCat": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiPoutingCat": [
+ "poutingCat": [
   "smileys and emotion",
   "cat-face"
  ],
- "emojiSeeNoEvilMonkey": [
+ "seeNoEvilMonkey": [
   "smileys and emotion",
   "monkey-face"
  ],
- "emojiHearNoEvilMonkey": [
+ "hearNoEvilMonkey": [
   "smileys and emotion",
   "monkey-face"
  ],
- "emojiSpeakNoEvilMonkey": [
+ "speakNoEvilMonkey": [
   "smileys and emotion",
   "monkey-face"
  ],
- "emojiLoveLetter": [
+ "loveLetter": [
   "smileys and emotion",
   "heart"
  ],
- "emojiHeartWithArrow": [
+ "heartWithArrow": [
   "smileys and emotion",
   "heart"
  ],
- "emojiHeartWithRibbon": [
+ "heartWithRibbon": [
   "smileys and emotion",
   "heart"
  ],
- "emojiSparklingHeart": [
+ "sparklingHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiGrowingHeart": [
+ "growingHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiBeatingHeart": [
+ "beatingHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiRevolvingHearts": [
+ "revolvingHearts": [
   "smileys and emotion",
   "heart"
  ],
- "emojiTwoHearts": [
+ "twoHearts": [
   "smileys and emotion",
   "heart"
  ],
- "emojiHeartDecoration": [
+ "heartDecoration": [
   "smileys and emotion",
   "heart"
  ],
- "emojiHeartExclamation": [
+ "heartExclamation": [
   "smileys and emotion",
   "heart"
  ],
- "emojiBrokenHeart": [
+ "brokenHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiHeartOnFire": [
+ "heartOnFire": [
   "smileys and emotion",
   "heart"
  ],
- "emojiMendingHeart": [
+ "mendingHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiRedHeart": [
+ "redHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiPinkHeart": [
+ "pinkHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiOrangeHeart": [
+ "orangeHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiYellowHeart": [
+ "yellowHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiGreenHeart": [
+ "greenHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiBlueHeart": [
+ "blueHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiLightBlueHeart": [
+ "lightBlueHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiPurpleHeart": [
+ "purpleHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiBrownHeart": [
+ "brownHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiBlackHeart": [
+ "blackHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiGreyHeart": [
+ "greyHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiWhiteHeart": [
+ "whiteHeart": [
   "smileys and emotion",
   "heart"
  ],
- "emojiKissMark": [
+ "kissMark": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiHundredPoints": [
+ "hundredPoints": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiAngerSymbol": [
+ "angerSymbol": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiCollision": [
+ "collision": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiDizzy": [
+ "dizzy": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiSweatDroplets": [
+ "sweatDroplets": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiDashingAway": [
+ "dashingAway": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiHole": [
+ "hole": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiSpeechBalloon": [
+ "speechBalloon": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiEyeInSpeechBubble": [
+ "eyeInSpeechBubble": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiLeftSpeechBubble": [
+ "leftSpeechBubble": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiRightAngerBubble": [
+ "rightAngerBubble": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiThoughtBalloon": [
+ "thoughtBalloon": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiZZZ": [
+ "zZZ": [
   "smileys and emotion",
   "emotion"
  ],
- "emojiWavingHand": [
+ "wavingHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiRaisedBackOfHand": [
+ "raisedBackOfHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiHandWithFingersSplayed": [
+ "handWithFingersSplayed": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiRaisedHand": [
+ "raisedHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiVulcanSalute": [
+ "vulcanSalute": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiRightwardsHand": [
+ "rightwardsHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiLeftwardsHand": [
+ "leftwardsHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiPalmDownHand": [
+ "palmDownHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiPalmUpHand": [
+ "palmUpHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiLeftwardsPushingHand": [
+ "leftwardsPushingHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiRightwardsPushingHand": [
+ "rightwardsPushingHand": [
   "people and body",
   "hand-fingers-open"
  ],
- "emojiOKHand": [
+ "oKHand": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiPinchedFingers": [
+ "pinchedFingers": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiPinchingHand": [
+ "pinchingHand": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiVictoryHand": [
+ "victoryHand": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiCrossedFingers": [
+ "crossedFingers": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiHandWithIndexFingerAndThumbCrossed": [
+ "handWithIndexFingerAndThumbCrossed": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiLoveYouGesture": [
+ "loveYouGesture": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiSignOfTheHorns": [
+ "signOfTheHorns": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiCallMeHand": [
+ "callMeHand": [
   "people and body",
   "hand-fingers-partial"
  ],
- "emojiBackhandIndexPointingLeft": [
+ "backhandIndexPointingLeft": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiBackhandIndexPointingRight": [
+ "backhandIndexPointingRight": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiBackhandIndexPointingUp": [
+ "backhandIndexPointingUp": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiMiddleFinger": [
+ "middleFinger": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiBackhandIndexPointingDown": [
+ "backhandIndexPointingDown": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiIndexPointingUp": [
+ "indexPointingUp": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiIndexPointingAtTheViewer": [
+ "indexPointingAtTheViewer": [
   "people and body",
   "hand-single-finger"
  ],
- "emojiThumbsUp": [
+ "thumbsUp": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiThumbsDown": [
+ "thumbsDown": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiRaisedFist": [
+ "raisedFist": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiOncomingFist": [
+ "oncomingFist": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiLeftFacingFist": [
+ "leftFacingFist": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiRightFacingFist": [
+ "rightFacingFist": [
   "people and body",
   "hand-fingers-closed"
  ],
- "emojiClappingHands": [
+ "clappingHands": [
   "people and body",
   "hands"
  ],
- "emojiRaisingHands": [
+ "raisingHands": [
   "people and body",
   "hands"
  ],
- "emojiHeartHands": [
+ "heartHands": [
   "people and body",
   "hands"
  ],
- "emojiOpenHands": [
+ "openHands": [
   "people and body",
   "hands"
  ],
- "emojiPalmsUpTogether": [
+ "palmsUpTogether": [
   "people and body",
   "hands"
  ],
- "emojiHandshake": [
+ "handshake": [
   "people and body",
   "hands"
  ],
- "emojiFoldedHands": [
+ "foldedHands": [
   "people and body",
   "hands"
  ],
- "emojiWritingHand": [
+ "writingHand": [
   "people and body",
   "hand-prop"
  ],
- "emojiNailPolish": [
+ "nailPolish": [
   "people and body",
   "hand-prop"
  ],
- "emojiSelfie": [
+ "selfie": [
   "people and body",
   "hand-prop"
  ],
- "emojiFlexedBiceps": [
+ "flexedBiceps": [
   "people and body",
   "body-parts"
  ],
- "emojiMechanicalArm": [
+ "mechanicalArm": [
   "people and body",
   "body-parts"
  ],
- "emojiMechanicalLeg": [
+ "mechanicalLeg": [
   "people and body",
   "body-parts"
  ],
- "emojiLeg": [
+ "leg": [
   "people and body",
   "body-parts"
  ],
- "emojiFoot": [
+ "foot": [
   "people and body",
   "body-parts"
  ],
- "emojiEar": [
+ "ear": [
   "people and body",
   "body-parts"
  ],
- "emojiEarWithHearingAid": [
+ "earWithHearingAid": [
   "people and body",
   "body-parts"
  ],
- "emojiNose": [
+ "nose": [
   "people and body",
   "body-parts"
  ],
- "emojiBrain": [
+ "brain": [
   "people and body",
   "body-parts"
  ],
- "emojiAnatomicalHeart": [
+ "anatomicalHeart": [
   "people and body",
   "body-parts"
  ],
- "emojiLungs": [
+ "lungs": [
   "people and body",
   "body-parts"
  ],
- "emojiTooth": [
+ "tooth": [
   "people and body",
   "body-parts"
  ],
- "emojiBone": [
+ "bone": [
   "people and body",
   "body-parts"
  ],
- "emojiEyes": [
+ "eyes": [
   "people and body",
   "body-parts"
  ],
- "emojiEye": [
+ "eye": [
   "people and body",
   "body-parts"
  ],
- "emojiTongue": [
+ "tongue": [
   "people and body",
   "body-parts"
  ],
- "emojiMouth": [
+ "mouth": [
   "people and body",
   "body-parts"
  ],
- "emojiBitingLip": [
+ "bitingLip": [
   "people and body",
   "body-parts"
  ],
- "emojiBaby": [
+ "baby": [
   "people and body",
   "person"
  ],
- "emojiChild": [
+ "child": [
   "people and body",
   "person"
  ],
- "emojiBoy": [
+ "boy": [
   "people and body",
   "person"
  ],
- "emojiGirl": [
+ "girl": [
   "people and body",
   "person"
  ],
- "emojiPerson": [
+ "person": [
   "people and body",
   "person"
  ],
- "emojiPersonBlondHair": [
+ "personBlondHair": [
   "people and body",
   "person"
  ],
- "emojiMan": [
+ "man": [
   "people and body",
   "person"
  ],
- "emojiPersonBeard": [
+ "personBeard": [
   "people and body",
   "person"
  ],
- "emojiManBeard": [
+ "manBeard": [
   "people and body",
   "person"
  ],
- "emojiWomanBeard": [
+ "womanBeard": [
   "people and body",
   "person"
  ],
- "emojiManRedHair": [
+ "manRedHair": [
   "people and body",
   "person"
  ],
- "emojiManCurlyHair": [
+ "manCurlyHair": [
   "people and body",
   "person"
  ],
- "emojiManWhiteHair": [
+ "manWhiteHair": [
   "people and body",
   "person"
  ],
- "emojiManBald": [
+ "manBald": [
   "people and body",
   "person"
  ],
- "emojiWoman": [
+ "woman": [
   "people and body",
   "person"
  ],
- "emojiWomanRedHair": [
+ "womanRedHair": [
   "people and body",
   "person"
  ],
- "emojiPersonRedHair": [
+ "personRedHair": [
   "people and body",
   "person"
  ],
- "emojiWomanCurlyHair": [
+ "womanCurlyHair": [
   "people and body",
   "person"
  ],
- "emojiPersonCurlyHair": [
+ "personCurlyHair": [
   "people and body",
   "person"
  ],
- "emojiWomanWhiteHair": [
+ "womanWhiteHair": [
   "people and body",
   "person"
  ],
- "emojiPersonWhiteHair": [
+ "personWhiteHair": [
   "people and body",
   "person"
  ],
- "emojiWomanBald": [
+ "womanBald": [
   "people and body",
   "person"
  ],
- "emojiPersonBald": [
+ "personBald": [
   "people and body",
   "person"
  ],
- "emojiWomanBlondHair": [
+ "womanBlondHair": [
   "people and body",
   "person"
  ],
- "emojiManBlondHair": [
+ "manBlondHair": [
   "people and body",
   "person"
  ],
- "emojiOlderPerson": [
+ "olderPerson": [
   "people and body",
   "person"
  ],
- "emojiOldMan": [
+ "oldMan": [
   "people and body",
   "person"
  ],
- "emojiOldWoman": [
+ "oldWoman": [
   "people and body",
   "person"
  ],
- "emojiPersonFrowning": [
+ "personFrowning": [
   "people and body",
   "person-gesture"
  ],
- "emojiManFrowning": [
+ "manFrowning": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanFrowning": [
+ "womanFrowning": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonPouting": [
+ "personPouting": [
   "people and body",
   "person-gesture"
  ],
- "emojiManPouting": [
+ "manPouting": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanPouting": [
+ "womanPouting": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonGesturingNO": [
+ "personGesturingNO": [
   "people and body",
   "person-gesture"
  ],
- "emojiManGesturingNO": [
+ "manGesturingNO": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanGesturingNO": [
+ "womanGesturingNO": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonGesturingOK": [
+ "personGesturingOK": [
   "people and body",
   "person-gesture"
  ],
- "emojiManGesturingOK": [
+ "manGesturingOK": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanGesturingOK": [
+ "womanGesturingOK": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonTippingHand": [
+ "personTippingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiManTippingHand": [
+ "manTippingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanTippingHand": [
+ "womanTippingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonRaisingHand": [
+ "personRaisingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiManRaisingHand": [
+ "manRaisingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanRaisingHand": [
+ "womanRaisingHand": [
   "people and body",
   "person-gesture"
  ],
- "emojiDeafPerson": [
+ "deafPerson": [
   "people and body",
   "person-gesture"
  ],
- "emojiDeafMan": [
+ "deafMan": [
   "people and body",
   "person-gesture"
  ],
- "emojiDeafWoman": [
+ "deafWoman": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonBowing": [
+ "personBowing": [
   "people and body",
   "person-gesture"
  ],
- "emojiManBowing": [
+ "manBowing": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanBowing": [
+ "womanBowing": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonFacepalming": [
+ "personFacepalming": [
   "people and body",
   "person-gesture"
  ],
- "emojiManFacepalming": [
+ "manFacepalming": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanFacepalming": [
+ "womanFacepalming": [
   "people and body",
   "person-gesture"
  ],
- "emojiPersonShrugging": [
+ "personShrugging": [
   "people and body",
   "person-gesture"
  ],
- "emojiManShrugging": [
+ "manShrugging": [
   "people and body",
   "person-gesture"
  ],
- "emojiWomanShrugging": [
+ "womanShrugging": [
   "people and body",
   "person-gesture"
  ],
- "emojiHealthWorker": [
+ "healthWorker": [
   "people and body",
   "person-role"
  ],
- "emojiManHealthWorker": [
+ "manHealthWorker": [
   "people and body",
   "person-role"
  ],
- "emojiWomanHealthWorker": [
+ "womanHealthWorker": [
   "people and body",
   "person-role"
  ],
- "emojiStudent": [
+ "student": [
   "people and body",
   "person-role"
  ],
- "emojiManStudent": [
+ "manStudent": [
   "people and body",
   "person-role"
  ],
- "emojiWomanStudent": [
+ "womanStudent": [
   "people and body",
   "person-role"
  ],
- "emojiTeacher": [
+ "teacher": [
   "people and body",
   "person-role"
  ],
- "emojiManTeacher": [
+ "manTeacher": [
   "people and body",
   "person-role"
  ],
- "emojiWomanTeacher": [
+ "womanTeacher": [
   "people and body",
   "person-role"
  ],
- "emojiJudge": [
+ "judge": [
   "people and body",
   "person-role"
  ],
- "emojiManJudge": [
+ "manJudge": [
   "people and body",
   "person-role"
  ],
- "emojiWomanJudge": [
+ "womanJudge": [
   "people and body",
   "person-role"
  ],
- "emojiFarmer": [
+ "farmer": [
   "people and body",
   "person-role"
  ],
- "emojiManFarmer": [
+ "manFarmer": [
   "people and body",
   "person-role"
  ],
- "emojiWomanFarmer": [
+ "womanFarmer": [
   "people and body",
   "person-role"
  ],
- "emojiCook": [
+ "cook": [
   "people and body",
   "person-role"
  ],
- "emojiManCook": [
+ "manCook": [
   "people and body",
   "person-role"
  ],
- "emojiWomanCook": [
+ "womanCook": [
   "people and body",
   "person-role"
  ],
- "emojiMechanic": [
+ "mechanic": [
   "people and body",
   "person-role"
  ],
- "emojiManMechanic": [
+ "manMechanic": [
   "people and body",
   "person-role"
  ],
- "emojiWomanMechanic": [
+ "womanMechanic": [
   "people and body",
   "person-role"
  ],
- "emojiFactoryWorker": [
+ "factoryWorker": [
   "people and body",
   "person-role"
  ],
- "emojiManFactoryWorker": [
+ "manFactoryWorker": [
   "people and body",
   "person-role"
  ],
- "emojiWomanFactoryWorker": [
+ "womanFactoryWorker": [
   "people and body",
   "person-role"
  ],
- "emojiOfficeWorker": [
+ "officeWorker": [
   "people and body",
   "person-role"
  ],
- "emojiManOfficeWorker": [
+ "manOfficeWorker": [
   "people and body",
   "person-role"
  ],
- "emojiWomanOfficeWorker": [
+ "womanOfficeWorker": [
   "people and body",
   "person-role"
  ],
- "emojiScientist": [
+ "scientist": [
   "people and body",
   "person-role"
  ],
- "emojiManScientist": [
+ "manScientist": [
   "people and body",
   "person-role"
  ],
- "emojiWomanScientist": [
+ "womanScientist": [
   "people and body",
   "person-role"
  ],
- "emojiTechnologist": [
+ "technologist": [
   "people and body",
   "person-role"
  ],
- "emojiManTechnologist": [
+ "manTechnologist": [
   "people and body",
   "person-role"
  ],
- "emojiWomanTechnologist": [
+ "womanTechnologist": [
   "people and body",
   "person-role"
  ],
- "emojiSinger": [
+ "singer": [
   "people and body",
   "person-role"
  ],
- "emojiManSinger": [
+ "manSinger": [
   "people and body",
   "person-role"
  ],
- "emojiWomanSinger": [
+ "womanSinger": [
   "people and body",
   "person-role"
  ],
- "emojiArtist": [
+ "artist": [
   "people and body",
   "person-role"
  ],
- "emojiManArtist": [
+ "manArtist": [
   "people and body",
   "person-role"
  ],
- "emojiWomanArtist": [
+ "womanArtist": [
   "people and body",
   "person-role"
  ],
- "emojiPilot": [
+ "pilot": [
   "people and body",
   "person-role"
  ],
- "emojiManPilot": [
+ "manPilot": [
   "people and body",
   "person-role"
  ],
- "emojiWomanPilot": [
+ "womanPilot": [
   "people and body",
   "person-role"
  ],
- "emojiAstronaut": [
+ "astronaut": [
   "people and body",
   "person-role"
  ],
- "emojiManAstronaut": [
+ "manAstronaut": [
   "people and body",
   "person-role"
  ],
- "emojiWomanAstronaut": [
+ "womanAstronaut": [
   "people and body",
   "person-role"
  ],
- "emojiFirefighter": [
+ "firefighter": [
   "people and body",
   "person-role"
  ],
- "emojiManFirefighter": [
+ "manFirefighter": [
   "people and body",
   "person-role"
  ],
- "emojiWomanFirefighter": [
+ "womanFirefighter": [
   "people and body",
   "person-role"
  ],
- "emojiPoliceOfficer": [
+ "policeOfficer": [
   "people and body",
   "person-role"
  ],
- "emojiManPoliceOfficer": [
+ "manPoliceOfficer": [
   "people and body",
   "person-role"
  ],
- "emojiWomanPoliceOfficer": [
+ "womanPoliceOfficer": [
   "people and body",
   "person-role"
  ],
- "emojiDetective": [
+ "detective": [
   "people and body",
   "person-role"
  ],
- "emojiManDetective": [
+ "manDetective": [
   "people and body",
   "person-role"
  ],
- "emojiWomanDetective": [
+ "womanDetective": [
   "people and body",
   "person-role"
  ],
- "emojiGuard": [
+ "guard": [
   "people and body",
   "person-role"
  ],
- "emojiManGuard": [
+ "manGuard": [
   "people and body",
   "person-role"
  ],
- "emojiWomanGuard": [
+ "womanGuard": [
   "people and body",
   "person-role"
  ],
- "emojiNinja": [
+ "ninja": [
   "people and body",
   "person-role"
  ],
- "emojiConstructionWorker": [
+ "constructionWorker": [
   "people and body",
   "person-role"
  ],
- "emojiManConstructionWorker": [
+ "manConstructionWorker": [
   "people and body",
   "person-role"
  ],
- "emojiWomanConstructionWorker": [
+ "womanConstructionWorker": [
   "people and body",
   "person-role"
  ],
- "emojiPersonWithCrown": [
+ "personWithCrown": [
   "people and body",
   "person-role"
  ],
- "emojiPrince": [
+ "prince": [
   "people and body",
   "person-role"
  ],
- "emojiPrincess": [
+ "princess": [
   "people and body",
   "person-role"
  ],
- "emojiPersonWearingTurban": [
+ "personWearingTurban": [
   "people and body",
   "person-role"
  ],
- "emojiManWearingTurban": [
+ "manWearingTurban": [
   "people and body",
   "person-role"
  ],
- "emojiWomanWearingTurban": [
+ "womanWearingTurban": [
   "people and body",
   "person-role"
  ],
- "emojiPersonWithSkullcap": [
+ "personWithSkullcap": [
   "people and body",
   "person-role"
  ],
- "emojiWomanWithHeadscarf": [
+ "womanWithHeadscarf": [
   "people and body",
   "person-role"
  ],
- "emojiPersonInTuxedo": [
+ "personInTuxedo": [
   "people and body",
   "person-role"
  ],
- "emojiManInTuxedo": [
+ "manInTuxedo": [
   "people and body",
   "person-role"
  ],
- "emojiWomanInTuxedo": [
+ "womanInTuxedo": [
   "people and body",
   "person-role"
  ],
- "emojiPersonWithVeil": [
+ "personWithVeil": [
   "people and body",
   "person-role"
  ],
- "emojiManWithVeil": [
+ "manWithVeil": [
   "people and body",
   "person-role"
  ],
- "emojiWomanWithVeil": [
+ "womanWithVeil": [
   "people and body",
   "person-role"
  ],
- "emojiPregnantWoman": [
+ "pregnantWoman": [
   "people and body",
   "person-role"
  ],
- "emojiPregnantMan": [
+ "pregnantMan": [
   "people and body",
   "person-role"
  ],
- "emojiPregnantPerson": [
+ "pregnantPerson": [
   "people and body",
   "person-role"
  ],
- "emojiBreastFeeding": [
+ "breastFeeding": [
   "people and body",
   "person-role"
  ],
- "emojiWomanFeedingBaby": [
+ "womanFeedingBaby": [
   "people and body",
   "person-role"
  ],
- "emojiManFeedingBaby": [
+ "manFeedingBaby": [
   "people and body",
   "person-role"
  ],
- "emojiPersonFeedingBaby": [
+ "personFeedingBaby": [
   "people and body",
   "person-role"
  ],
- "emojiBabyAngel": [
+ "babyAngel": [
   "people and body",
   "person-fantasy"
  ],
- "emojiSantaClaus": [
+ "santaClaus": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMrsClaus": [
+ "mrsClaus": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMxClaus": [
+ "mxClaus": [
   "people and body",
   "person-fantasy"
  ],
- "emojiSuperhero": [
+ "superhero": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManSuperhero": [
+ "manSuperhero": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanSuperhero": [
+ "womanSuperhero": [
   "people and body",
   "person-fantasy"
  ],
- "emojiSupervillain": [
+ "supervillain": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManSupervillain": [
+ "manSupervillain": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanSupervillain": [
+ "womanSupervillain": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMage": [
+ "mage": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManMage": [
+ "manMage": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanMage": [
+ "womanMage": [
   "people and body",
   "person-fantasy"
  ],
- "emojiFairy": [
+ "fairy": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManFairy": [
+ "manFairy": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanFairy": [
+ "womanFairy": [
   "people and body",
   "person-fantasy"
  ],
- "emojiVampire": [
+ "vampire": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManVampire": [
+ "manVampire": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanVampire": [
+ "womanVampire": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMerperson": [
+ "merperson": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMerman": [
+ "merman": [
   "people and body",
   "person-fantasy"
  ],
- "emojiMermaid": [
+ "mermaid": [
   "people and body",
   "person-fantasy"
  ],
- "emojiElf": [
+ "elf": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManElf": [
+ "manElf": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanElf": [
+ "womanElf": [
   "people and body",
   "person-fantasy"
  ],
- "emojiGenie": [
+ "genie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManGenie": [
+ "manGenie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanGenie": [
+ "womanGenie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiZombie": [
+ "zombie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiManZombie": [
+ "manZombie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiWomanZombie": [
+ "womanZombie": [
   "people and body",
   "person-fantasy"
  ],
- "emojiTroll": [
+ "troll": [
   "people and body",
   "person-fantasy"
  ],
- "emojiPersonGettingMassage": [
+ "personGettingMassage": [
   "people and body",
   "person-activity"
  ],
- "emojiManGettingMassage": [
+ "manGettingMassage": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanGettingMassage": [
+ "womanGettingMassage": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonGettingHaircut": [
+ "personGettingHaircut": [
   "people and body",
   "person-activity"
  ],
- "emojiManGettingHaircut": [
+ "manGettingHaircut": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanGettingHaircut": [
+ "womanGettingHaircut": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonWalking": [
+ "personWalking": [
   "people and body",
   "person-activity"
  ],
- "emojiManWalking": [
+ "manWalking": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanWalking": [
+ "womanWalking": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonStanding": [
+ "personStanding": [
   "people and body",
   "person-activity"
  ],
- "emojiManStanding": [
+ "manStanding": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanStanding": [
+ "womanStanding": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonKneeling": [
+ "personKneeling": [
   "people and body",
   "person-activity"
  ],
- "emojiManKneeling": [
+ "manKneeling": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanKneeling": [
+ "womanKneeling": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonWithWhiteCane": [
+ "personWithWhiteCane": [
   "people and body",
   "person-activity"
  ],
- "emojiManWithWhiteCane": [
+ "manWithWhiteCane": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanWithWhiteCane": [
+ "womanWithWhiteCane": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonInMotorizedWheelchair": [
+ "personInMotorizedWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiManInMotorizedWheelchair": [
+ "manInMotorizedWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanInMotorizedWheelchair": [
+ "womanInMotorizedWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonInManualWheelchair": [
+ "personInManualWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiManInManualWheelchair": [
+ "manInManualWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanInManualWheelchair": [
+ "womanInManualWheelchair": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonRunning": [
+ "personRunning": [
   "people and body",
   "person-activity"
  ],
- "emojiManRunning": [
+ "manRunning": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanRunning": [
+ "womanRunning": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanDancing": [
+ "womanDancing": [
   "people and body",
   "person-activity"
  ],
- "emojiManDancing": [
+ "manDancing": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonInSuitLevitating": [
+ "personInSuitLevitating": [
   "people and body",
   "person-activity"
  ],
- "emojiPeopleWithBunnyEars": [
+ "peopleWithBunnyEars": [
   "people and body",
   "person-activity"
  ],
- "emojiMenWithBunnyEars": [
+ "menWithBunnyEars": [
   "people and body",
   "person-activity"
  ],
- "emojiWomenWithBunnyEars": [
+ "womenWithBunnyEars": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonInSteamyRoom": [
+ "personInSteamyRoom": [
   "people and body",
   "person-activity"
  ],
- "emojiManInSteamyRoom": [
+ "manInSteamyRoom": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanInSteamyRoom": [
+ "womanInSteamyRoom": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonClimbing": [
+ "personClimbing": [
   "people and body",
   "person-activity"
  ],
- "emojiManClimbing": [
+ "manClimbing": [
   "people and body",
   "person-activity"
  ],
- "emojiWomanClimbing": [
+ "womanClimbing": [
   "people and body",
   "person-activity"
  ],
- "emojiPersonFencing": [
+ "personFencing": [
   "people and body",
   "person-sport"
  ],
- "emojiHorseRacing": [
+ "horseRacing": [
   "people and body",
   "person-sport"
  ],
- "emojiSkier": [
+ "skier": [
   "people and body",
   "person-sport"
  ],
- "emojiSnowboarder": [
+ "snowboarder": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonGolfing": [
+ "personGolfing": [
   "people and body",
   "person-sport"
  ],
- "emojiManGolfing": [
+ "manGolfing": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanGolfing": [
+ "womanGolfing": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonSurfing": [
+ "personSurfing": [
   "people and body",
   "person-sport"
  ],
- "emojiManSurfing": [
+ "manSurfing": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanSurfing": [
+ "womanSurfing": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonRowingBoat": [
+ "personRowingBoat": [
   "people and body",
   "person-sport"
  ],
- "emojiManRowingBoat": [
+ "manRowingBoat": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanRowingBoat": [
+ "womanRowingBoat": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonSwimming": [
+ "personSwimming": [
   "people and body",
   "person-sport"
  ],
- "emojiManSwimming": [
+ "manSwimming": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanSwimming": [
+ "womanSwimming": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonBouncingBall": [
+ "personBouncingBall": [
   "people and body",
   "person-sport"
  ],
- "emojiManBouncingBall": [
+ "manBouncingBall": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanBouncingBall": [
+ "womanBouncingBall": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonLiftingWeights": [
+ "personLiftingWeights": [
   "people and body",
   "person-sport"
  ],
- "emojiManLiftingWeights": [
+ "manLiftingWeights": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanLiftingWeights": [
+ "womanLiftingWeights": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonBiking": [
+ "personBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiManBiking": [
+ "manBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanBiking": [
+ "womanBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonMountainBiking": [
+ "personMountainBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiManMountainBiking": [
+ "manMountainBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanMountainBiking": [
+ "womanMountainBiking": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonCartwheeling": [
+ "personCartwheeling": [
   "people and body",
   "person-sport"
  ],
- "emojiManCartwheeling": [
+ "manCartwheeling": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanCartwheeling": [
+ "womanCartwheeling": [
   "people and body",
   "person-sport"
  ],
- "emojiPeopleWrestling": [
+ "peopleWrestling": [
   "people and body",
   "person-sport"
  ],
- "emojiMenWrestling": [
+ "menWrestling": [
   "people and body",
   "person-sport"
  ],
- "emojiWomenWrestling": [
+ "womenWrestling": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonPlayingWaterPolo": [
+ "personPlayingWaterPolo": [
   "people and body",
   "person-sport"
  ],
- "emojiManPlayingWaterPolo": [
+ "manPlayingWaterPolo": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanPlayingWaterPolo": [
+ "womanPlayingWaterPolo": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonPlayingHandball": [
+ "personPlayingHandball": [
   "people and body",
   "person-sport"
  ],
- "emojiManPlayingHandball": [
+ "manPlayingHandball": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanPlayingHandball": [
+ "womanPlayingHandball": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonJuggling": [
+ "personJuggling": [
   "people and body",
   "person-sport"
  ],
- "emojiManJuggling": [
+ "manJuggling": [
   "people and body",
   "person-sport"
  ],
- "emojiWomanJuggling": [
+ "womanJuggling": [
   "people and body",
   "person-sport"
  ],
- "emojiPersonInLotusPosition": [
+ "personInLotusPosition": [
   "people and body",
   "person-resting"
  ],
- "emojiManInLotusPosition": [
+ "manInLotusPosition": [
   "people and body",
   "person-resting"
  ],
- "emojiWomanInLotusPosition": [
+ "womanInLotusPosition": [
   "people and body",
   "person-resting"
  ],
- "emojiPersonTakingBath": [
+ "personTakingBath": [
   "people and body",
   "person-resting"
  ],
- "emojiPersonInBed": [
+ "personInBed": [
   "people and body",
   "person-resting"
  ],
- "emojiPeopleHoldingHands": [
+ "peopleHoldingHands": [
   "people and body",
   "family"
  ],
- "emojiWomenHoldingHands": [
+ "womenHoldingHands": [
   "people and body",
   "family"
  ],
- "emojiWomanAndManHoldingHands": [
+ "womanAndManHoldingHands": [
   "people and body",
   "family"
  ],
- "emojiMenHoldingHands": [
+ "menHoldingHands": [
   "people and body",
   "family"
  ],
- "emojiKiss": [
+ "kiss": [
   "people and body",
   "family"
  ],
- "emojiKissWomanMan": [
+ "kissWomanMan": [
   "people and body",
   "family"
  ],
- "emojiKissManMan": [
+ "kissManMan": [
   "people and body",
   "family"
  ],
- "emojiKissWomanWoman": [
+ "kissWomanWoman": [
   "people and body",
   "family"
  ],
- "emojiCoupleWithHeart": [
+ "coupleWithHeart": [
   "people and body",
   "family"
  ],
- "emojiCoupleWithHeartWomanMan": [
+ "coupleWithHeartWomanMan": [
   "people and body",
   "family"
  ],
- "emojiCoupleWithHeartManMan": [
+ "coupleWithHeartManMan": [
   "people and body",
   "family"
  ],
- "emojiCoupleWithHeartWomanWoman": [
+ "coupleWithHeartWomanWoman": [
   "people and body",
   "family"
  ],
- "emojiFamily": [
+ "family": [
   "people and body",
   "family"
  ],
- "emojiFamilyManWomanBoy": [
+ "familyManWomanBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManWomanGirl": [
+ "familyManWomanGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyManWomanGirlBoy": [
+ "familyManWomanGirlBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManWomanBoyBoy": [
+ "familyManWomanBoyBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManWomanGirlGirl": [
+ "familyManWomanGirlGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyManManBoy": [
+ "familyManManBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManManGirl": [
+ "familyManManGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyManManGirlBoy": [
+ "familyManManGirlBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManManBoyBoy": [
+ "familyManManBoyBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManManGirlGirl": [
+ "familyManManGirlGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanWomanBoy": [
+ "familyWomanWomanBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanWomanGirl": [
+ "familyWomanWomanGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanWomanGirlBoy": [
+ "familyWomanWomanGirlBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanWomanBoyBoy": [
+ "familyWomanWomanBoyBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanWomanGirlGirl": [
+ "familyWomanWomanGirlGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyManBoy": [
+ "familyManBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManBoyBoy": [
+ "familyManBoyBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManGirl": [
+ "familyManGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyManGirlBoy": [
+ "familyManGirlBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyManGirlGirl": [
+ "familyManGirlGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanBoy": [
+ "familyWomanBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanBoyBoy": [
+ "familyWomanBoyBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanGirl": [
+ "familyWomanGirl": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanGirlBoy": [
+ "familyWomanGirlBoy": [
   "people and body",
   "family"
  ],
- "emojiFamilyWomanGirlGirl": [
+ "familyWomanGirlGirl": [
   "people and body",
   "family"
  ],
- "emojiSpeakingHead": [
+ "speakingHead": [
   "people and body",
   "person-symbol"
  ],
- "emojiBustInSilhouette": [
+ "bustInSilhouette": [
   "people and body",
   "person-symbol"
  ],
- "emojiBustsInSilhouette": [
+ "bustsInSilhouette": [
   "people and body",
   "person-symbol"
  ],
- "emojiPeopleHugging": [
+ "peopleHugging": [
   "people and body",
   "person-symbol"
  ],
- "emojiFootprints": [
+ "footprints": [
   "people and body",
   "person-symbol"
  ],
- "emojiRedHair": [
+ "redHair": [
   "component",
   "hair-style"
  ],
- "emojiCurlyHair": [
+ "curlyHair": [
   "component",
   "hair-style"
  ],
- "emojiWhiteHair": [
+ "whiteHair": [
   "component",
   "hair-style"
  ],
- "emojiBald": [
+ "bald": [
   "component",
   "hair-style"
  ],
- "emojiMonkeyFace": [
+ "monkeyFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiMonkey": [
+ "monkey": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiGorilla": [
+ "gorilla": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiOrangutan": [
+ "orangutan": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiDogFace": [
+ "dogFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiDog": [
+ "dog": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiGuideDog": [
+ "guideDog": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiServiceDog": [
+ "serviceDog": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPoodle": [
+ "poodle": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiWolf": [
+ "wolf": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiFox": [
+ "fox": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRaccoon": [
+ "raccoon": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiCatFace": [
+ "catFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiCat": [
+ "cat": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBlackCat": [
+ "blackCat": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiLion": [
+ "lion": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiTigerFace": [
+ "tigerFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiTiger": [
+ "tiger": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiLeopard": [
+ "leopard": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiHorseFace": [
+ "horseFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiMoose": [
+ "moose": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiDonkey": [
+ "donkey": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiHorse": [
+ "horse": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiUnicorn": [
+ "unicorn": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiZebra": [
+ "zebra": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiDeer": [
+ "deer": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBison": [
+ "bison": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiCowFace": [
+ "cowFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiOx": [
+ "ox": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiWaterBuffalo": [
+ "waterBuffalo": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiCow": [
+ "cow": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPigFace": [
+ "pigFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPig": [
+ "pig": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBoar": [
+ "boar": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPigNose": [
+ "pigNose": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRam": [
+ "ram": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiEwe": [
+ "ewe": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiGoat": [
+ "goat": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiCamel": [
+ "camel": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiTwoHumpCamel": [
+ "twoHumpCamel": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiLlama": [
+ "llama": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiGiraffe": [
+ "giraffe": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiElephant": [
+ "elephant": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiMammoth": [
+ "mammoth": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRhinoceros": [
+ "rhinoceros": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiHippopotamus": [
+ "hippopotamus": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiMouseFace": [
+ "mouseFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiMouse": [
+ "mouse": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRat": [
+ "rat": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiHamster": [
+ "hamster": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRabbitFace": [
+ "rabbitFace": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiRabbit": [
+ "rabbit": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiChipmunk": [
+ "chipmunk": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBeaver": [
+ "beaver": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiHedgehog": [
+ "hedgehog": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBat": [
+ "bat": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBear": [
+ "bear": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPolarBear": [
+ "polarBear": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiKoala": [
+ "koala": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPanda": [
+ "panda": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiSloth": [
+ "sloth": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiOtter": [
+ "otter": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiSkunk": [
+ "skunk": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiKangaroo": [
+ "kangaroo": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiBadger": [
+ "badger": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiPawPrints": [
+ "pawPrints": [
   "animals and nature",
   "animal-mammal"
  ],
- "emojiTurkey": [
+ "turkey": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiChicken": [
+ "chicken": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiRooster": [
+ "rooster": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiHatchingChick": [
+ "hatchingChick": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiBabyChick": [
+ "babyChick": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiFrontFacingBabyChick": [
+ "frontFacingBabyChick": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiBird": [
+ "bird": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiPenguin": [
+ "penguin": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiDove": [
+ "dove": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiEagle": [
+ "eagle": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiDuck": [
+ "duck": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiSwan": [
+ "swan": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiOwl": [
+ "owl": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiDodo": [
+ "dodo": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiFeather": [
+ "feather": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiFlamingo": [
+ "flamingo": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiPeacock": [
+ "peacock": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiParrot": [
+ "parrot": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiWing": [
+ "wing": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiBlackBird": [
+ "blackBird": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiGoose": [
+ "goose": [
   "animals and nature",
   "animal-bird"
  ],
- "emojiFrog": [
+ "frog": [
   "animals and nature",
   "animal-amphibian"
  ],
- "emojiCrocodile": [
+ "crocodile": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiTurtle": [
+ "turtle": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiLizard": [
+ "lizard": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiSnake": [
+ "snake": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiDragonFace": [
+ "dragonFace": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiDragon": [
+ "dragon": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiSauropod": [
+ "sauropod": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiTRex": [
+ "tRex": [
   "animals and nature",
   "animal-reptile"
  ],
- "emojiSpoutingWhale": [
+ "spoutingWhale": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiWhale": [
+ "whale": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiDolphin": [
+ "dolphin": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiSeal": [
+ "seal": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiFish": [
+ "fish": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiTropicalFish": [
+ "tropicalFish": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiBlowfish": [
+ "blowfish": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiShark": [
+ "shark": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiOctopus": [
+ "octopus": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiSpiralShell": [
+ "spiralShell": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiCoral": [
+ "coral": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiJellyfish": [
+ "jellyfish": [
   "animals and nature",
   "animal-marine"
  ],
- "emojiSnail": [
+ "snail": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiButterfly": [
+ "butterfly": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiBug": [
+ "bug": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiAnt": [
+ "ant": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiHoneybee": [
+ "honeybee": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiBeetle": [
+ "beetle": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiLadyBeetle": [
+ "ladyBeetle": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiCricket": [
+ "cricket": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiCockroach": [
+ "cockroach": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiSpider": [
+ "spider": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiSpiderWeb": [
+ "spiderWeb": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiScorpion": [
+ "scorpion": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiMosquito": [
+ "mosquito": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiFly": [
+ "fly": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiWorm": [
+ "worm": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiMicrobe": [
+ "microbe": [
   "animals and nature",
   "animal-bug"
  ],
- "emojiBouquet": [
+ "bouquet": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiCherryBlossom": [
+ "cherryBlossom": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiWhiteFlower": [
+ "whiteFlower": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiLotus": [
+ "lotus": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiRosette": [
+ "rosette": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiRose": [
+ "rose": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiWiltedFlower": [
+ "wiltedFlower": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiHibiscus": [
+ "hibiscus": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiSunflower": [
+ "sunflower": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiBlossom": [
+ "blossom": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiTulip": [
+ "tulip": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiHyacinth": [
+ "hyacinth": [
   "animals and nature",
   "plant-flower"
  ],
- "emojiSeedling": [
+ "seedling": [
   "animals and nature",
   "plant-other"
  ],
- "emojiPottedPlant": [
+ "pottedPlant": [
   "animals and nature",
   "plant-other"
  ],
- "emojiEvergreenTree": [
+ "evergreenTree": [
   "animals and nature",
   "plant-other"
  ],
- "emojiDeciduousTree": [
+ "deciduousTree": [
   "animals and nature",
   "plant-other"
  ],
- "emojiPalmTree": [
+ "palmTree": [
   "animals and nature",
   "plant-other"
  ],
- "emojiCactus": [
+ "cactus": [
   "animals and nature",
   "plant-other"
  ],
- "emojiSheafOfRice": [
+ "sheafOfRice": [
   "animals and nature",
   "plant-other"
  ],
- "emojiHerb": [
+ "herb": [
   "animals and nature",
   "plant-other"
  ],
- "emojiShamrock": [
+ "shamrock": [
   "animals and nature",
   "plant-other"
  ],
- "emojiFourLeafClover": [
+ "fourLeafClover": [
   "animals and nature",
   "plant-other"
  ],
- "emojiMapleLeaf": [
+ "mapleLeaf": [
   "animals and nature",
   "plant-other"
  ],
- "emojiFallenLeaf": [
+ "fallenLeaf": [
   "animals and nature",
   "plant-other"
  ],
- "emojiLeafFlutteringInWind": [
+ "leafFlutteringInWind": [
   "animals and nature",
   "plant-other"
  ],
- "emojiEmptyNest": [
+ "emptyNest": [
   "animals and nature",
   "plant-other"
  ],
- "emojiNestWithEggs": [
+ "nestWithEggs": [
   "animals and nature",
   "plant-other"
  ],
- "emojiMushroom": [
+ "mushroom": [
   "animals and nature",
   "plant-other"
  ],
- "emojiGrapes": [
+ "grapes": [
   "food and drink",
   "food-fruit"
  ],
- "emojiMelon": [
+ "melon": [
   "food and drink",
   "food-fruit"
  ],
- "emojiWatermelon": [
+ "watermelon": [
   "food and drink",
   "food-fruit"
  ],
- "emojiTangerine": [
+ "tangerine": [
   "food and drink",
   "food-fruit"
  ],
- "emojiLemon": [
+ "lemon": [
   "food and drink",
   "food-fruit"
  ],
- "emojiBanana": [
+ "banana": [
   "food and drink",
   "food-fruit"
  ],
- "emojiPineapple": [
+ "pineapple": [
   "food and drink",
   "food-fruit"
  ],
- "emojiMango": [
+ "mango": [
   "food and drink",
   "food-fruit"
  ],
- "emojiRedApple": [
+ "redApple": [
   "food and drink",
   "food-fruit"
  ],
- "emojiGreenApple": [
+ "greenApple": [
   "food and drink",
   "food-fruit"
  ],
- "emojiPear": [
+ "pear": [
   "food and drink",
   "food-fruit"
  ],
- "emojiPeach": [
+ "peach": [
   "food and drink",
   "food-fruit"
  ],
- "emojiCherries": [
+ "cherries": [
   "food and drink",
   "food-fruit"
  ],
- "emojiStrawberry": [
+ "strawberry": [
   "food and drink",
   "food-fruit"
  ],
- "emojiBlueberries": [
+ "blueberries": [
   "food and drink",
   "food-fruit"
  ],
- "emojiKiwiFruit": [
+ "kiwiFruit": [
   "food and drink",
   "food-fruit"
  ],
- "emojiTomato": [
+ "tomato": [
   "food and drink",
   "food-fruit"
  ],
- "emojiOlive": [
+ "olive": [
   "food and drink",
   "food-fruit"
  ],
- "emojiCoconut": [
+ "coconut": [
   "food and drink",
   "food-fruit"
  ],
- "emojiAvocado": [
+ "avocado": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiEggplant": [
+ "eggplant": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiPotato": [
+ "potato": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiCarrot": [
+ "carrot": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiEarOfCorn": [
+ "earOfCorn": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiHotPepper": [
+ "hotPepper": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiBellPepper": [
+ "bellPepper": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiCucumber": [
+ "cucumber": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiLeafyGreen": [
+ "leafyGreen": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiBroccoli": [
+ "broccoli": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiGarlic": [
+ "garlic": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiOnion": [
+ "onion": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiPeanuts": [
+ "peanuts": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiBeans": [
+ "beans": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiChestnut": [
+ "chestnut": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiGingerRoot": [
+ "gingerRoot": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiPeaPod": [
+ "peaPod": [
   "food and drink",
   "food-vegetable"
  ],
- "emojiBread": [
+ "bread": [
   "food and drink",
   "food-prepared"
  ],
- "emojiCroissant": [
+ "croissant": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBaguetteBread": [
+ "baguetteBread": [
   "food and drink",
   "food-prepared"
  ],
- "emojiFlatbread": [
+ "flatbread": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPretzel": [
+ "pretzel": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBagel": [
+ "bagel": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPancakes": [
+ "pancakes": [
   "food and drink",
   "food-prepared"
  ],
- "emojiWaffle": [
+ "waffle": [
   "food and drink",
   "food-prepared"
  ],
- "emojiCheeseWedge": [
+ "cheeseWedge": [
   "food and drink",
   "food-prepared"
  ],
- "emojiMeatOnBone": [
+ "meatOnBone": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPoultryLeg": [
+ "poultryLeg": [
   "food and drink",
   "food-prepared"
  ],
- "emojiCutOfMeat": [
+ "cutOfMeat": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBacon": [
+ "bacon": [
   "food and drink",
   "food-prepared"
  ],
- "emojiHamburger": [
+ "hamburger": [
   "food and drink",
   "food-prepared"
  ],
- "emojiFrenchFries": [
+ "frenchFries": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPizza": [
+ "pizza": [
   "food and drink",
   "food-prepared"
  ],
- "emojiHotDog": [
+ "hotDog": [
   "food and drink",
   "food-prepared"
  ],
- "emojiSandwich": [
+ "sandwich": [
   "food and drink",
   "food-prepared"
  ],
- "emojiTaco": [
+ "taco": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBurrito": [
+ "burrito": [
   "food and drink",
   "food-prepared"
  ],
- "emojiTamale": [
+ "tamale": [
   "food and drink",
   "food-prepared"
  ],
- "emojiStuffedFlatbread": [
+ "stuffedFlatbread": [
   "food and drink",
   "food-prepared"
  ],
- "emojiFalafel": [
+ "falafel": [
   "food and drink",
   "food-prepared"
  ],
- "emojiEgg": [
+ "egg": [
   "food and drink",
   "food-prepared"
  ],
- "emojiCooking": [
+ "cooking": [
   "food and drink",
   "food-prepared"
  ],
- "emojiShallowPanOfFood": [
+ "shallowPanOfFood": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPotOfFood": [
+ "potOfFood": [
   "food and drink",
   "food-prepared"
  ],
- "emojiFondue": [
+ "fondue": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBowlWithSpoon": [
+ "bowlWithSpoon": [
   "food and drink",
   "food-prepared"
  ],
- "emojiGreenSalad": [
+ "greenSalad": [
   "food and drink",
   "food-prepared"
  ],
- "emojiPopcorn": [
+ "popcorn": [
   "food and drink",
   "food-prepared"
  ],
- "emojiButter": [
+ "butter": [
   "food and drink",
   "food-prepared"
  ],
- "emojiSalt": [
+ "salt": [
   "food and drink",
   "food-prepared"
  ],
- "emojiCannedFood": [
+ "cannedFood": [
   "food and drink",
   "food-prepared"
  ],
- "emojiBentoBox": [
+ "bentoBox": [
   "food and drink",
   "food-asian"
  ],
- "emojiRiceCracker": [
+ "riceCracker": [
   "food and drink",
   "food-asian"
  ],
- "emojiRiceBall": [
+ "riceBall": [
   "food and drink",
   "food-asian"
  ],
- "emojiCookedRice": [
+ "cookedRice": [
   "food and drink",
   "food-asian"
  ],
- "emojiCurryRice": [
+ "curryRice": [
   "food and drink",
   "food-asian"
  ],
- "emojiSteamingBowl": [
+ "steamingBowl": [
   "food and drink",
   "food-asian"
  ],
- "emojiSpaghetti": [
+ "spaghetti": [
   "food and drink",
   "food-asian"
  ],
- "emojiRoastedSweetPotato": [
+ "roastedSweetPotato": [
   "food and drink",
   "food-asian"
  ],
- "emojiOden": [
+ "oden": [
   "food and drink",
   "food-asian"
  ],
- "emojiSushi": [
+ "sushi": [
   "food and drink",
   "food-asian"
  ],
- "emojiFriedShrimp": [
+ "friedShrimp": [
   "food and drink",
   "food-asian"
  ],
- "emojiFishCakeWithSwirl": [
+ "fishCakeWithSwirl": [
   "food and drink",
   "food-asian"
  ],
- "emojiMoonCake": [
+ "moonCake": [
   "food and drink",
   "food-asian"
  ],
- "emojiDango": [
+ "dango": [
   "food and drink",
   "food-asian"
  ],
- "emojiDumpling": [
+ "dumpling": [
   "food and drink",
   "food-asian"
  ],
- "emojiFortuneCookie": [
+ "fortuneCookie": [
   "food and drink",
   "food-asian"
  ],
- "emojiTakeoutBox": [
+ "takeoutBox": [
   "food and drink",
   "food-asian"
  ],
- "emojiCrab": [
+ "crab": [
   "food and drink",
   "food-marine"
  ],
- "emojiLobster": [
+ "lobster": [
   "food and drink",
   "food-marine"
  ],
- "emojiShrimp": [
+ "shrimp": [
   "food and drink",
   "food-marine"
  ],
- "emojiSquid": [
+ "squid": [
   "food and drink",
   "food-marine"
  ],
- "emojiOyster": [
+ "oyster": [
   "food and drink",
   "food-marine"
  ],
- "emojiSoftIceCream": [
+ "softIceCream": [
   "food and drink",
   "food-sweet"
  ],
- "emojiShavedIce": [
+ "shavedIce": [
   "food and drink",
   "food-sweet"
  ],
- "emojiIceCream": [
+ "iceCream": [
   "food and drink",
   "food-sweet"
  ],
- "emojiDoughnut": [
+ "doughnut": [
   "food and drink",
   "food-sweet"
  ],
- "emojiCookie": [
+ "cookie": [
   "food and drink",
   "food-sweet"
  ],
- "emojiBirthdayCake": [
+ "birthdayCake": [
   "food and drink",
   "food-sweet"
  ],
- "emojiShortcake": [
+ "shortcake": [
   "food and drink",
   "food-sweet"
  ],
- "emojiCupcake": [
+ "cupcake": [
   "food and drink",
   "food-sweet"
  ],
- "emojiPie": [
+ "pie": [
   "food and drink",
   "food-sweet"
  ],
- "emojiChocolateBar": [
+ "chocolateBar": [
   "food and drink",
   "food-sweet"
  ],
- "emojiCandy": [
+ "candy": [
   "food and drink",
   "food-sweet"
  ],
- "emojiLollipop": [
+ "lollipop": [
   "food and drink",
   "food-sweet"
  ],
- "emojiCustard": [
+ "custard": [
   "food and drink",
   "food-sweet"
  ],
- "emojiHoneyPot": [
+ "honeyPot": [
   "food and drink",
   "food-sweet"
  ],
- "emojiBabyBottle": [
+ "babyBottle": [
   "food and drink",
   "drink"
  ],
- "emojiGlassOfMilk": [
+ "glassOfMilk": [
   "food and drink",
   "drink"
  ],
- "emojiHotBeverage": [
+ "hotBeverage": [
   "food and drink",
   "drink"
  ],
- "emojiTeapot": [
+ "teapot": [
   "food and drink",
   "drink"
  ],
- "emojiTeacupWithoutHandle": [
+ "teacupWithoutHandle": [
   "food and drink",
   "drink"
  ],
- "emojiSake": [
+ "sake": [
   "food and drink",
   "drink"
  ],
- "emojiBottleWithPoppingCork": [
+ "bottleWithPoppingCork": [
   "food and drink",
   "drink"
  ],
- "emojiWineGlass": [
+ "wineGlass": [
   "food and drink",
   "drink"
  ],
- "emojiCocktailGlass": [
+ "cocktailGlass": [
   "food and drink",
   "drink"
  ],
- "emojiTropicalDrink": [
+ "tropicalDrink": [
   "food and drink",
   "drink"
  ],
- "emojiBeerMug": [
+ "beerMug": [
   "food and drink",
   "drink"
  ],
- "emojiClinkingBeerMugs": [
+ "clinkingBeerMugs": [
   "food and drink",
   "drink"
  ],
- "emojiClinkingGlasses": [
+ "clinkingGlasses": [
   "food and drink",
   "drink"
  ],
- "emojiTumblerGlass": [
+ "tumblerGlass": [
   "food and drink",
   "drink"
  ],
- "emojiPouringLiquid": [
+ "pouringLiquid": [
   "food and drink",
   "drink"
  ],
- "emojiCupWithStraw": [
+ "cupWithStraw": [
   "food and drink",
   "drink"
  ],
- "emojiBubbleTea": [
+ "bubbleTea": [
   "food and drink",
   "drink"
  ],
- "emojiBeverageBox": [
+ "beverageBox": [
   "food and drink",
   "drink"
  ],
- "emojiMate": [
+ "mate": [
   "food and drink",
   "drink"
  ],
- "emojiIce": [
+ "ice": [
   "food and drink",
   "drink"
  ],
- "emojiChopsticks": [
+ "chopsticks": [
   "food and drink",
   "dishware"
  ],
- "emojiForkAndKnifeWithPlate": [
+ "forkAndKnifeWithPlate": [
   "food and drink",
   "dishware"
  ],
- "emojiForkAndKnife": [
+ "forkAndKnife": [
   "food and drink",
   "dishware"
  ],
- "emojiSpoon": [
+ "spoon": [
   "food and drink",
   "dishware"
  ],
- "emojiKitchenKnife": [
+ "kitchenKnife": [
   "food and drink",
   "dishware"
  ],
- "emojiJar": [
+ "jar": [
   "food and drink",
   "dishware"
  ],
- "emojiAmphora": [
+ "amphora": [
   "food and drink",
   "dishware"
  ],
- "emojiGlobeShowingEuropeAfrica": [
+ "globeShowingEuropeAfrica": [
   "travel and places",
   "place-map"
  ],
- "emojiGlobeShowingAmericas": [
+ "globeShowingAmericas": [
   "travel and places",
   "place-map"
  ],
- "emojiGlobeShowingAsiaAustralia": [
+ "globeShowingAsiaAustralia": [
   "travel and places",
   "place-map"
  ],
- "emojiGlobeWithMeridians": [
+ "globeWithMeridians": [
   "travel and places",
   "place-map"
  ],
- "emojiWorldMap": [
+ "worldMap": [
   "travel and places",
   "place-map"
  ],
- "emojiMapOfJapan": [
+ "mapOfJapan": [
   "travel and places",
   "place-map"
  ],
- "emojiCompass": [
+ "compass": [
   "travel and places",
   "place-map"
  ],
- "emojiSnowCappedMountain": [
+ "snowCappedMountain": [
   "travel and places",
   "place-geographic"
  ],
- "emojiMountain": [
+ "mountain": [
   "travel and places",
   "place-geographic"
  ],
- "emojiVolcano": [
+ "volcano": [
   "travel and places",
   "place-geographic"
  ],
- "emojiMountFuji": [
+ "mountFuji": [
   "travel and places",
   "place-geographic"
  ],
- "emojiCamping": [
+ "camping": [
   "travel and places",
   "place-geographic"
  ],
- "emojiBeachWithUmbrella": [
+ "beachWithUmbrella": [
   "travel and places",
   "place-geographic"
  ],
- "emojiDesert": [
+ "desert": [
   "travel and places",
   "place-geographic"
  ],
- "emojiDesertIsland": [
+ "desertIsland": [
   "travel and places",
   "place-geographic"
  ],
- "emojiNationalPark": [
+ "nationalPark": [
   "travel and places",
   "place-geographic"
  ],
- "emojiStadium": [
+ "stadium": [
   "travel and places",
   "place-building"
  ],
- "emojiClassicalBuilding": [
+ "classicalBuilding": [
   "travel and places",
   "place-building"
  ],
- "emojiBuildingConstruction": [
+ "buildingConstruction": [
   "travel and places",
   "place-building"
  ],
- "emojiBrick": [
+ "brick": [
   "travel and places",
   "place-building"
  ],
- "emojiRock": [
+ "rock": [
   "travel and places",
   "place-building"
  ],
- "emojiWood": [
+ "wood": [
   "travel and places",
   "place-building"
  ],
- "emojiHut": [
+ "hut": [
   "travel and places",
   "place-building"
  ],
- "emojiHouses": [
+ "houses": [
   "travel and places",
   "place-building"
  ],
- "emojiDerelictHouse": [
+ "derelictHouse": [
   "travel and places",
   "place-building"
  ],
- "emojiHouse": [
+ "house": [
   "travel and places",
   "place-building"
  ],
- "emojiHouseWithGarden": [
+ "houseWithGarden": [
   "travel and places",
   "place-building"
  ],
- "emojiOfficeBuilding": [
+ "officeBuilding": [
   "travel and places",
   "place-building"
  ],
- "emojiJapanesePostOffice": [
+ "japanesePostOffice": [
   "travel and places",
   "place-building"
  ],
- "emojiPostOffice": [
+ "postOffice": [
   "travel and places",
   "place-building"
  ],
- "emojiHospital": [
+ "hospital": [
   "travel and places",
   "place-building"
  ],
- "emojiBank": [
+ "bank": [
   "travel and places",
   "place-building"
  ],
- "emojiHotel": [
+ "hotel": [
   "travel and places",
   "place-building"
  ],
- "emojiLoveHotel": [
+ "loveHotel": [
   "travel and places",
   "place-building"
  ],
- "emojiConvenienceStore": [
+ "convenienceStore": [
   "travel and places",
   "place-building"
  ],
- "emojiSchool": [
+ "school": [
   "travel and places",
   "place-building"
  ],
- "emojiDepartmentStore": [
+ "departmentStore": [
   "travel and places",
   "place-building"
  ],
- "emojiFactory": [
+ "factory": [
   "travel and places",
   "place-building"
  ],
- "emojiJapaneseCastle": [
+ "japaneseCastle": [
   "travel and places",
   "place-building"
  ],
- "emojiCastle": [
+ "castle": [
   "travel and places",
   "place-building"
  ],
- "emojiWedding": [
+ "wedding": [
   "travel and places",
   "place-building"
  ],
- "emojiTokyoTower": [
+ "tokyoTower": [
   "travel and places",
   "place-building"
  ],
- "emojiStatueOfLiberty": [
+ "statueOfLiberty": [
   "travel and places",
   "place-building"
  ],
- "emojiChurch": [
+ "church": [
   "travel and places",
   "place-religious"
  ],
- "emojiMosque": [
+ "mosque": [
   "travel and places",
   "place-religious"
  ],
- "emojiHinduTemple": [
+ "hinduTemple": [
   "travel and places",
   "place-religious"
  ],
- "emojiSynagogue": [
+ "synagogue": [
   "travel and places",
   "place-religious"
  ],
- "emojiShintoShrine": [
+ "shintoShrine": [
   "travel and places",
   "place-religious"
  ],
- "emojiKaaba": [
+ "kaaba": [
   "travel and places",
   "place-religious"
  ],
- "emojiFountain": [
+ "fountain": [
   "travel and places",
   "place-other"
  ],
- "emojiTent": [
+ "tent": [
   "travel and places",
   "place-other"
  ],
- "emojiFoggy": [
+ "foggy": [
   "travel and places",
   "place-other"
  ],
- "emojiNightWithStars": [
+ "nightWithStars": [
   "travel and places",
   "place-other"
  ],
- "emojiCityscape": [
+ "cityscape": [
   "travel and places",
   "place-other"
  ],
- "emojiSunriseOverMountains": [
+ "sunriseOverMountains": [
   "travel and places",
   "place-other"
  ],
- "emojiSunrise": [
+ "sunrise": [
   "travel and places",
   "place-other"
  ],
- "emojiCityscapeAtDusk": [
+ "cityscapeAtDusk": [
   "travel and places",
   "place-other"
  ],
- "emojiSunset": [
+ "sunset": [
   "travel and places",
   "place-other"
  ],
- "emojiBridgeAtNight": [
+ "bridgeAtNight": [
   "travel and places",
   "place-other"
  ],
- "emojiHotSprings": [
+ "hotSprings": [
   "travel and places",
   "place-other"
  ],
- "emojiCarouselHorse": [
+ "carouselHorse": [
   "travel and places",
   "place-other"
  ],
- "emojiPlaygroundSlide": [
+ "playgroundSlide": [
   "travel and places",
   "place-other"
  ],
- "emojiFerrisWheel": [
+ "ferrisWheel": [
   "travel and places",
   "place-other"
  ],
- "emojiRollerCoaster": [
+ "rollerCoaster": [
   "travel and places",
   "place-other"
  ],
- "emojiBarberPole": [
+ "barberPole": [
   "travel and places",
   "place-other"
  ],
- "emojiCircusTent": [
+ "circusTent": [
   "travel and places",
   "place-other"
  ],
- "emojiLocomotive": [
+ "locomotive": [
   "travel and places",
   "transport-ground"
  ],
- "emojiRailwayCar": [
+ "railwayCar": [
   "travel and places",
   "transport-ground"
  ],
- "emojiHighSpeedTrain": [
+ "highSpeedTrain": [
   "travel and places",
   "transport-ground"
  ],
- "emojiBulletTrain": [
+ "bulletTrain": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTrain": [
+ "train": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMetro": [
+ "metro": [
   "travel and places",
   "transport-ground"
  ],
- "emojiLightRail": [
+ "lightRail": [
   "travel and places",
   "transport-ground"
  ],
- "emojiStation": [
+ "station": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTram": [
+ "tram": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMonorail": [
+ "monorail": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMountainRailway": [
+ "mountainRailway": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTramCar": [
+ "tramCar": [
   "travel and places",
   "transport-ground"
  ],
- "emojiBus": [
+ "bus": [
   "travel and places",
   "transport-ground"
  ],
- "emojiOncomingBus": [
+ "oncomingBus": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTrolleybus": [
+ "trolleybus": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMinibus": [
+ "minibus": [
   "travel and places",
   "transport-ground"
  ],
- "emojiAmbulance": [
+ "ambulance": [
   "travel and places",
   "transport-ground"
  ],
- "emojiFireEngine": [
+ "fireEngine": [
   "travel and places",
   "transport-ground"
  ],
- "emojiPoliceCar": [
+ "policeCar": [
   "travel and places",
   "transport-ground"
  ],
- "emojiOncomingPoliceCar": [
+ "oncomingPoliceCar": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTaxi": [
+ "taxi": [
   "travel and places",
   "transport-ground"
  ],
- "emojiOncomingTaxi": [
+ "oncomingTaxi": [
   "travel and places",
   "transport-ground"
  ],
- "emojiAutomobile": [
+ "automobile": [
   "travel and places",
   "transport-ground"
  ],
- "emojiOncomingAutomobile": [
+ "oncomingAutomobile": [
   "travel and places",
   "transport-ground"
  ],
- "emojiSportUtilityVehicle": [
+ "sportUtilityVehicle": [
   "travel and places",
   "transport-ground"
  ],
- "emojiPickupTruck": [
+ "pickupTruck": [
   "travel and places",
   "transport-ground"
  ],
- "emojiDeliveryTruck": [
+ "deliveryTruck": [
   "travel and places",
   "transport-ground"
  ],
- "emojiArticulatedLorry": [
+ "articulatedLorry": [
   "travel and places",
   "transport-ground"
  ],
- "emojiTractor": [
+ "tractor": [
   "travel and places",
   "transport-ground"
  ],
- "emojiRacingCar": [
+ "racingCar": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMotorcycle": [
+ "motorcycle": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMotorScooter": [
+ "motorScooter": [
   "travel and places",
   "transport-ground"
  ],
- "emojiManualWheelchair": [
+ "manualWheelchair": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMotorizedWheelchair": [
+ "motorizedWheelchair": [
   "travel and places",
   "transport-ground"
  ],
- "emojiAutoRickshaw": [
+ "autoRickshaw": [
   "travel and places",
   "transport-ground"
  ],
- "emojiBicycle": [
+ "bicycle": [
   "travel and places",
   "transport-ground"
  ],
- "emojiKickScooter": [
+ "kickScooter": [
   "travel and places",
   "transport-ground"
  ],
- "emojiSkateboard": [
+ "skateboard": [
   "travel and places",
   "transport-ground"
  ],
- "emojiRollerSkate": [
+ "rollerSkate": [
   "travel and places",
   "transport-ground"
  ],
- "emojiBusStop": [
+ "busStop": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMotorway": [
+ "motorway": [
   "travel and places",
   "transport-ground"
  ],
- "emojiRailwayTrack": [
+ "railwayTrack": [
   "travel and places",
   "transport-ground"
  ],
- "emojiOilDrum": [
+ "oilDrum": [
   "travel and places",
   "transport-ground"
  ],
- "emojiFuelPump": [
+ "fuelPump": [
   "travel and places",
   "transport-ground"
  ],
- "emojiWheel": [
+ "wheel": [
   "travel and places",
   "transport-ground"
  ],
- "emojiPoliceCarLight": [
+ "policeCarLight": [
   "travel and places",
   "transport-ground"
  ],
- "emojiHorizontalTrafficLight": [
+ "horizontalTrafficLight": [
   "travel and places",
   "transport-ground"
  ],
- "emojiVerticalTrafficLight": [
+ "verticalTrafficLight": [
   "travel and places",
   "transport-ground"
  ],
- "emojiStopSign": [
+ "stopSign": [
   "travel and places",
   "transport-ground"
  ],
- "emojiConstruction": [
+ "construction": [
   "travel and places",
   "transport-ground"
  ],
- "emojiAnchor": [
+ "anchor": [
   "travel and places",
   "transport-ground"
  ],
- "emojiRingBuoy": [
+ "ringBuoy": [
   "travel and places",
   "transport-ground"
  ],
- "emojiSailboat": [
+ "sailboat": [
   "travel and places",
   "transport-ground"
  ],
- "emojiCanoe": [
+ "canoe": [
   "travel and places",
   "transport-ground"
  ],
- "emojiSpeedboat": [
+ "speedboat": [
   "travel and places",
   "transport-ground"
  ],
- "emojiPassengerShip": [
+ "passengerShip": [
   "travel and places",
   "transport-ground"
  ],
- "emojiFerry": [
+ "ferry": [
   "travel and places",
   "transport-ground"
  ],
- "emojiMotorBoat": [
+ "motorBoat": [
   "travel and places",
   "transport-ground"
  ],
- "emojiShip": [
+ "ship": [
   "travel and places",
   "transport-ground"
  ],
- "emojiAirplane": [
+ "airplane": [
   "travel and places",
   "transport-air"
  ],
- "emojiSmallAirplane": [
+ "smallAirplane": [
   "travel and places",
   "transport-air"
  ],
- "emojiAirplaneDeparture": [
+ "airplaneDeparture": [
   "travel and places",
   "transport-air"
  ],
- "emojiAirplaneArrival": [
+ "airplaneArrival": [
   "travel and places",
   "transport-air"
  ],
- "emojiParachute": [
+ "parachute": [
   "travel and places",
   "transport-air"
  ],
- "emojiSeat": [
+ "seat": [
   "travel and places",
   "transport-air"
  ],
- "emojiHelicopter": [
+ "helicopter": [
   "travel and places",
   "transport-air"
  ],
- "emojiSuspensionRailway": [
+ "suspensionRailway": [
   "travel and places",
   "transport-air"
  ],
- "emojiMountainCableway": [
+ "mountainCableway": [
   "travel and places",
   "transport-air"
  ],
- "emojiAerialTramway": [
+ "aerialTramway": [
   "travel and places",
   "transport-air"
  ],
- "emojiSatellite": [
+ "satellite": [
   "travel and places",
   "transport-air"
  ],
- "emojiRocket": [
+ "rocket": [
   "travel and places",
   "transport-air"
  ],
- "emojiFlyingSaucer": [
+ "flyingSaucer": [
   "travel and places",
   "transport-air"
  ],
- "emojiBellhopBell": [
+ "bellhopBell": [
   "travel and places",
   "hotel"
  ],
- "emojiLuggage": [
+ "luggage": [
   "travel and places",
   "hotel"
  ],
- "emojiHourglassDone": [
+ "hourglassDone": [
   "travel and places",
   "time"
  ],
- "emojiHourglassNotDone": [
+ "hourglassNotDone": [
   "travel and places",
   "time"
  ],
- "emojiWatch": [
+ "watch": [
   "travel and places",
   "time"
  ],
- "emojiAlarmClock": [
+ "alarmClock": [
   "travel and places",
   "time"
  ],
- "emojiStopwatch": [
+ "stopwatch": [
   "travel and places",
   "time"
  ],
- "emojiTimerClock": [
+ "timerClock": [
   "travel and places",
   "time"
  ],
- "emojiMantelpieceClock": [
+ "mantelpieceClock": [
   "travel and places",
   "time"
  ],
- "emojiTwelveOclock": [
+ "twelveOclock": [
   "travel and places",
   "time"
  ],
- "emojiTwelveThirty": [
+ "twelveThirty": [
   "travel and places",
   "time"
  ],
- "emojiOneOclock": [
+ "oneOclock": [
   "travel and places",
   "time"
  ],
- "emojiOneThirty": [
+ "oneThirty": [
   "travel and places",
   "time"
  ],
- "emojiTwoOclock": [
+ "twoOclock": [
   "travel and places",
   "time"
  ],
- "emojiTwoThirty": [
+ "twoThirty": [
   "travel and places",
   "time"
  ],
- "emojiThreeOclock": [
+ "threeOclock": [
   "travel and places",
   "time"
  ],
- "emojiThreeThirty": [
+ "threeThirty": [
   "travel and places",
   "time"
  ],
- "emojiFourOclock": [
+ "fourOclock": [
   "travel and places",
   "time"
  ],
- "emojiFourThirty": [
+ "fourThirty": [
   "travel and places",
   "time"
  ],
- "emojiFiveOclock": [
+ "fiveOclock": [
   "travel and places",
   "time"
  ],
- "emojiFiveThirty": [
+ "fiveThirty": [
   "travel and places",
   "time"
  ],
- "emojiSixOclock": [
+ "sixOclock": [
   "travel and places",
   "time"
  ],
- "emojiSixThirty": [
+ "sixThirty": [
   "travel and places",
   "time"
  ],
- "emojiSevenOclock": [
+ "sevenOclock": [
   "travel and places",
   "time"
  ],
- "emojiSevenThirty": [
+ "sevenThirty": [
   "travel and places",
   "time"
  ],
- "emojiEightOclock": [
+ "eightOclock": [
   "travel and places",
   "time"
  ],
- "emojiEightThirty": [
+ "eightThirty": [
   "travel and places",
   "time"
  ],
- "emojiNineOclock": [
+ "nineOclock": [
   "travel and places",
   "time"
  ],
- "emojiNineThirty": [
+ "nineThirty": [
   "travel and places",
   "time"
  ],
- "emojiTenOclock": [
+ "tenOclock": [
   "travel and places",
   "time"
  ],
- "emojiTenThirty": [
+ "tenThirty": [
   "travel and places",
   "time"
  ],
- "emojiElevenOclock": [
+ "elevenOclock": [
   "travel and places",
   "time"
  ],
- "emojiElevenThirty": [
+ "elevenThirty": [
   "travel and places",
   "time"
  ],
- "emojiCLDRShortName": [
+ "cLDRShortName": [
   "travel and places",
   "sky and weather"
  ],
- "emojiNewMoon": [
+ "newMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWaxingCrescentMoon": [
+ "waxingCrescentMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFirstQuarterMoon": [
+ "firstQuarterMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWaxingGibbousMoon": [
+ "waxingGibbousMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFullMoon": [
+ "fullMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWaningGibbousMoon": [
+ "waningGibbousMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiLastQuarterMoon": [
+ "lastQuarterMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWaningCrescentMoon": [
+ "waningCrescentMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCrescentMoon": [
+ "crescentMoon": [
   "travel and places",
   "sky and weather"
  ],
- "emojiNewMoonFace": [
+ "newMoonFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFirstQuarterMoonFace": [
+ "firstQuarterMoonFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiLastQuarterMoonFace": [
+ "lastQuarterMoonFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiThermometer": [
+ "thermometer": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSun": [
+ "sun": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFullMoonFace": [
+ "fullMoonFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSunWithFace": [
+ "sunWithFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiRingedPlanet": [
+ "ringedPlanet": [
   "travel and places",
   "sky and weather"
  ],
- "emojiStar": [
+ "star": [
   "travel and places",
   "sky and weather"
  ],
- "emojiGlowingStar": [
+ "glowingStar": [
   "travel and places",
   "sky and weather"
  ],
- "emojiShootingStar": [
+ "shootingStar": [
   "travel and places",
   "sky and weather"
  ],
- "emojiMilkyWay": [
+ "milkyWay": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCloud": [
+ "cloud": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSunBehindCloud": [
+ "sunBehindCloud": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCloudWithLightningAndRain": [
+ "cloudWithLightningAndRain": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSunBehindSmallCloud": [
+ "sunBehindSmallCloud": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSunBehindLargeCloud": [
+ "sunBehindLargeCloud": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSunBehindRainCloud": [
+ "sunBehindRainCloud": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCloudWithRain": [
+ "cloudWithRain": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCloudWithSnow": [
+ "cloudWithSnow": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCloudWithLightning": [
+ "cloudWithLightning": [
   "travel and places",
   "sky and weather"
  ],
- "emojiTornado": [
+ "tornado": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFog": [
+ "fog": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWindFace": [
+ "windFace": [
   "travel and places",
   "sky and weather"
  ],
- "emojiCyclone": [
+ "cyclone": [
   "travel and places",
   "sky and weather"
  ],
- "emojiRainbow": [
+ "rainbow": [
   "travel and places",
   "sky and weather"
  ],
- "emojiClosedUmbrella": [
+ "closedUmbrella": [
   "travel and places",
   "sky and weather"
  ],
- "emojiUmbrella": [
+ "umbrella": [
   "travel and places",
   "sky and weather"
  ],
- "emojiUmbrellaWithRainDrops": [
+ "umbrellaWithRainDrops": [
   "travel and places",
   "sky and weather"
  ],
- "emojiUmbrellaOnGround": [
+ "umbrellaOnGround": [
   "travel and places",
   "sky and weather"
  ],
- "emojiHighVoltage": [
+ "highVoltage": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSnowflake": [
+ "snowflake": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSnowman": [
+ "snowman": [
   "travel and places",
   "sky and weather"
  ],
- "emojiSnowmanWithoutSnow": [
+ "snowmanWithoutSnow": [
   "travel and places",
   "sky and weather"
  ],
- "emojiComet": [
+ "comet": [
   "travel and places",
   "sky and weather"
  ],
- "emojiFire": [
+ "fire": [
   "travel and places",
   "sky and weather"
  ],
- "emojiDroplet": [
+ "droplet": [
   "travel and places",
   "sky and weather"
  ],
- "emojiWaterWave": [
+ "waterWave": [
   "travel and places",
   "sky and weather"
  ],
- "emojiJackOLantern": [
+ "jackOLantern": [
   "activities",
   "event"
  ],
- "emojiChristmasTree": [
+ "christmasTree": [
   "activities",
   "event"
  ],
- "emojiFireworks": [
+ "fireworks": [
   "activities",
   "event"
  ],
- "emojiSparkler": [
+ "sparkler": [
   "activities",
   "event"
  ],
- "emojiFirecracker": [
+ "firecracker": [
   "activities",
   "event"
  ],
- "emojiSparkles": [
+ "sparkles": [
   "activities",
   "event"
  ],
- "emojiBalloon": [
+ "balloon": [
   "activities",
   "event"
  ],
- "emojiPartyPopper": [
+ "partyPopper": [
   "activities",
   "event"
  ],
- "emojiConfettiBall": [
+ "confettiBall": [
   "activities",
   "event"
  ],
- "emojiTanabataTree": [
+ "tanabataTree": [
   "activities",
   "event"
  ],
- "emojiPineDecoration": [
+ "pineDecoration": [
   "activities",
   "event"
  ],
- "emojiJapaneseDolls": [
+ "japaneseDolls": [
   "activities",
   "event"
  ],
- "emojiCarpStreamer": [
+ "carpStreamer": [
   "activities",
   "event"
  ],
- "emojiWindChime": [
+ "windChime": [
   "activities",
   "event"
  ],
- "emojiMoonViewingCeremony": [
+ "moonViewingCeremony": [
   "activities",
   "event"
  ],
- "emojiRedEnvelope": [
+ "redEnvelope": [
   "activities",
   "event"
  ],
- "emojiRibbon": [
+ "ribbon": [
   "activities",
   "event"
  ],
- "emojiWrappedGift": [
+ "wrappedGift": [
   "activities",
   "event"
  ],
- "emojiReminderRibbon": [
+ "reminderRibbon": [
   "activities",
   "event"
  ],
- "emojiAdmissionTickets": [
+ "admissionTickets": [
   "activities",
   "event"
  ],
- "emojiTicket": [
+ "ticket": [
   "activities",
   "event"
  ],
- "emojiMilitaryMedal": [
+ "militaryMedal": [
   "activities",
   "award-medal"
  ],
- "emojiTrophy": [
+ "trophy": [
   "activities",
   "award-medal"
  ],
- "emojiSportsMedal": [
+ "sportsMedal": [
   "activities",
   "award-medal"
  ],
- "emoji1stPlaceMedal": [
+ "1stPlaceMedal": [
   "activities",
   "award-medal"
  ],
- "emoji2ndPlaceMedal": [
+ "2ndPlaceMedal": [
   "activities",
   "award-medal"
  ],
- "emoji3rdPlaceMedal": [
+ "3rdPlaceMedal": [
   "activities",
   "award-medal"
  ],
- "emojiSoccerBall": [
+ "soccerBall": [
   "activities",
   "sport"
  ],
- "emojiBaseball": [
+ "baseball": [
   "activities",
   "sport"
  ],
- "emojiSoftball": [
+ "softball": [
   "activities",
   "sport"
  ],
- "emojiBasketball": [
+ "basketball": [
   "activities",
   "sport"
  ],
- "emojiVolleyball": [
+ "volleyball": [
   "activities",
   "sport"
  ],
- "emojiAmericanFootball": [
+ "americanFootball": [
   "activities",
   "sport"
  ],
- "emojiRugbyFootball": [
+ "rugbyFootball": [
   "activities",
   "sport"
  ],
- "emojiTennis": [
+ "tennis": [
   "activities",
   "sport"
  ],
- "emojiFlyingDisc": [
+ "flyingDisc": [
   "activities",
   "sport"
  ],
- "emojiBowling": [
+ "bowling": [
   "activities",
   "sport"
  ],
- "emojiCricketGame": [
+ "cricketGame": [
   "activities",
   "sport"
  ],
- "emojiFieldHockey": [
+ "fieldHockey": [
   "activities",
   "sport"
  ],
- "emojiIceHockey": [
+ "iceHockey": [
   "activities",
   "sport"
  ],
- "emojiLacrosse": [
+ "lacrosse": [
   "activities",
   "sport"
  ],
- "emojiPingPong": [
+ "pingPong": [
   "activities",
   "sport"
  ],
- "emojiBadminton": [
+ "badminton": [
   "activities",
   "sport"
  ],
- "emojiBoxingGlove": [
+ "boxingGlove": [
   "activities",
   "sport"
  ],
- "emojiMartialArtsUniform": [
+ "martialArtsUniform": [
   "activities",
   "sport"
  ],
- "emojiGoalNet": [
+ "goalNet": [
   "activities",
   "sport"
  ],
- "emojiFlagInHole": [
+ "flagInHole": [
   "activities",
   "sport"
  ],
- "emojiIceSkate": [
+ "iceSkate": [
   "activities",
   "sport"
  ],
- "emojiFishingPole": [
+ "fishingPole": [
   "activities",
   "sport"
  ],
- "emojiDivingMask": [
+ "divingMask": [
   "activities",
   "sport"
  ],
- "emojiRunningShirt": [
+ "runningShirt": [
   "activities",
   "sport"
  ],
- "emojiSkis": [
+ "skis": [
   "activities",
   "sport"
  ],
- "emojiSled": [
+ "sled": [
   "activities",
   "sport"
  ],
- "emojiCurlingStone": [
+ "curlingStone": [
   "activities",
   "sport"
  ],
- "emojiBullseye": [
+ "bullseye": [
   "activities",
   "game"
  ],
- "emojiYoYo": [
+ "yoYo": [
   "activities",
   "game"
  ],
- "emojiKite": [
+ "kite": [
   "activities",
   "game"
  ],
- "emojiWaterPistol": [
+ "waterPistol": [
   "activities",
   "game"
  ],
- "emojiPool8Ball": [
+ "pool8Ball": [
   "activities",
   "game"
  ],
- "emojiCrystalBall": [
+ "crystalBall": [
   "activities",
   "game"
  ],
- "emojiMagicWand": [
+ "magicWand": [
   "activities",
   "game"
  ],
- "emojiVideoGame": [
+ "videoGame": [
   "activities",
   "game"
  ],
- "emojiJoystick": [
+ "joystick": [
   "activities",
   "game"
  ],
- "emojiSlotMachine": [
+ "slotMachine": [
   "activities",
   "game"
  ],
- "emojiGameDie": [
+ "gameDie": [
   "activities",
   "game"
  ],
- "emojiPuzzlePiece": [
+ "puzzlePiece": [
   "activities",
   "game"
  ],
- "emojiTeddyBear": [
+ "teddyBear": [
   "activities",
   "game"
  ],
- "emojiPinata": [
+ "pinata": [
   "activities",
   "game"
  ],
- "emojiMirrorBall": [
+ "mirrorBall": [
   "activities",
   "game"
  ],
- "emojiNestingDolls": [
+ "nestingDolls": [
   "activities",
   "game"
  ],
- "emojiSpadeSuit": [
+ "spadeSuit": [
   "activities",
   "game"
  ],
- "emojiHeartSuit": [
+ "heartSuit": [
   "activities",
   "game"
  ],
- "emojiDiamondSuit": [
+ "diamondSuit": [
   "activities",
   "game"
  ],
- "emojiClubSuit": [
+ "clubSuit": [
   "activities",
   "game"
  ],
- "emojiChessPawn": [
+ "chessPawn": [
   "activities",
   "game"
  ],
- "emojiJoker": [
+ "joker": [
   "activities",
   "game"
  ],
- "emojiMahjongRedDragon": [
+ "mahjongRedDragon": [
   "activities",
   "game"
  ],
- "emojiFlowerPlayingCards": [
+ "flowerPlayingCards": [
   "activities",
   "game"
  ],
- "emojiPerformingArts": [
+ "performingArts": [
   "activities",
   "arts and crafts"
  ],
- "emojiFramedPicture": [
+ "framedPicture": [
   "activities",
   "arts and crafts"
  ],
- "emojiArtistPalette": [
+ "artistPalette": [
   "activities",
   "arts and crafts"
  ],
- "emojiThread": [
+ "thread": [
   "activities",
   "arts and crafts"
  ],
- "emojiSewingNeedle": [
+ "sewingNeedle": [
   "activities",
   "arts and crafts"
  ],
- "emojiYarn": [
+ "yarn": [
   "activities",
   "arts and crafts"
  ],
- "emojiKnot": [
+ "knot": [
   "activities",
   "arts and crafts"
  ],
- "emojiGlasses": [
+ "glasses": [
   "objects",
   "clothing"
  ],
- "emojiSunglasses": [
+ "sunglasses": [
   "objects",
   "clothing"
  ],
- "emojiGoggles": [
+ "goggles": [
   "objects",
   "clothing"
  ],
- "emojiLabCoat": [
+ "labCoat": [
   "objects",
   "clothing"
  ],
- "emojiSafetyVest": [
+ "safetyVest": [
   "objects",
   "clothing"
  ],
- "emojiNecktie": [
+ "necktie": [
   "objects",
   "clothing"
  ],
- "emojiTShirt": [
+ "tShirt": [
   "objects",
   "clothing"
  ],
- "emojiJeans": [
+ "jeans": [
   "objects",
   "clothing"
  ],
- "emojiScarf": [
+ "scarf": [
   "objects",
   "clothing"
  ],
- "emojiGloves": [
+ "gloves": [
   "objects",
   "clothing"
  ],
- "emojiCoat": [
+ "coat": [
   "objects",
   "clothing"
  ],
- "emojiSocks": [
+ "socks": [
   "objects",
   "clothing"
  ],
- "emojiDress": [
+ "dress": [
   "objects",
   "clothing"
  ],
- "emojiKimono": [
+ "kimono": [
   "objects",
   "clothing"
  ],
- "emojiSari": [
+ "sari": [
   "objects",
   "clothing"
  ],
- "emojiOnePieceSwimsuit": [
+ "onePieceSwimsuit": [
   "objects",
   "clothing"
  ],
- "emojiBriefs": [
+ "briefs": [
   "objects",
   "clothing"
  ],
- "emojiShorts": [
+ "shorts": [
   "objects",
   "clothing"
  ],
- "emojiBikini": [
+ "bikini": [
   "objects",
   "clothing"
  ],
- "emojiWomansClothes": [
+ "womansClothes": [
   "objects",
   "clothing"
  ],
- "emojiFoldingHandFan": [
+ "foldingHandFan": [
   "objects",
   "clothing"
  ],
- "emojiPurse": [
+ "purse": [
   "objects",
   "clothing"
  ],
- "emojiHandbag": [
+ "handbag": [
   "objects",
   "clothing"
  ],
- "emojiClutchBag": [
+ "clutchBag": [
   "objects",
   "clothing"
  ],
- "emojiShoppingBags": [
+ "shoppingBags": [
   "objects",
   "clothing"
  ],
- "emojiBackpack": [
+ "backpack": [
   "objects",
   "clothing"
  ],
- "emojiThongSandal": [
+ "thongSandal": [
   "objects",
   "clothing"
  ],
- "emojiMansShoe": [
+ "mansShoe": [
   "objects",
   "clothing"
  ],
- "emojiRunningShoe": [
+ "runningShoe": [
   "objects",
   "clothing"
  ],
- "emojiHikingBoot": [
+ "hikingBoot": [
   "objects",
   "clothing"
  ],
- "emojiFlatShoe": [
+ "flatShoe": [
   "objects",
   "clothing"
  ],
- "emojiHighHeeledShoe": [
+ "highHeeledShoe": [
   "objects",
   "clothing"
  ],
- "emojiWomansSandal": [
+ "womansSandal": [
   "objects",
   "clothing"
  ],
- "emojiBalletShoes": [
+ "balletShoes": [
   "objects",
   "clothing"
  ],
- "emojiWomansBoot": [
+ "womansBoot": [
   "objects",
   "clothing"
  ],
- "emojiHairPick": [
+ "hairPick": [
   "objects",
   "clothing"
  ],
- "emojiCrown": [
+ "crown": [
   "objects",
   "clothing"
  ],
- "emojiWomansHat": [
+ "womansHat": [
   "objects",
   "clothing"
  ],
- "emojiTopHat": [
+ "topHat": [
   "objects",
   "clothing"
  ],
- "emojiGraduationCap": [
+ "graduationCap": [
   "objects",
   "clothing"
  ],
- "emojiBilledCap": [
+ "billedCap": [
   "objects",
   "clothing"
  ],
- "emojiMilitaryHelmet": [
+ "militaryHelmet": [
   "objects",
   "clothing"
  ],
- "emojiRescueWorkersHelmet": [
+ "rescueWorkersHelmet": [
   "objects",
   "clothing"
  ],
- "emojiPrayerBeads": [
+ "prayerBeads": [
   "objects",
   "clothing"
  ],
- "emojiLipstick": [
+ "lipstick": [
   "objects",
   "clothing"
  ],
- "emojiRing": [
+ "ring": [
   "objects",
   "clothing"
  ],
- "emojiGemStone": [
+ "gemStone": [
   "objects",
   "clothing"
  ],
- "emojiMutedSpeaker": [
+ "mutedSpeaker": [
   "objects",
   "sound"
  ],
- "emojiSpeakerLowVolume": [
+ "speakerLowVolume": [
   "objects",
   "sound"
  ],
- "emojiSpeakerMediumVolume": [
+ "speakerMediumVolume": [
   "objects",
   "sound"
  ],
- "emojiSpeakerHighVolume": [
+ "speakerHighVolume": [
   "objects",
   "sound"
  ],
- "emojiLoudspeaker": [
+ "loudspeaker": [
   "objects",
   "sound"
  ],
- "emojiMegaphone": [
+ "megaphone": [
   "objects",
   "sound"
  ],
- "emojiPostalHorn": [
+ "postalHorn": [
   "objects",
   "sound"
  ],
- "emojiBell": [
+ "bell": [
   "objects",
   "sound"
  ],
- "emojiBellWithSlash": [
+ "bellWithSlash": [
   "objects",
   "sound"
  ],
- "emojiMusicalScore": [
+ "musicalScore": [
   "objects",
   "music"
  ],
- "emojiMusicalNote": [
+ "musicalNote": [
   "objects",
   "music"
  ],
- "emojiMusicalNotes": [
+ "musicalNotes": [
   "objects",
   "music"
  ],
- "emojiStudioMicrophone": [
+ "studioMicrophone": [
   "objects",
   "music"
  ],
- "emojiLevelSlider": [
+ "levelSlider": [
   "objects",
   "music"
  ],
- "emojiControlKnobs": [
+ "controlKnobs": [
   "objects",
   "music"
  ],
- "emojiMicrophone": [
+ "microphone": [
   "objects",
   "music"
  ],
- "emojiHeadphone": [
+ "headphone": [
   "objects",
   "music"
  ],
- "emojiRadio": [
+ "radio": [
   "objects",
   "music"
  ],
- "emojiSaxophone": [
+ "saxophone": [
   "objects",
   "musical-instrument"
  ],
- "emojiAccordion": [
+ "accordion": [
   "objects",
   "musical-instrument"
  ],
- "emojiGuitar": [
+ "guitar": [
   "objects",
   "musical-instrument"
  ],
- "emojiMusicalKeyboard": [
+ "musicalKeyboard": [
   "objects",
   "musical-instrument"
  ],
- "emojiTrumpet": [
+ "trumpet": [
   "objects",
   "musical-instrument"
  ],
- "emojiViolin": [
+ "violin": [
   "objects",
   "musical-instrument"
  ],
- "emojiBanjo": [
+ "banjo": [
   "objects",
   "musical-instrument"
  ],
- "emojiDrum": [
+ "drum": [
   "objects",
   "musical-instrument"
  ],
- "emojiLongDrum": [
+ "longDrum": [
   "objects",
   "musical-instrument"
  ],
- "emojiMaracas": [
+ "maracas": [
   "objects",
   "musical-instrument"
  ],
- "emojiFlute": [
+ "flute": [
   "objects",
   "musical-instrument"
  ],
- "emojiMobilePhone": [
+ "mobilePhone": [
   "objects",
   "phone"
  ],
- "emojiMobilePhoneWithArrow": [
+ "mobilePhoneWithArrow": [
   "objects",
   "phone"
  ],
- "emojiTelephone": [
+ "telephone": [
   "objects",
   "phone"
  ],
- "emojiTelephoneReceiver": [
+ "telephoneReceiver": [
   "objects",
   "phone"
  ],
- "emojiPager": [
+ "pager": [
   "objects",
   "phone"
  ],
- "emojiFaxMachine": [
+ "faxMachine": [
   "objects",
   "phone"
  ],
- "emojiBattery": [
+ "battery": [
   "objects",
   "computer"
  ],
- "emojiLowBattery": [
+ "lowBattery": [
   "objects",
   "computer"
  ],
- "emojiElectricPlug": [
+ "electricPlug": [
   "objects",
   "computer"
  ],
- "emojiLaptop": [
+ "laptop": [
   "objects",
   "computer"
  ],
- "emojiDesktopComputer": [
+ "desktopComputer": [
   "objects",
   "computer"
  ],
- "emojiPrinter": [
+ "printer": [
   "objects",
   "computer"
  ],
- "emojiKeyboard": [
+ "keyboard": [
   "objects",
   "computer"
  ],
- "emojiComputerMouse": [
+ "computerMouse": [
   "objects",
   "computer"
  ],
- "emojiTrackball": [
+ "trackball": [
   "objects",
   "computer"
  ],
- "emojiComputerDisk": [
+ "computerDisk": [
   "objects",
   "computer"
  ],
- "emojiFloppyDisk": [
+ "floppyDisk": [
   "objects",
   "computer"
  ],
- "emojiOpticalDisk": [
+ "opticalDisk": [
   "objects",
   "computer"
  ],
- "emojiDvd": [
+ "dvd": [
   "objects",
   "computer"
  ],
- "emojiAbacus": [
+ "abacus": [
   "objects",
   "computer"
  ],
- "emojiMovieCamera": [
+ "movieCamera": [
   "objects",
   "light and video"
  ],
- "emojiFilmFrames": [
+ "filmFrames": [
   "objects",
   "light and video"
  ],
- "emojiFilmProjector": [
+ "filmProjector": [
   "objects",
   "light and video"
  ],
- "emojiClapperBoard": [
+ "clapperBoard": [
   "objects",
   "light and video"
  ],
- "emojiTelevision": [
+ "television": [
   "objects",
   "light and video"
  ],
- "emojiCamera": [
+ "camera": [
   "objects",
   "light and video"
  ],
- "emojiCameraWithFlash": [
+ "cameraWithFlash": [
   "objects",
   "light and video"
  ],
- "emojiVideoCamera": [
+ "videoCamera": [
   "objects",
   "light and video"
  ],
- "emojiVideocassette": [
+ "videocassette": [
   "objects",
   "light and video"
  ],
- "emojiMagnifyingGlassTiltedLeft": [
+ "magnifyingGlassTiltedLeft": [
   "objects",
   "light and video"
  ],
- "emojiMagnifyingGlassTiltedRight": [
+ "magnifyingGlassTiltedRight": [
   "objects",
   "light and video"
  ],
- "emojiCandle": [
+ "candle": [
   "objects",
   "light and video"
  ],
- "emojiLightBulb": [
+ "lightBulb": [
   "objects",
   "light and video"
  ],
- "emojiFlashlight": [
+ "flashlight": [
   "objects",
   "light and video"
  ],
- "emojiRedPaperLantern": [
+ "redPaperLantern": [
   "objects",
   "light and video"
  ],
- "emojiDiyaLamp": [
+ "diyaLamp": [
   "objects",
   "light and video"
  ],
- "emojiNotebookWithDecorativeCover": [
+ "notebookWithDecorativeCover": [
   "objects",
   "book-paper"
  ],
- "emojiClosedBook": [
+ "closedBook": [
   "objects",
   "book-paper"
  ],
- "emojiOpenBook": [
+ "openBook": [
   "objects",
   "book-paper"
  ],
- "emojiGreenBook": [
+ "greenBook": [
   "objects",
   "book-paper"
  ],
- "emojiBlueBook": [
+ "blueBook": [
   "objects",
   "book-paper"
  ],
- "emojiOrangeBook": [
+ "orangeBook": [
   "objects",
   "book-paper"
  ],
- "emojiBooks": [
+ "books": [
   "objects",
   "book-paper"
  ],
- "emojiNotebook": [
+ "notebook": [
   "objects",
   "book-paper"
  ],
- "emojiLedger": [
+ "ledger": [
   "objects",
   "book-paper"
  ],
- "emojiPageWithCurl": [
+ "pageWithCurl": [
   "objects",
   "book-paper"
  ],
- "emojiScroll": [
+ "scroll": [
   "objects",
   "book-paper"
  ],
- "emojiPageFacingUp": [
+ "pageFacingUp": [
   "objects",
   "book-paper"
  ],
- "emojiNewspaper": [
+ "newspaper": [
   "objects",
   "book-paper"
  ],
- "emojiRolledUpNewspaper": [
+ "rolledUpNewspaper": [
   "objects",
   "book-paper"
  ],
- "emojiBookmarkTabs": [
+ "bookmarkTabs": [
   "objects",
   "book-paper"
  ],
- "emojiBookmark": [
+ "bookmark": [
   "objects",
   "book-paper"
  ],
- "emojiLabel": [
+ "label": [
   "objects",
   "book-paper"
  ],
- "emojiMoneyBag": [
+ "moneyBag": [
   "objects",
   "money"
  ],
- "emojiCoin": [
+ "coin": [
   "objects",
   "money"
  ],
- "emojiYenBanknote": [
+ "yenBanknote": [
   "objects",
   "money"
  ],
- "emojiDollarBanknote": [
+ "dollarBanknote": [
   "objects",
   "money"
  ],
- "emojiEuroBanknote": [
+ "euroBanknote": [
   "objects",
   "money"
  ],
- "emojiPoundBanknote": [
+ "poundBanknote": [
   "objects",
   "money"
  ],
- "emojiMoneyWithWings": [
+ "moneyWithWings": [
   "objects",
   "money"
  ],
- "emojiCreditCard": [
+ "creditCard": [
   "objects",
   "money"
  ],
- "emojiReceipt": [
+ "receipt": [
   "objects",
   "money"
  ],
- "emojiChartIncreasingWithYen": [
+ "chartIncreasingWithYen": [
   "objects",
   "money"
  ],
- "emojiEnvelope": [
+ "envelope": [
   "objects",
   "mail"
  ],
- "emojiEMail": [
+ "eMail": [
   "objects",
   "mail"
  ],
- "emojiIncomingEnvelope": [
+ "incomingEnvelope": [
   "objects",
   "mail"
  ],
- "emojiEnvelopeWithArrow": [
+ "envelopeWithArrow": [
   "objects",
   "mail"
  ],
- "emojiOutboxTray": [
+ "outboxTray": [
   "objects",
   "mail"
  ],
- "emojiInboxTray": [
+ "inboxTray": [
   "objects",
   "mail"
  ],
- "emojiPackage": [
+ "package": [
   "objects",
   "mail"
  ],
- "emojiClosedMailboxWithRaisedFlag": [
+ "closedMailboxWithRaisedFlag": [
   "objects",
   "mail"
  ],
- "emojiClosedMailboxWithLoweredFlag": [
+ "closedMailboxWithLoweredFlag": [
   "objects",
   "mail"
  ],
- "emojiOpenMailboxWithRaisedFlag": [
+ "openMailboxWithRaisedFlag": [
   "objects",
   "mail"
  ],
- "emojiOpenMailboxWithLoweredFlag": [
+ "openMailboxWithLoweredFlag": [
   "objects",
   "mail"
  ],
- "emojiPostbox": [
+ "postbox": [
   "objects",
   "mail"
  ],
- "emojiBallotBoxWithBallot": [
+ "ballotBoxWithBallot": [
   "objects",
   "mail"
  ],
- "emojiPencil": [
+ "pencil": [
   "objects",
   "writing"
  ],
- "emojiBlackNib": [
+ "blackNib": [
   "objects",
   "writing"
  ],
- "emojiFountainPen": [
+ "fountainPen": [
   "objects",
   "writing"
  ],
- "emojiPen": [
+ "pen": [
   "objects",
   "writing"
  ],
- "emojiPaintbrush": [
+ "paintbrush": [
   "objects",
   "writing"
  ],
- "emojiCrayon": [
+ "crayon": [
   "objects",
   "writing"
  ],
- "emojiMemo": [
+ "memo": [
   "objects",
   "writing"
  ],
- "emojiBriefcase": [
+ "briefcase": [
   "objects",
   "office"
  ],
- "emojiFileFolder": [
+ "fileFolder": [
   "objects",
   "office"
  ],
- "emojiOpenFileFolder": [
+ "openFileFolder": [
   "objects",
   "office"
  ],
- "emojiCardIndexDividers": [
+ "cardIndexDividers": [
   "objects",
   "office"
  ],
- "emojiCalendar": [
+ "calendar": [
   "objects",
   "office"
  ],
- "emojiTearOffCalendar": [
+ "tearOffCalendar": [
   "objects",
   "office"
  ],
- "emojiSpiralNotepad": [
+ "spiralNotepad": [
   "objects",
   "office"
  ],
- "emojiSpiralCalendar": [
+ "spiralCalendar": [
   "objects",
   "office"
  ],
- "emojiCardIndex": [
+ "cardIndex": [
   "objects",
   "office"
  ],
- "emojiChartIncreasing": [
+ "chartIncreasing": [
   "objects",
   "office"
  ],
- "emojiChartDecreasing": [
+ "chartDecreasing": [
   "objects",
   "office"
  ],
- "emojiBarChart": [
+ "barChart": [
   "objects",
   "office"
  ],
- "emojiClipboard": [
+ "clipboard": [
   "objects",
   "office"
  ],
- "emojiPushpin": [
+ "pushpin": [
   "objects",
   "office"
  ],
- "emojiRoundPushpin": [
+ "roundPushpin": [
   "objects",
   "office"
  ],
- "emojiPaperclip": [
+ "paperclip": [
   "objects",
   "office"
  ],
- "emojiLinkedPaperclips": [
+ "linkedPaperclips": [
   "objects",
   "office"
  ],
- "emojiStraightRuler": [
+ "straightRuler": [
   "objects",
   "office"
  ],
- "emojiTriangularRuler": [
+ "triangularRuler": [
   "objects",
   "office"
  ],
- "emojiScissors": [
+ "scissors": [
   "objects",
   "office"
  ],
- "emojiCardFileBox": [
+ "cardFileBox": [
   "objects",
   "office"
  ],
- "emojiFileCabinet": [
+ "fileCabinet": [
   "objects",
   "office"
  ],
- "emojiWastebasket": [
+ "wastebasket": [
   "objects",
   "office"
  ],
- "emojiLocked": [
+ "locked": [
   "objects",
   "lock"
  ],
- "emojiUnlocked": [
+ "unlocked": [
   "objects",
   "lock"
  ],
- "emojiLockedWithPen": [
+ "lockedWithPen": [
   "objects",
   "lock"
  ],
- "emojiLockedWithKey": [
+ "lockedWithKey": [
   "objects",
   "lock"
  ],
- "emojiKey": [
+ "key": [
   "objects",
   "lock"
  ],
- "emojiOldKey": [
+ "oldKey": [
   "objects",
   "lock"
  ],
- "emojiHammer": [
+ "hammer": [
   "objects",
   "tool"
  ],
- "emojiAxe": [
+ "axe": [
   "objects",
   "tool"
  ],
- "emojiPick": [
+ "pick": [
   "objects",
   "tool"
  ],
- "emojiHammerAndPick": [
+ "hammerAndPick": [
   "objects",
   "tool"
  ],
- "emojiHammerAndWrench": [
+ "hammerAndWrench": [
   "objects",
   "tool"
  ],
- "emojiDagger": [
+ "dagger": [
   "objects",
   "tool"
  ],
- "emojiCrossedSwords": [
+ "crossedSwords": [
   "objects",
   "tool"
  ],
- "emojiBomb": [
+ "bomb": [
   "objects",
   "tool"
  ],
- "emojiBoomerang": [
+ "boomerang": [
   "objects",
   "tool"
  ],
- "emojiBowAndArrow": [
+ "bowAndArrow": [
   "objects",
   "tool"
  ],
- "emojiShield": [
+ "shield": [
   "objects",
   "tool"
  ],
- "emojiCarpentrySaw": [
+ "carpentrySaw": [
   "objects",
   "tool"
  ],
- "emojiWrench": [
+ "wrench": [
   "objects",
   "tool"
  ],
- "emojiScrewdriver": [
+ "screwdriver": [
   "objects",
   "tool"
  ],
- "emojiNutAndBolt": [
+ "nutAndBolt": [
   "objects",
   "tool"
  ],
- "emojiGear": [
+ "gear": [
   "objects",
   "tool"
  ],
- "emojiClamp": [
+ "clamp": [
   "objects",
   "tool"
  ],
- "emojiBalanceScale": [
+ "balanceScale": [
   "objects",
   "tool"
  ],
- "emojiWhiteCane": [
+ "whiteCane": [
   "objects",
   "tool"
  ],
- "emojiLink": [
+ "link": [
   "objects",
   "tool"
  ],
- "emojiChains": [
+ "chains": [
   "objects",
   "tool"
  ],
- "emojiHook": [
+ "hook": [
   "objects",
   "tool"
  ],
- "emojiToolbox": [
+ "toolbox": [
   "objects",
   "tool"
  ],
- "emojiMagnet": [
+ "magnet": [
   "objects",
   "tool"
  ],
- "emojiLadder": [
+ "ladder": [
   "objects",
   "tool"
  ],
- "emojiAlembic": [
+ "alembic": [
   "objects",
   "science"
  ],
- "emojiTestTube": [
+ "testTube": [
   "objects",
   "science"
  ],
- "emojiPetriDish": [
+ "petriDish": [
   "objects",
   "science"
  ],
- "emojiDna": [
+ "dna": [
   "objects",
   "science"
  ],
- "emojiMicroscope": [
+ "microscope": [
   "objects",
   "science"
  ],
- "emojiTelescope": [
+ "telescope": [
   "objects",
   "science"
  ],
- "emojiSatelliteAntenna": [
+ "satelliteAntenna": [
   "objects",
   "science"
  ],
- "emojiSyringe": [
+ "syringe": [
   "objects",
   "medical"
  ],
- "emojiDropOfBlood": [
+ "dropOfBlood": [
   "objects",
   "medical"
  ],
- "emojiPill": [
+ "pill": [
   "objects",
   "medical"
  ],
- "emojiAdhesiveBandage": [
+ "adhesiveBandage": [
   "objects",
   "medical"
  ],
- "emojiCrutch": [
+ "crutch": [
   "objects",
   "medical"
  ],
- "emojiStethoscope": [
+ "stethoscope": [
   "objects",
   "medical"
  ],
- "emojiXRay": [
+ "xRay": [
   "objects",
   "medical"
  ],
- "emojiDoor": [
+ "door": [
   "objects",
   "household"
  ],
- "emojiElevator": [
+ "elevator": [
   "objects",
   "household"
  ],
- "emojiMirror": [
+ "mirror": [
   "objects",
   "household"
  ],
- "emojiWindow": [
+ "window": [
   "objects",
   "household"
  ],
- "emojiBed": [
+ "bed": [
   "objects",
   "household"
  ],
- "emojiCouchAndLamp": [
+ "couchAndLamp": [
   "objects",
   "household"
  ],
- "emojiChair": [
+ "chair": [
   "objects",
   "household"
  ],
- "emojiToilet": [
+ "toilet": [
   "objects",
   "household"
  ],
- "emojiPlunger": [
+ "plunger": [
   "objects",
   "household"
  ],
- "emojiShower": [
+ "shower": [
   "objects",
   "household"
  ],
- "emojiBathtub": [
+ "bathtub": [
   "objects",
   "household"
  ],
- "emojiMouseTrap": [
+ "mouseTrap": [
   "objects",
   "household"
  ],
- "emojiRazor": [
+ "razor": [
   "objects",
   "household"
  ],
- "emojiLotionBottle": [
+ "lotionBottle": [
   "objects",
   "household"
  ],
- "emojiSafetyPin": [
+ "safetyPin": [
   "objects",
   "household"
  ],
- "emojiBroom": [
+ "broom": [
   "objects",
   "household"
  ],
- "emojiBasket": [
+ "basket": [
   "objects",
   "household"
  ],
- "emojiRollOfPaper": [
+ "rollOfPaper": [
   "objects",
   "household"
  ],
- "emojiBucket": [
+ "bucket": [
   "objects",
   "household"
  ],
- "emojiSoap": [
+ "soap": [
   "objects",
   "household"
  ],
- "emojiBubbles": [
+ "bubbles": [
   "objects",
   "household"
  ],
- "emojiToothbrush": [
+ "toothbrush": [
   "objects",
   "household"
  ],
- "emojiSponge": [
+ "sponge": [
   "objects",
   "household"
  ],
- "emojiFireExtinguisher": [
+ "fireExtinguisher": [
   "objects",
   "household"
  ],
- "emojiShoppingCart": [
+ "shoppingCart": [
   "objects",
   "household"
  ],
- "emojiCigarette": [
+ "cigarette": [
   "objects",
   "other-object"
  ],
- "emojiCoffin": [
+ "coffin": [
   "objects",
   "other-object"
  ],
- "emojiHeadstone": [
+ "headstone": [
   "objects",
   "other-object"
  ],
- "emojiFuneralUrn": [
+ "funeralUrn": [
   "objects",
   "other-object"
  ],
- "emojiNazarAmulet": [
+ "nazarAmulet": [
   "objects",
   "other-object"
  ],
- "emojiHamsa": [
+ "hamsa": [
   "objects",
   "other-object"
  ],
- "emojiMoai": [
+ "moai": [
   "objects",
   "other-object"
  ],
- "emojiPlacard": [
+ "placard": [
   "objects",
   "other-object"
  ],
- "emojiIdentificationCard": [
+ "identificationCard": [
   "objects",
   "other-object"
  ],
- "emojiATMSign": [
+ "aTMSign": [
   "symbols",
   "transport-sign"
  ],
- "emojiLitterInBinSign": [
+ "litterInBinSign": [
   "symbols",
   "transport-sign"
  ],
- "emojiPotableWater": [
+ "potableWater": [
   "symbols",
   "transport-sign"
  ],
- "emojiWheelchairSymbol": [
+ "wheelchairSymbol": [
   "symbols",
   "transport-sign"
  ],
- "emojiMensRoom": [
+ "mensRoom": [
   "symbols",
   "transport-sign"
  ],
- "emojiWomensRoom": [
+ "womensRoom": [
   "symbols",
   "transport-sign"
  ],
- "emojiRestroom": [
+ "restroom": [
   "symbols",
   "transport-sign"
  ],
- "emojiBabySymbol": [
+ "babySymbol": [
   "symbols",
   "transport-sign"
  ],
- "emojiWaterCloset": [
+ "waterCloset": [
   "symbols",
   "transport-sign"
  ],
- "emojiPassportControl": [
+ "passportControl": [
   "symbols",
   "transport-sign"
  ],
- "emojiCustoms": [
+ "customs": [
   "symbols",
   "transport-sign"
  ],
- "emojiBaggageClaim": [
+ "baggageClaim": [
   "symbols",
   "transport-sign"
  ],
- "emojiLeftLuggage": [
+ "leftLuggage": [
   "symbols",
   "transport-sign"
  ],
- "emojiWarning": [
+ "warning": [
   "symbols",
   "warning"
  ],
- "emojiChildrenCrossing": [
+ "childrenCrossing": [
   "symbols",
   "warning"
  ],
- "emojiNoEntry": [
+ "noEntry": [
   "symbols",
   "warning"
  ],
- "emojiProhibited": [
+ "prohibited": [
   "symbols",
   "warning"
  ],
- "emojiNoBicycles": [
+ "noBicycles": [
   "symbols",
   "warning"
  ],
- "emojiNoSmoking": [
+ "noSmoking": [
   "symbols",
   "warning"
  ],
- "emojiNoLittering": [
+ "noLittering": [
   "symbols",
   "warning"
  ],
- "emojiNonPotableWater": [
+ "nonPotableWater": [
   "symbols",
   "warning"
  ],
- "emojiNoPedestrians": [
+ "noPedestrians": [
   "symbols",
   "warning"
  ],
- "emojiNoMobilePhones": [
+ "noMobilePhones": [
   "symbols",
   "warning"
  ],
- "emojiNoOneUnderEighteen": [
+ "noOneUnderEighteen": [
   "symbols",
   "warning"
  ],
- "emojiRadioactive": [
+ "radioactive": [
   "symbols",
   "warning"
  ],
- "emojiBiohazard": [
+ "biohazard": [
   "symbols",
   "warning"
  ],
- "emojiUpArrow": [
+ "upArrow": [
   "symbols",
   "arrow"
  ],
- "emojiUpRightArrow": [
+ "upRightArrow": [
   "symbols",
   "arrow"
  ],
- "emojiRightArrow": [
+ "rightArrow": [
   "symbols",
   "arrow"
  ],
- "emojiDownRightArrow": [
+ "downRightArrow": [
   "symbols",
   "arrow"
  ],
- "emojiDownArrow": [
+ "downArrow": [
   "symbols",
   "arrow"
  ],
- "emojiDownLeftArrow": [
+ "downLeftArrow": [
   "symbols",
   "arrow"
  ],
- "emojiLeftArrow": [
+ "leftArrow": [
   "symbols",
   "arrow"
  ],
- "emojiUpLeftArrow": [
+ "upLeftArrow": [
   "symbols",
   "arrow"
  ],
- "emojiUpDownArrow": [
+ "upDownArrow": [
   "symbols",
   "arrow"
  ],
- "emojiLeftRightArrow": [
+ "leftRightArrow": [
   "symbols",
   "arrow"
  ],
- "emojiRightArrowCurvingLeft": [
+ "rightArrowCurvingLeft": [
   "symbols",
   "arrow"
  ],
- "emojiLeftArrowCurvingRight": [
+ "leftArrowCurvingRight": [
   "symbols",
   "arrow"
  ],
- "emojiRightArrowCurvingUp": [
+ "rightArrowCurvingUp": [
   "symbols",
   "arrow"
  ],
- "emojiRightArrowCurvingDown": [
+ "rightArrowCurvingDown": [
   "symbols",
   "arrow"
  ],
- "emojiClockwiseVerticalArrows": [
+ "clockwiseVerticalArrows": [
   "symbols",
   "arrow"
  ],
- "emojiCounterclockwiseArrowsButton": [
+ "counterclockwiseArrowsButton": [
   "symbols",
   "arrow"
  ],
- "emojiBACKArrow": [
+ "bACKArrow": [
   "symbols",
   "arrow"
  ],
- "emojiENDArrow": [
+ "eNDArrow": [
   "symbols",
   "arrow"
  ],
- "emojiONArrow": [
+ "oNArrow": [
   "symbols",
   "arrow"
  ],
- "emojiSOONArrow": [
+ "sOONArrow": [
   "symbols",
   "arrow"
  ],
- "emojiTOPArrow": [
+ "tOPArrow": [
   "symbols",
   "arrow"
  ],
- "emojiPlaceOfWorship": [
+ "placeOfWorship": [
   "symbols",
   "religion"
  ],
- "emojiAtomSymbol": [
+ "atomSymbol": [
   "symbols",
   "religion"
  ],
- "emojiOm": [
+ "om": [
   "symbols",
   "religion"
  ],
- "emojiStarOfDavid": [
+ "starOfDavid": [
   "symbols",
   "religion"
  ],
- "emojiWheelOfDharma": [
+ "wheelOfDharma": [
   "symbols",
   "religion"
  ],
- "emojiYinYang": [
+ "yinYang": [
   "symbols",
   "religion"
  ],
- "emojiLatinCross": [
+ "latinCross": [
   "symbols",
   "religion"
  ],
- "emojiOrthodoxCross": [
+ "orthodoxCross": [
   "symbols",
   "religion"
  ],
- "emojiStarAndCrescent": [
+ "starAndCrescent": [
   "symbols",
   "religion"
  ],
- "emojiPeaceSymbol": [
+ "peaceSymbol": [
   "symbols",
   "religion"
  ],
- "emojiMenorah": [
+ "menorah": [
   "symbols",
   "religion"
  ],
- "emojiDottedSixPointedStar": [
+ "dottedSixPointedStar": [
   "symbols",
   "religion"
  ],
- "emojiKhanda": [
+ "khanda": [
   "symbols",
   "religion"
  ],
- "emojiAries": [
+ "aries": [
   "symbols",
   "zodiac"
  ],
- "emojiTaurus": [
+ "taurus": [
   "symbols",
   "zodiac"
  ],
- "emojiGemini": [
+ "gemini": [
   "symbols",
   "zodiac"
  ],
- "emojiCancer": [
+ "cancer": [
   "symbols",
   "zodiac"
  ],
- "emojiLeo": [
+ "leo": [
   "symbols",
   "zodiac"
  ],
- "emojiVirgo": [
+ "virgo": [
   "symbols",
   "zodiac"
  ],
- "emojiLibra": [
+ "libra": [
   "symbols",
   "zodiac"
  ],
- "emojiScorpio": [
+ "scorpio": [
   "symbols",
   "zodiac"
  ],
- "emojiSagittarius": [
+ "sagittarius": [
   "symbols",
   "zodiac"
  ],
- "emojiCapricorn": [
+ "capricorn": [
   "symbols",
   "zodiac"
  ],
- "emojiAquarius": [
+ "aquarius": [
   "symbols",
   "zodiac"
  ],
- "emojiPisces": [
+ "pisces": [
   "symbols",
   "zodiac"
  ],
- "emojiOphiuchus": [
+ "ophiuchus": [
   "symbols",
   "zodiac"
  ],
- "emojiShuffleTracksButton": [
+ "shuffleTracksButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiRepeatButton": [
+ "repeatButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiRepeatSingleButton": [
+ "repeatSingleButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiPlayButton": [
+ "playButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiFastForwardButton": [
+ "fastForwardButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiNextTrackButton": [
+ "nextTrackButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiPlayOrPauseButton": [
+ "playOrPauseButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiReverseButton": [
+ "reverseButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiFastReverseButton": [
+ "fastReverseButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiLastTrackButton": [
+ "lastTrackButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiUpwardsButton": [
+ "upwardsButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiFastUpButton": [
+ "fastUpButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiDownwardsButton": [
+ "downwardsButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiFastDownButton": [
+ "fastDownButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiPauseButton": [
+ "pauseButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiStopButton": [
+ "stopButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiRecordButton": [
+ "recordButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiEjectButton": [
+ "ejectButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiCinema": [
+ "cinema": [
   "symbols",
   "av-symbol"
  ],
- "emojiDimButton": [
+ "dimButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiBrightButton": [
+ "brightButton": [
   "symbols",
   "av-symbol"
  ],
- "emojiAntennaBars": [
+ "antennaBars": [
   "symbols",
   "av-symbol"
  ],
- "emojiWireless": [
+ "wireless": [
   "symbols",
   "av-symbol"
  ],
- "emojiVibrationMode": [
+ "vibrationMode": [
   "symbols",
   "av-symbol"
  ],
- "emojiMobilePhoneOff": [
+ "mobilePhoneOff": [
   "symbols",
   "av-symbol"
  ],
- "emojiFemaleSign": [
+ "femaleSign": [
   "symbols",
   "gender"
  ],
- "emojiMaleSign": [
+ "maleSign": [
   "symbols",
   "gender"
  ],
- "emojiTransgenderSymbol": [
+ "transgenderSymbol": [
   "symbols",
   "gender"
  ],
- "emojiMultiply": [
+ "multiply": [
   "symbols",
   "math"
  ],
- "emojiPlus": [
+ "plus": [
   "symbols",
   "math"
  ],
- "emojiMinus": [
+ "minus": [
   "symbols",
   "math"
  ],
- "emojiDivide": [
+ "divide": [
   "symbols",
   "math"
  ],
- "emojiHeavyEqualsSign": [
+ "heavyEqualsSign": [
   "symbols",
   "math"
  ],
- "emojiInfinity": [
+ "infinity": [
   "symbols",
   "math"
  ],
- "emojiDoubleExclamationMark": [
+ "doubleExclamationMark": [
   "symbols",
   "punctuation"
  ],
- "emojiExclamationQuestionMark": [
+ "exclamationQuestionMark": [
   "symbols",
   "punctuation"
  ],
- "emojiRedQuestionMark": [
+ "redQuestionMark": [
   "symbols",
   "punctuation"
  ],
- "emojiWhiteQuestionMark": [
+ "whiteQuestionMark": [
   "symbols",
   "punctuation"
  ],
- "emojiWhiteExclamationMark": [
+ "whiteExclamationMark": [
   "symbols",
   "punctuation"
  ],
- "emojiRedExclamationMark": [
+ "redExclamationMark": [
   "symbols",
   "punctuation"
  ],
- "emojiWavyDash": [
+ "wavyDash": [
   "symbols",
   "punctuation"
  ],
- "emojiCurrencyExchange": [
+ "currencyExchange": [
   "symbols",
   "currency"
  ],
- "emojiHeavyDollarSign": [
+ "heavyDollarSign": [
   "symbols",
   "currency"
  ],
- "emojiMedicalSymbol": [
+ "medicalSymbol": [
   "symbols",
   "other-symbol"
  ],
- "emojiRecyclingSymbol": [
+ "recyclingSymbol": [
   "symbols",
   "other-symbol"
  ],
- "emojiFleurDeLis": [
+ "fleurDeLis": [
   "symbols",
   "other-symbol"
  ],
- "emojiTridentEmblem": [
+ "tridentEmblem": [
   "symbols",
   "other-symbol"
  ],
- "emojiNameBadge": [
+ "nameBadge": [
   "symbols",
   "other-symbol"
  ],
- "emojiJapaneseSymbolForBeginner": [
+ "japaneseSymbolForBeginner": [
   "symbols",
   "other-symbol"
  ],
- "emojiHollowRedCircle": [
+ "hollowRedCircle": [
   "symbols",
   "other-symbol"
  ],
- "emojiCheckMarkButton": [
+ "checkMarkButton": [
   "symbols",
   "other-symbol"
  ],
- "emojiCheckBoxWithCheck": [
+ "checkBoxWithCheck": [
   "symbols",
   "other-symbol"
  ],
- "emojiCheckMark": [
+ "checkMark": [
   "symbols",
   "other-symbol"
  ],
- "emojiCrossMark": [
+ "crossMark": [
   "symbols",
   "other-symbol"
  ],
- "emojiCrossMarkButton": [
+ "crossMarkButton": [
   "symbols",
   "other-symbol"
  ],
- "emojiCurlyLoop": [
+ "curlyLoop": [
   "symbols",
   "other-symbol"
  ],
- "emojiDoubleCurlyLoop": [
+ "doubleCurlyLoop": [
   "symbols",
   "other-symbol"
  ],
- "emojiPartAlternationMark": [
+ "partAlternationMark": [
   "symbols",
   "other-symbol"
  ],
- "emojiEightSpokedAsterisk": [
+ "eightSpokedAsterisk": [
   "symbols",
   "other-symbol"
  ],
- "emojiEightPointedStar": [
+ "eightPointedStar": [
   "symbols",
   "other-symbol"
  ],
- "emojiSparkle": [
+ "sparkle": [
   "symbols",
   "other-symbol"
  ],
- "emojiCopyright": [
+ "copyright": [
   "symbols",
   "other-symbol"
  ],
- "emojiRegistered": [
+ "registered": [
   "symbols",
   "other-symbol"
  ],
- "emojiTradeMark": [
+ "tradeMark": [
   "symbols",
   "other-symbol"
  ],
- "emojiKeycapHash": [
+ "keycapHash": [
   "symbols",
   "keycap"
  ],
- "emojiKeycapStar": [
+ "keycapStar": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap0": [
+ "keycap0": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap1": [
+ "keycap1": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap2": [
+ "keycap2": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap3": [
+ "keycap3": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap4": [
+ "keycap4": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap5": [
+ "keycap5": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap6": [
+ "keycap6": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap7": [
+ "keycap7": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap8": [
+ "keycap8": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap9": [
+ "keycap9": [
   "symbols",
   "keycap"
  ],
- "emojiKeycap10": [
+ "keycap10": [
   "symbols",
   "keycap"
  ],
- "emojiInputLatinUppercase": [
+ "inputLatinUppercase": [
   "symbols",
   "alphanum"
  ],
- "emojiInputLatinLowercase": [
+ "inputLatinLowercase": [
   "symbols",
   "alphanum"
  ],
- "emojiInputNumbers": [
+ "inputNumbers": [
   "symbols",
   "alphanum"
  ],
- "emojiInputSymbols": [
+ "inputSymbols": [
   "symbols",
   "alphanum"
  ],
- "emojiInputLatinLetters": [
+ "inputLatinLetters": [
   "symbols",
   "alphanum"
  ],
- "emojiAButtonBloodType": [
+ "aButtonBloodType": [
   "symbols",
   "alphanum"
  ],
- "emojiABButtonBloodType": [
+ "aBButtonBloodType": [
   "symbols",
   "alphanum"
  ],
- "emojiBButtonBloodType": [
+ "bButtonBloodType": [
   "symbols",
   "alphanum"
  ],
- "emojiCLButton": [
+ "cLButton": [
   "symbols",
   "alphanum"
  ],
- "emojiCOOLButton": [
+ "cOOLButton": [
   "symbols",
   "alphanum"
  ],
- "emojiFREEButton": [
+ "fREEButton": [
   "symbols",
   "alphanum"
  ],
- "emojiInformation": [
+ "information": [
   "symbols",
   "alphanum"
  ],
- "emojiIDButton": [
+ "iDButton": [
   "symbols",
   "alphanum"
  ],
- "emojiCircledM": [
+ "circledM": [
   "symbols",
   "alphanum"
  ],
- "emojiNEWButton": [
+ "nEWButton": [
   "symbols",
   "alphanum"
  ],
- "emojiNGButton": [
+ "nGButton": [
   "symbols",
   "alphanum"
  ],
- "emojiOButtonBloodType": [
+ "oButtonBloodType": [
   "symbols",
   "alphanum"
  ],
- "emojiOKButton": [
+ "oKButton": [
   "symbols",
   "alphanum"
  ],
- "emojiPButton": [
+ "pButton": [
   "symbols",
   "alphanum"
  ],
- "emojiSOSButton": [
+ "sOSButton": [
   "symbols",
   "alphanum"
  ],
- "emojiUPButton": [
+ "uPButton": [
   "symbols",
   "alphanum"
  ],
- "emojiVSButton": [
+ "vSButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseHereButton": [
+ "japaneseHereButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseServiceChargeButton": [
+ "japaneseServiceChargeButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseMonthlyAmountButton": [
+ "japaneseMonthlyAmountButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseNotFreeOfChargeButton": [
+ "japaneseNotFreeOfChargeButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseReservedButton": [
+ "japaneseReservedButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseBargainButton": [
+ "japaneseBargainButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseDiscountButton": [
+ "japaneseDiscountButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseFreeOfChargeButton": [
+ "japaneseFreeOfChargeButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseProhibitedButton": [
+ "japaneseProhibitedButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseAcceptableButton": [
+ "japaneseAcceptableButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseApplicationButton": [
+ "japaneseApplicationButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapanesePassingGradeButton": [
+ "japanesePassingGradeButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseVacancyButton": [
+ "japaneseVacancyButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseCongratulationsButton": [
+ "japaneseCongratulationsButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseSecretButton": [
+ "japaneseSecretButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseOpenForBusinessButton": [
+ "japaneseOpenForBusinessButton": [
   "symbols",
   "alphanum"
  ],
- "emojiJapaneseNoVacancyButton": [
+ "japaneseNoVacancyButton": [
   "symbols",
   "alphanum"
  ],
- "emojiRedCircle": [
+ "redCircle": [
   "symbols",
   "geometric"
  ],
- "emojiOrangeCircle": [
+ "orangeCircle": [
   "symbols",
   "geometric"
  ],
- "emojiYellowCircle": [
+ "yellowCircle": [
   "symbols",
   "geometric"
  ],
- "emojiGreenCircle": [
+ "greenCircle": [
   "symbols",
   "geometric"
  ],
- "emojiBlueCircle": [
+ "blueCircle": [
   "symbols",
   "geometric"
  ],
- "emojiPurpleCircle": [
+ "purpleCircle": [
   "symbols",
   "geometric"
  ],
- "emojiBrownCircle": [
+ "brownCircle": [
   "symbols",
   "geometric"
  ],
- "emojiBlackCircle": [
+ "blackCircle": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteCircle": [
+ "whiteCircle": [
   "symbols",
   "geometric"
  ],
- "emojiRedSquare": [
+ "redSquare": [
   "symbols",
   "geometric"
  ],
- "emojiOrangeSquare": [
+ "orangeSquare": [
   "symbols",
   "geometric"
  ],
- "emojiYellowSquare": [
+ "yellowSquare": [
   "symbols",
   "geometric"
  ],
- "emojiGreenSquare": [
+ "greenSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBlueSquare": [
+ "blueSquare": [
   "symbols",
   "geometric"
  ],
- "emojiPurpleSquare": [
+ "purpleSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBrownSquare": [
+ "brownSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBlackLargeSquare": [
+ "blackLargeSquare": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteLargeSquare": [
+ "whiteLargeSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBlackMediumSquare": [
+ "blackMediumSquare": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteMediumSquare": [
+ "whiteMediumSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBlackMediumSmallSquare": [
+ "blackMediumSmallSquare": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteMediumSmallSquare": [
+ "whiteMediumSmallSquare": [
   "symbols",
   "geometric"
  ],
- "emojiBlackSmallSquare": [
+ "blackSmallSquare": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteSmallSquare": [
+ "whiteSmallSquare": [
   "symbols",
   "geometric"
  ],
- "emojiLargeOrangeDiamond": [
+ "largeOrangeDiamond": [
   "symbols",
   "geometric"
  ],
- "emojiLargeBlueDiamond": [
+ "largeBlueDiamond": [
   "symbols",
   "geometric"
  ],
- "emojiSmallOrangeDiamond": [
+ "smallOrangeDiamond": [
   "symbols",
   "geometric"
  ],
- "emojiSmallBlueDiamond": [
+ "smallBlueDiamond": [
   "symbols",
   "geometric"
  ],
- "emojiRedTrianglePointedUp": [
+ "redTrianglePointedUp": [
   "symbols",
   "geometric"
  ],
- "emojiRedTrianglePointedDown": [
+ "redTrianglePointedDown": [
   "symbols",
   "geometric"
  ],
- "emojiDiamondWithADot": [
+ "diamondWithADot": [
   "symbols",
   "geometric"
  ],
- "emojiRadioButton": [
+ "radioButton": [
   "symbols",
   "geometric"
  ],
- "emojiWhiteSquareButton": [
+ "whiteSquareButton": [
   "symbols",
   "geometric"
  ],
- "emojiBlackSquareButton": [
+ "blackSquareButton": [
   "symbols",
   "geometric"
  ],
- "emojiChequeredFlag": [
+ "chequeredFlag": [
   "flags",
   "flag"
  ],
- "emojiTriangularFlag": [
+ "triangularFlag": [
   "flags",
   "flag"
  ],
- "emojiCrossedFlags": [
+ "crossedFlags": [
   "flags",
   "flag"
  ],
- "emojiBlackFlag": [
+ "blackFlag": [
   "flags",
   "flag"
  ],
- "emojiWhiteFlag": [
+ "whiteFlag": [
   "flags",
   "flag"
  ],
- "emojiRainbowFlag": [
+ "rainbowFlag": [
   "flags",
   "flag"
  ],
- "emojiTransgenderFlag": [
+ "transgenderFlag": [
   "flags",
   "flag"
  ],
- "emojiPirateFlag": [
+ "pirateFlag": [
   "flags",
   "flag"
  ],
- "emojiFlagAscensionIsland": [
+ "flagAscensionIsland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAndorra": [
+ "flagAndorra": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUnitedArabEmirates": [
+ "flagUnitedArabEmirates": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAfghanistan": [
+ "flagAfghanistan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAntiguaAndBarbuda": [
+ "flagAntiguaAndBarbuda": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAnguilla": [
+ "flagAnguilla": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAlbania": [
+ "flagAlbania": [
   "flags",
   "country-flag"
  ],
- "emojiFlagArmenia": [
+ "flagArmenia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAngola": [
+ "flagAngola": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAntarctica": [
+ "flagAntarctica": [
   "flags",
   "country-flag"
  ],
- "emojiFlagArgentina": [
+ "flagArgentina": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAmericanSamoa": [
+ "flagAmericanSamoa": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAustria": [
+ "flagAustria": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAustralia": [
+ "flagAustralia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAruba": [
+ "flagAruba": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAlandIslands": [
+ "flagAlandIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAzerbaijan": [
+ "flagAzerbaijan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBosniaAndHerzegovina": [
+ "flagBosniaAndHerzegovina": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBarbados": [
+ "flagBarbados": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBangladesh": [
+ "flagBangladesh": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBelgium": [
+ "flagBelgium": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBurkinaFaso": [
+ "flagBurkinaFaso": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBulgaria": [
+ "flagBulgaria": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBahrain": [
+ "flagBahrain": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBurundi": [
+ "flagBurundi": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBenin": [
+ "flagBenin": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStBarthelemy": [
+ "flagStBarthelemy": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBermuda": [
+ "flagBermuda": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBrunei": [
+ "flagBrunei": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBolivia": [
+ "flagBolivia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCaribbeanNetherlands": [
+ "flagCaribbeanNetherlands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBrazil": [
+ "flagBrazil": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBahamas": [
+ "flagBahamas": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBhutan": [
+ "flagBhutan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBouvetIsland": [
+ "flagBouvetIsland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBotswana": [
+ "flagBotswana": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBelarus": [
+ "flagBelarus": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBelize": [
+ "flagBelize": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCanada": [
+ "flagCanada": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCocosKeelingIslands": [
+ "flagCocosKeelingIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCongoKinshasa": [
+ "flagCongoKinshasa": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCentralAfricanRepublic": [
+ "flagCentralAfricanRepublic": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCongoBrazzaville": [
+ "flagCongoBrazzaville": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSwitzerland": [
+ "flagSwitzerland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCoteDIvoire": [
+ "flagCoteDIvoire": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCookIslands": [
+ "flagCookIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagChile": [
+ "flagChile": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCameroon": [
+ "flagCameroon": [
   "flags",
   "country-flag"
  ],
- "emojiFlagChina": [
+ "flagChina": [
   "flags",
   "country-flag"
  ],
- "emojiFlagColombia": [
+ "flagColombia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagClippertonIsland": [
+ "flagClippertonIsland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCostaRica": [
+ "flagCostaRica": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCuba": [
+ "flagCuba": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCapeVerde": [
+ "flagCapeVerde": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCuracao": [
+ "flagCuracao": [
   "flags",
   "country-flag"
  ],
- "emojiFlagChristmasIsland": [
+ "flagChristmasIsland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCyprus": [
+ "flagCyprus": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCzechia": [
+ "flagCzechia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGermany": [
+ "flagGermany": [
   "flags",
   "country-flag"
  ],
- "emojiFlagDiegoGarcia": [
+ "flagDiegoGarcia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagDjibouti": [
+ "flagDjibouti": [
   "flags",
   "country-flag"
  ],
- "emojiFlagDenmark": [
+ "flagDenmark": [
   "flags",
   "country-flag"
  ],
- "emojiFlagDominica": [
+ "flagDominica": [
   "flags",
   "country-flag"
  ],
- "emojiFlagDominicanRepublic": [
+ "flagDominicanRepublic": [
   "flags",
   "country-flag"
  ],
- "emojiFlagAlgeria": [
+ "flagAlgeria": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCeutaAndMelilla": [
+ "flagCeutaAndMelilla": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEcuador": [
+ "flagEcuador": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEstonia": [
+ "flagEstonia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEgypt": [
+ "flagEgypt": [
   "flags",
   "country-flag"
  ],
- "emojiFlagWesternSahara": [
+ "flagWesternSahara": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEritrea": [
+ "flagEritrea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSpain": [
+ "flagSpain": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEthiopia": [
+ "flagEthiopia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEuropeanUnion": [
+ "flagEuropeanUnion": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFinland": [
+ "flagFinland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFiji": [
+ "flagFiji": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFalklandIslands": [
+ "flagFalklandIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMicronesia": [
+ "flagMicronesia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFaroeIslands": [
+ "flagFaroeIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFrance": [
+ "flagFrance": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGabon": [
+ "flagGabon": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUnitedKingdom": [
+ "flagUnitedKingdom": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGrenada": [
+ "flagGrenada": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGeorgia": [
+ "flagGeorgia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFrenchGuiana": [
+ "flagFrenchGuiana": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuernsey": [
+ "flagGuernsey": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGhana": [
+ "flagGhana": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGibraltar": [
+ "flagGibraltar": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGreenland": [
+ "flagGreenland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGambia": [
+ "flagGambia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuinea": [
+ "flagGuinea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuadeloupe": [
+ "flagGuadeloupe": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEquatorialGuinea": [
+ "flagEquatorialGuinea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGreece": [
+ "flagGreece": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSouthGeorgiaAndSouthSandwichIslands": [
+ "flagSouthGeorgiaAndSouthSandwichIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuatemala": [
+ "flagGuatemala": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuam": [
+ "flagGuam": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuineaBissau": [
+ "flagGuineaBissau": [
   "flags",
   "country-flag"
  ],
- "emojiFlagGuyana": [
+ "flagGuyana": [
   "flags",
   "country-flag"
  ],
- "emojiFlagHongKongSARChina": [
+ "flagHongKongSARChina": [
   "flags",
   "country-flag"
  ],
- "emojiFlagHeardAndMcDonaldIslands": [
+ "flagHeardAndMcDonaldIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagHonduras": [
+ "flagHonduras": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCroatia": [
+ "flagCroatia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagHaiti": [
+ "flagHaiti": [
   "flags",
   "country-flag"
  ],
- "emojiFlagHungary": [
+ "flagHungary": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCanaryIslands": [
+ "flagCanaryIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIndonesia": [
+ "flagIndonesia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIreland": [
+ "flagIreland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIsrael": [
+ "flagIsrael": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIsleOfMan": [
+ "flagIsleOfMan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIndia": [
+ "flagIndia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBritishIndianOceanTerritory": [
+ "flagBritishIndianOceanTerritory": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIraq": [
+ "flagIraq": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIran": [
+ "flagIran": [
   "flags",
   "country-flag"
  ],
- "emojiFlagIceland": [
+ "flagIceland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagItaly": [
+ "flagItaly": [
   "flags",
   "country-flag"
  ],
- "emojiFlagJersey": [
+ "flagJersey": [
   "flags",
   "country-flag"
  ],
- "emojiFlagJamaica": [
+ "flagJamaica": [
   "flags",
   "country-flag"
  ],
- "emojiFlagJordan": [
+ "flagJordan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagJapan": [
+ "flagJapan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKenya": [
+ "flagKenya": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKyrgyzstan": [
+ "flagKyrgyzstan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCambodia": [
+ "flagCambodia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKiribati": [
+ "flagKiribati": [
   "flags",
   "country-flag"
  ],
- "emojiFlagComoros": [
+ "flagComoros": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStKittsAndNevis": [
+ "flagStKittsAndNevis": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNorthKorea": [
+ "flagNorthKorea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSouthKorea": [
+ "flagSouthKorea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKuwait": [
+ "flagKuwait": [
   "flags",
   "country-flag"
  ],
- "emojiFlagCaymanIslands": [
+ "flagCaymanIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKazakhstan": [
+ "flagKazakhstan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLaos": [
+ "flagLaos": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLebanon": [
+ "flagLebanon": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStLucia": [
+ "flagStLucia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLiechtenstein": [
+ "flagLiechtenstein": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSriLanka": [
+ "flagSriLanka": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLiberia": [
+ "flagLiberia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLesotho": [
+ "flagLesotho": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLithuania": [
+ "flagLithuania": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLuxembourg": [
+ "flagLuxembourg": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLatvia": [
+ "flagLatvia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagLibya": [
+ "flagLibya": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMorocco": [
+ "flagMorocco": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMonaco": [
+ "flagMonaco": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMoldova": [
+ "flagMoldova": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMontenegro": [
+ "flagMontenegro": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStMartin": [
+ "flagStMartin": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMadagascar": [
+ "flagMadagascar": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMarshallIslands": [
+ "flagMarshallIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNorthMacedonia": [
+ "flagNorthMacedonia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMali": [
+ "flagMali": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMyanmarBurma": [
+ "flagMyanmarBurma": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMongolia": [
+ "flagMongolia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMacaoSARChina": [
+ "flagMacaoSARChina": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNorthernMarianaIslands": [
+ "flagNorthernMarianaIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMartinique": [
+ "flagMartinique": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMauritania": [
+ "flagMauritania": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMontserrat": [
+ "flagMontserrat": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMalta": [
+ "flagMalta": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMauritius": [
+ "flagMauritius": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMaldives": [
+ "flagMaldives": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMalawi": [
+ "flagMalawi": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMexico": [
+ "flagMexico": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMalaysia": [
+ "flagMalaysia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMozambique": [
+ "flagMozambique": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNamibia": [
+ "flagNamibia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNewCaledonia": [
+ "flagNewCaledonia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNiger": [
+ "flagNiger": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNorfolkIsland": [
+ "flagNorfolkIsland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNigeria": [
+ "flagNigeria": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNicaragua": [
+ "flagNicaragua": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNetherlands": [
+ "flagNetherlands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNorway": [
+ "flagNorway": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNepal": [
+ "flagNepal": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNauru": [
+ "flagNauru": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNiue": [
+ "flagNiue": [
   "flags",
   "country-flag"
  ],
- "emojiFlagNewZealand": [
+ "flagNewZealand": [
   "flags",
   "country-flag"
  ],
- "emojiFlagOman": [
+ "flagOman": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPanama": [
+ "flagPanama": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPeru": [
+ "flagPeru": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFrenchPolynesia": [
+ "flagFrenchPolynesia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPapuaNewGuinea": [
+ "flagPapuaNewGuinea": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPhilippines": [
+ "flagPhilippines": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPakistan": [
+ "flagPakistan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPoland": [
+ "flagPoland": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStPierreAndMiquelon": [
+ "flagStPierreAndMiquelon": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPitcairnIslands": [
+ "flagPitcairnIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPuertoRico": [
+ "flagPuertoRico": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPalestinianTerritories": [
+ "flagPalestinianTerritories": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPortugal": [
+ "flagPortugal": [
   "flags",
   "country-flag"
  ],
- "emojiFlagPalau": [
+ "flagPalau": [
   "flags",
   "country-flag"
  ],
- "emojiFlagParaguay": [
+ "flagParaguay": [
   "flags",
   "country-flag"
  ],
- "emojiFlagQatar": [
+ "flagQatar": [
   "flags",
   "country-flag"
  ],
- "emojiFlagReunion": [
+ "flagReunion": [
   "flags",
   "country-flag"
  ],
- "emojiFlagRomania": [
+ "flagRomania": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSerbia": [
+ "flagSerbia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagRussia": [
+ "flagRussia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagRwanda": [
+ "flagRwanda": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSaudiArabia": [
+ "flagSaudiArabia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSolomonIslands": [
+ "flagSolomonIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSeychelles": [
+ "flagSeychelles": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSudan": [
+ "flagSudan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSweden": [
+ "flagSweden": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSingapore": [
+ "flagSingapore": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStHelena": [
+ "flagStHelena": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSlovenia": [
+ "flagSlovenia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSvalbardAndJanMayen": [
+ "flagSvalbardAndJanMayen": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSlovakia": [
+ "flagSlovakia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSierraLeone": [
+ "flagSierraLeone": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSanMarino": [
+ "flagSanMarino": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSenegal": [
+ "flagSenegal": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSomalia": [
+ "flagSomalia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSuriname": [
+ "flagSuriname": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSouthSudan": [
+ "flagSouthSudan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSaoTomeAndPrincipe": [
+ "flagSaoTomeAndPrincipe": [
   "flags",
   "country-flag"
  ],
- "emojiFlagElSalvador": [
+ "flagElSalvador": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSintMaarten": [
+ "flagSintMaarten": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSyria": [
+ "flagSyria": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEswatini": [
+ "flagEswatini": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTristanDaCunha": [
+ "flagTristanDaCunha": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTurksAndCaicosIslands": [
+ "flagTurksAndCaicosIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagChad": [
+ "flagChad": [
   "flags",
   "country-flag"
  ],
- "emojiFlagFrenchSouthernTerritories": [
+ "flagFrenchSouthernTerritories": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTogo": [
+ "flagTogo": [
   "flags",
   "country-flag"
  ],
- "emojiFlagThailand": [
+ "flagThailand": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTajikistan": [
+ "flagTajikistan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTokelau": [
+ "flagTokelau": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTimorLeste": [
+ "flagTimorLeste": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTurkmenistan": [
+ "flagTurkmenistan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTunisia": [
+ "flagTunisia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTonga": [
+ "flagTonga": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTurkey": [
+ "flagTurkey": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTrinidadAndTobago": [
+ "flagTrinidadAndTobago": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTuvalu": [
+ "flagTuvalu": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTaiwan": [
+ "flagTaiwan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagTanzania": [
+ "flagTanzania": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUkraine": [
+ "flagUkraine": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUganda": [
+ "flagUganda": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUSOutlyingIslands": [
+ "flagUSOutlyingIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUnitedNations": [
+ "flagUnitedNations": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUnitedStates": [
+ "flagUnitedStates": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUruguay": [
+ "flagUruguay": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUzbekistan": [
+ "flagUzbekistan": [
   "flags",
   "country-flag"
  ],
- "emojiFlagVaticanCity": [
+ "flagVaticanCity": [
   "flags",
   "country-flag"
  ],
- "emojiFlagStVincentAndGrenadines": [
+ "flagStVincentAndGrenadines": [
   "flags",
   "country-flag"
  ],
- "emojiFlagVenezuela": [
+ "flagVenezuela": [
   "flags",
   "country-flag"
  ],
- "emojiFlagBritishVirginIslands": [
+ "flagBritishVirginIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagUSVirginIslands": [
+ "flagUSVirginIslands": [
   "flags",
   "country-flag"
  ],
- "emojiFlagVietnam": [
+ "flagVietnam": [
   "flags",
   "country-flag"
  ],
- "emojiFlagVanuatu": [
+ "flagVanuatu": [
   "flags",
   "country-flag"
  ],
- "emojiFlagWallisAndFutuna": [
+ "flagWallisAndFutuna": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSamoa": [
+ "flagSamoa": [
   "flags",
   "country-flag"
  ],
- "emojiFlagKosovo": [
+ "flagKosovo": [
   "flags",
   "country-flag"
  ],
- "emojiFlagYemen": [
+ "flagYemen": [
   "flags",
   "country-flag"
  ],
- "emojiFlagMayotte": [
+ "flagMayotte": [
   "flags",
   "country-flag"
  ],
- "emojiFlagSouthAfrica": [
+ "flagSouthAfrica": [
   "flags",
   "country-flag"
  ],
- "emojiFlagZambia": [
+ "flagZambia": [
   "flags",
   "country-flag"
  ],
- "emojiFlagZimbabwe": [
+ "flagZimbabwe": [
   "flags",
   "country-flag"
  ],
- "emojiFlagEngland": [
+ "flagEngland": [
   "flags",
   "subdivision-flag"
  ],
- "emojiFlagScotland": [
+ "flagScotland": [
   "flags",
   "subdivision-flag"
  ],
- "emojiFlagWales": [
+ "flagWales": [
   "flags",
   "subdivision-flag"
  ]
 };
 export const emojiGroupToKeyMap = {
  "smileys and emotion": [
-  "emojiGrinningFace",
-  "emojiGrinningFaceWithBigEyes",
-  "emojiGrinningFaceWithSmilingEyes",
-  "emojiBeamingFaceWithSmilingEyes",
-  "emojiGrinningSquintingFace",
-  "emojiGrinningFaceWithSweat",
-  "emojiRollingOnTheFloorLaughing",
-  "emojiFaceWithTearsOfJoy",
-  "emojiSlightlySmilingFace",
-  "emojiUpsideDownFace",
-  "emojiMeltingFace",
-  "emojiWinkingFace",
-  "emojiSmilingFaceWithSmilingEyes",
-  "emojiSmilingFaceWithHalo",
-  "emojiSmilingFaceWithHearts",
-  "emojiSmilingFaceWithHeartEyes",
-  "emojiStarStruck",
-  "emojiFaceBlowingAKiss",
-  "emojiKissingFace",
-  "emojiSmilingFace",
-  "emojiKissingFaceWithClosedEyes",
-  "emojiKissingFaceWithSmilingEyes",
-  "emojiSmilingFaceWithTear",
-  "emojiFaceSavoringFood",
-  "emojiFaceWithTongue",
-  "emojiWinkingFaceWithTongue",
-  "emojiZanyFace",
-  "emojiSquintingFaceWithTongue",
-  "emojiMoneyMouthFace",
-  "emojiSmilingFaceWithOpenHands",
-  "emojiFaceWithHandOverMouth",
-  "emojiFaceWithOpenEyesAndHandOverMouth",
-  "emojiFaceWithPeekingEye",
-  "emojiShushingFace",
-  "emojiThinkingFace",
-  "emojiSalutingFace",
-  "emojiZipperMouthFace",
-  "emojiFaceWithRaisedEyebrow",
-  "emojiNeutralFace",
-  "emojiExpressionlessFace",
-  "emojiFaceWithoutMouth",
-  "emojiDottedLineFace",
-  "emojiFaceInClouds",
-  "emojiSmirkingFace",
-  "emojiUnamusedFace",
-  "emojiFaceWithRollingEyes",
-  "emojiGrimacingFace",
-  "emojiFaceExhaling",
-  "emojiLyingFace",
-  "emojiShakingFace",
-  "emojiRelievedFace",
-  "emojiPensiveFace",
-  "emojiSleepyFace",
-  "emojiDroolingFace",
-  "emojiSleepingFace",
-  "emojiFaceWithMedicalMask",
-  "emojiFaceWithThermometer",
-  "emojiFaceWithHeadBandage",
-  "emojiNauseatedFace",
-  "emojiFaceVomiting",
-  "emojiSneezingFace",
-  "emojiHotFace",
-  "emojiColdFace",
-  "emojiWoozyFace",
-  "emojiFaceWithCrossedOutEyes",
-  "emojiFaceWithSpiralEyes",
-  "emojiExplodingHead",
-  "emojiCowboyHatFace",
-  "emojiPartyingFace",
-  "emojiDisguisedFace",
-  "emojiSmilingFaceWithSunglasses",
-  "emojiNerdFace",
-  "emojiFaceWithMonocle",
-  "emojiConfusedFace",
-  "emojiFaceWithDiagonalMouth",
-  "emojiWorriedFace",
-  "emojiSlightlyFrowningFace",
-  "emojiFrowningFace",
-  "emojiFaceWithOpenMouth",
-  "emojiHushedFace",
-  "emojiAstonishedFace",
-  "emojiFlushedFace",
-  "emojiPleadingFace",
-  "emojiFaceHoldingBackTears",
-  "emojiFrowningFaceWithOpenMouth",
-  "emojiAnguishedFace",
-  "emojiFearfulFace",
-  "emojiAnxiousFaceWithSweat",
-  "emojiSadButRelievedFace",
-  "emojiCryingFace",
-  "emojiLoudlyCryingFace",
-  "emojiFaceScreamingInFear",
-  "emojiConfoundedFace",
-  "emojiPerseveringFace",
-  "emojiDisappointedFace",
-  "emojiDowncastFaceWithSweat",
-  "emojiWearyFace",
-  "emojiTiredFace",
-  "emojiYawningFace",
-  "emojiFaceWithSteamFromNose",
-  "emojiEnragedFace",
-  "emojiAngryFace",
-  "emojiFaceWithSymbolsOnMouth",
-  "emojiSmilingFaceWithHorns",
-  "emojiAngryFaceWithHorns",
-  "emojiSkull",
-  "emojiSkullAndCrossbones",
-  "emojiPileOfPoo",
-  "emojiClownFace",
-  "emojiOgre",
-  "emojiGoblin",
-  "emojiGhost",
-  "emojiAlien",
-  "emojiAlienMonster",
-  "emojiRobot",
-  "emojiGrinningCat",
-  "emojiGrinningCatWithSmilingEyes",
-  "emojiCatWithTearsOfJoy",
-  "emojiSmilingCatWithHeartEyes",
-  "emojiCatWithWrySmile",
-  "emojiKissingCat",
-  "emojiWearyCat",
-  "emojiCryingCat",
-  "emojiPoutingCat",
-  "emojiSeeNoEvilMonkey",
-  "emojiHearNoEvilMonkey",
-  "emojiSpeakNoEvilMonkey",
-  "emojiLoveLetter",
-  "emojiHeartWithArrow",
-  "emojiHeartWithRibbon",
-  "emojiSparklingHeart",
-  "emojiGrowingHeart",
-  "emojiBeatingHeart",
-  "emojiRevolvingHearts",
-  "emojiTwoHearts",
-  "emojiHeartDecoration",
-  "emojiHeartExclamation",
-  "emojiBrokenHeart",
-  "emojiHeartOnFire",
-  "emojiMendingHeart",
-  "emojiRedHeart",
-  "emojiPinkHeart",
-  "emojiOrangeHeart",
-  "emojiYellowHeart",
-  "emojiGreenHeart",
-  "emojiBlueHeart",
-  "emojiLightBlueHeart",
-  "emojiPurpleHeart",
-  "emojiBrownHeart",
-  "emojiBlackHeart",
-  "emojiGreyHeart",
-  "emojiWhiteHeart",
-  "emojiKissMark",
-  "emojiHundredPoints",
-  "emojiAngerSymbol",
-  "emojiCollision",
-  "emojiDizzy",
-  "emojiSweatDroplets",
-  "emojiDashingAway",
-  "emojiHole",
-  "emojiSpeechBalloon",
-  "emojiEyeInSpeechBubble",
-  "emojiLeftSpeechBubble",
-  "emojiRightAngerBubble",
-  "emojiThoughtBalloon",
-  "emojiZZZ"
+  "grinningFace",
+  "grinningFaceWithBigEyes",
+  "grinningFaceWithSmilingEyes",
+  "beamingFaceWithSmilingEyes",
+  "grinningSquintingFace",
+  "grinningFaceWithSweat",
+  "rollingOnTheFloorLaughing",
+  "faceWithTearsOfJoy",
+  "slightlySmilingFace",
+  "upsideDownFace",
+  "meltingFace",
+  "winkingFace",
+  "smilingFaceWithSmilingEyes",
+  "smilingFaceWithHalo",
+  "smilingFaceWithHearts",
+  "smilingFaceWithHeartEyes",
+  "starStruck",
+  "faceBlowingAKiss",
+  "kissingFace",
+  "smilingFace",
+  "kissingFaceWithClosedEyes",
+  "kissingFaceWithSmilingEyes",
+  "smilingFaceWithTear",
+  "faceSavoringFood",
+  "faceWithTongue",
+  "winkingFaceWithTongue",
+  "zanyFace",
+  "squintingFaceWithTongue",
+  "moneyMouthFace",
+  "smilingFaceWithOpenHands",
+  "faceWithHandOverMouth",
+  "faceWithOpenEyesAndHandOverMouth",
+  "faceWithPeekingEye",
+  "shushingFace",
+  "thinkingFace",
+  "salutingFace",
+  "zipperMouthFace",
+  "faceWithRaisedEyebrow",
+  "neutralFace",
+  "expressionlessFace",
+  "faceWithoutMouth",
+  "dottedLineFace",
+  "faceInClouds",
+  "smirkingFace",
+  "unamusedFace",
+  "faceWithRollingEyes",
+  "grimacingFace",
+  "faceExhaling",
+  "lyingFace",
+  "shakingFace",
+  "relievedFace",
+  "pensiveFace",
+  "sleepyFace",
+  "droolingFace",
+  "sleepingFace",
+  "faceWithMedicalMask",
+  "faceWithThermometer",
+  "faceWithHeadBandage",
+  "nauseatedFace",
+  "faceVomiting",
+  "sneezingFace",
+  "hotFace",
+  "coldFace",
+  "woozyFace",
+  "faceWithCrossedOutEyes",
+  "faceWithSpiralEyes",
+  "explodingHead",
+  "cowboyHatFace",
+  "partyingFace",
+  "disguisedFace",
+  "smilingFaceWithSunglasses",
+  "nerdFace",
+  "faceWithMonocle",
+  "confusedFace",
+  "faceWithDiagonalMouth",
+  "worriedFace",
+  "slightlyFrowningFace",
+  "frowningFace",
+  "faceWithOpenMouth",
+  "hushedFace",
+  "astonishedFace",
+  "flushedFace",
+  "pleadingFace",
+  "faceHoldingBackTears",
+  "frowningFaceWithOpenMouth",
+  "anguishedFace",
+  "fearfulFace",
+  "anxiousFaceWithSweat",
+  "sadButRelievedFace",
+  "cryingFace",
+  "loudlyCryingFace",
+  "faceScreamingInFear",
+  "confoundedFace",
+  "perseveringFace",
+  "disappointedFace",
+  "downcastFaceWithSweat",
+  "wearyFace",
+  "tiredFace",
+  "yawningFace",
+  "faceWithSteamFromNose",
+  "enragedFace",
+  "angryFace",
+  "faceWithSymbolsOnMouth",
+  "smilingFaceWithHorns",
+  "angryFaceWithHorns",
+  "skull",
+  "skullAndCrossbones",
+  "pileOfPoo",
+  "clownFace",
+  "ogre",
+  "goblin",
+  "ghost",
+  "alien",
+  "alienMonster",
+  "robot",
+  "grinningCat",
+  "grinningCatWithSmilingEyes",
+  "catWithTearsOfJoy",
+  "smilingCatWithHeartEyes",
+  "catWithWrySmile",
+  "kissingCat",
+  "wearyCat",
+  "cryingCat",
+  "poutingCat",
+  "seeNoEvilMonkey",
+  "hearNoEvilMonkey",
+  "speakNoEvilMonkey",
+  "loveLetter",
+  "heartWithArrow",
+  "heartWithRibbon",
+  "sparklingHeart",
+  "growingHeart",
+  "beatingHeart",
+  "revolvingHearts",
+  "twoHearts",
+  "heartDecoration",
+  "heartExclamation",
+  "brokenHeart",
+  "heartOnFire",
+  "mendingHeart",
+  "redHeart",
+  "pinkHeart",
+  "orangeHeart",
+  "yellowHeart",
+  "greenHeart",
+  "blueHeart",
+  "lightBlueHeart",
+  "purpleHeart",
+  "brownHeart",
+  "blackHeart",
+  "greyHeart",
+  "whiteHeart",
+  "kissMark",
+  "hundredPoints",
+  "angerSymbol",
+  "collision",
+  "dizzy",
+  "sweatDroplets",
+  "dashingAway",
+  "hole",
+  "speechBalloon",
+  "eyeInSpeechBubble",
+  "leftSpeechBubble",
+  "rightAngerBubble",
+  "thoughtBalloon",
+  "zZZ"
  ],
  "smileys and emotion/face-smiling": [
-  "emojiGrinningFace",
-  "emojiGrinningFaceWithBigEyes",
-  "emojiGrinningFaceWithSmilingEyes",
-  "emojiBeamingFaceWithSmilingEyes",
-  "emojiGrinningSquintingFace",
-  "emojiGrinningFaceWithSweat",
-  "emojiRollingOnTheFloorLaughing",
-  "emojiFaceWithTearsOfJoy",
-  "emojiSlightlySmilingFace",
-  "emojiUpsideDownFace",
-  "emojiMeltingFace",
-  "emojiWinkingFace",
-  "emojiSmilingFaceWithSmilingEyes",
-  "emojiSmilingFaceWithHalo"
+  "grinningFace",
+  "grinningFaceWithBigEyes",
+  "grinningFaceWithSmilingEyes",
+  "beamingFaceWithSmilingEyes",
+  "grinningSquintingFace",
+  "grinningFaceWithSweat",
+  "rollingOnTheFloorLaughing",
+  "faceWithTearsOfJoy",
+  "slightlySmilingFace",
+  "upsideDownFace",
+  "meltingFace",
+  "winkingFace",
+  "smilingFaceWithSmilingEyes",
+  "smilingFaceWithHalo"
  ],
  "smileys and emotion/face-affection": [
-  "emojiSmilingFaceWithHearts",
-  "emojiSmilingFaceWithHeartEyes",
-  "emojiStarStruck",
-  "emojiFaceBlowingAKiss",
-  "emojiKissingFace",
-  "emojiSmilingFace",
-  "emojiKissingFaceWithClosedEyes",
-  "emojiKissingFaceWithSmilingEyes",
-  "emojiSmilingFaceWithTear"
+  "smilingFaceWithHearts",
+  "smilingFaceWithHeartEyes",
+  "starStruck",
+  "faceBlowingAKiss",
+  "kissingFace",
+  "smilingFace",
+  "kissingFaceWithClosedEyes",
+  "kissingFaceWithSmilingEyes",
+  "smilingFaceWithTear"
  ],
  "smileys and emotion/face-tongue": [
-  "emojiFaceSavoringFood",
-  "emojiFaceWithTongue",
-  "emojiWinkingFaceWithTongue",
-  "emojiZanyFace",
-  "emojiSquintingFaceWithTongue",
-  "emojiMoneyMouthFace"
+  "faceSavoringFood",
+  "faceWithTongue",
+  "winkingFaceWithTongue",
+  "zanyFace",
+  "squintingFaceWithTongue",
+  "moneyMouthFace"
  ],
  "smileys and emotion/face-hand": [
-  "emojiSmilingFaceWithOpenHands",
-  "emojiFaceWithHandOverMouth",
-  "emojiFaceWithOpenEyesAndHandOverMouth",
-  "emojiFaceWithPeekingEye",
-  "emojiShushingFace",
-  "emojiThinkingFace",
-  "emojiSalutingFace"
+  "smilingFaceWithOpenHands",
+  "faceWithHandOverMouth",
+  "faceWithOpenEyesAndHandOverMouth",
+  "faceWithPeekingEye",
+  "shushingFace",
+  "thinkingFace",
+  "salutingFace"
  ],
  "smileys and emotion/face-neutral-skeptical": [
-  "emojiZipperMouthFace",
-  "emojiFaceWithRaisedEyebrow",
-  "emojiNeutralFace",
-  "emojiExpressionlessFace",
-  "emojiFaceWithoutMouth",
-  "emojiDottedLineFace",
-  "emojiFaceInClouds",
-  "emojiSmirkingFace",
-  "emojiUnamusedFace",
-  "emojiFaceWithRollingEyes",
-  "emojiGrimacingFace",
-  "emojiFaceExhaling",
-  "emojiLyingFace",
-  "emojiShakingFace"
+  "zipperMouthFace",
+  "faceWithRaisedEyebrow",
+  "neutralFace",
+  "expressionlessFace",
+  "faceWithoutMouth",
+  "dottedLineFace",
+  "faceInClouds",
+  "smirkingFace",
+  "unamusedFace",
+  "faceWithRollingEyes",
+  "grimacingFace",
+  "faceExhaling",
+  "lyingFace",
+  "shakingFace"
  ],
  "smileys and emotion/face-sleepy": [
-  "emojiRelievedFace",
-  "emojiPensiveFace",
-  "emojiSleepyFace",
-  "emojiDroolingFace",
-  "emojiSleepingFace"
+  "relievedFace",
+  "pensiveFace",
+  "sleepyFace",
+  "droolingFace",
+  "sleepingFace"
  ],
  "smileys and emotion/face-unwell": [
-  "emojiFaceWithMedicalMask",
-  "emojiFaceWithThermometer",
-  "emojiFaceWithHeadBandage",
-  "emojiNauseatedFace",
-  "emojiFaceVomiting",
-  "emojiSneezingFace",
-  "emojiHotFace",
-  "emojiColdFace",
-  "emojiWoozyFace",
-  "emojiFaceWithCrossedOutEyes",
-  "emojiFaceWithSpiralEyes",
-  "emojiExplodingHead"
+  "faceWithMedicalMask",
+  "faceWithThermometer",
+  "faceWithHeadBandage",
+  "nauseatedFace",
+  "faceVomiting",
+  "sneezingFace",
+  "hotFace",
+  "coldFace",
+  "woozyFace",
+  "faceWithCrossedOutEyes",
+  "faceWithSpiralEyes",
+  "explodingHead"
  ],
  "smileys and emotion/face-hat": [
-  "emojiCowboyHatFace",
-  "emojiPartyingFace",
-  "emojiDisguisedFace"
+  "cowboyHatFace",
+  "partyingFace",
+  "disguisedFace"
  ],
  "smileys and emotion/face-glasses": [
-  "emojiSmilingFaceWithSunglasses",
-  "emojiNerdFace",
-  "emojiFaceWithMonocle"
+  "smilingFaceWithSunglasses",
+  "nerdFace",
+  "faceWithMonocle"
  ],
  "smileys and emotion/face-concerned": [
-  "emojiConfusedFace",
-  "emojiFaceWithDiagonalMouth",
-  "emojiWorriedFace",
-  "emojiSlightlyFrowningFace",
-  "emojiFrowningFace",
-  "emojiFaceWithOpenMouth",
-  "emojiHushedFace",
-  "emojiAstonishedFace",
-  "emojiFlushedFace",
-  "emojiPleadingFace",
-  "emojiFaceHoldingBackTears",
-  "emojiFrowningFaceWithOpenMouth",
-  "emojiAnguishedFace",
-  "emojiFearfulFace",
-  "emojiAnxiousFaceWithSweat",
-  "emojiSadButRelievedFace",
-  "emojiCryingFace",
-  "emojiLoudlyCryingFace",
-  "emojiFaceScreamingInFear",
-  "emojiConfoundedFace",
-  "emojiPerseveringFace",
-  "emojiDisappointedFace",
-  "emojiDowncastFaceWithSweat",
-  "emojiWearyFace",
-  "emojiTiredFace",
-  "emojiYawningFace"
+  "confusedFace",
+  "faceWithDiagonalMouth",
+  "worriedFace",
+  "slightlyFrowningFace",
+  "frowningFace",
+  "faceWithOpenMouth",
+  "hushedFace",
+  "astonishedFace",
+  "flushedFace",
+  "pleadingFace",
+  "faceHoldingBackTears",
+  "frowningFaceWithOpenMouth",
+  "anguishedFace",
+  "fearfulFace",
+  "anxiousFaceWithSweat",
+  "sadButRelievedFace",
+  "cryingFace",
+  "loudlyCryingFace",
+  "faceScreamingInFear",
+  "confoundedFace",
+  "perseveringFace",
+  "disappointedFace",
+  "downcastFaceWithSweat",
+  "wearyFace",
+  "tiredFace",
+  "yawningFace"
  ],
  "smileys and emotion/face-negative": [
-  "emojiFaceWithSteamFromNose",
-  "emojiEnragedFace",
-  "emojiAngryFace",
-  "emojiFaceWithSymbolsOnMouth",
-  "emojiSmilingFaceWithHorns",
-  "emojiAngryFaceWithHorns",
-  "emojiSkull",
-  "emojiSkullAndCrossbones"
+  "faceWithSteamFromNose",
+  "enragedFace",
+  "angryFace",
+  "faceWithSymbolsOnMouth",
+  "smilingFaceWithHorns",
+  "angryFaceWithHorns",
+  "skull",
+  "skullAndCrossbones"
  ],
  "smileys and emotion/face-costume": [
-  "emojiPileOfPoo",
-  "emojiClownFace",
-  "emojiOgre",
-  "emojiGoblin",
-  "emojiGhost",
-  "emojiAlien",
-  "emojiAlienMonster",
-  "emojiRobot"
+  "pileOfPoo",
+  "clownFace",
+  "ogre",
+  "goblin",
+  "ghost",
+  "alien",
+  "alienMonster",
+  "robot"
  ],
  "smileys and emotion/cat-face": [
-  "emojiGrinningCat",
-  "emojiGrinningCatWithSmilingEyes",
-  "emojiCatWithTearsOfJoy",
-  "emojiSmilingCatWithHeartEyes",
-  "emojiCatWithWrySmile",
-  "emojiKissingCat",
-  "emojiWearyCat",
-  "emojiCryingCat",
-  "emojiPoutingCat"
+  "grinningCat",
+  "grinningCatWithSmilingEyes",
+  "catWithTearsOfJoy",
+  "smilingCatWithHeartEyes",
+  "catWithWrySmile",
+  "kissingCat",
+  "wearyCat",
+  "cryingCat",
+  "poutingCat"
  ],
  "smileys and emotion/monkey-face": [
-  "emojiSeeNoEvilMonkey",
-  "emojiHearNoEvilMonkey",
-  "emojiSpeakNoEvilMonkey"
+  "seeNoEvilMonkey",
+  "hearNoEvilMonkey",
+  "speakNoEvilMonkey"
  ],
  "smileys and emotion/heart": [
-  "emojiLoveLetter",
-  "emojiHeartWithArrow",
-  "emojiHeartWithRibbon",
-  "emojiSparklingHeart",
-  "emojiGrowingHeart",
-  "emojiBeatingHeart",
-  "emojiRevolvingHearts",
-  "emojiTwoHearts",
-  "emojiHeartDecoration",
-  "emojiHeartExclamation",
-  "emojiBrokenHeart",
-  "emojiHeartOnFire",
-  "emojiMendingHeart",
-  "emojiRedHeart",
-  "emojiPinkHeart",
-  "emojiOrangeHeart",
-  "emojiYellowHeart",
-  "emojiGreenHeart",
-  "emojiBlueHeart",
-  "emojiLightBlueHeart",
-  "emojiPurpleHeart",
-  "emojiBrownHeart",
-  "emojiBlackHeart",
-  "emojiGreyHeart",
-  "emojiWhiteHeart"
+  "loveLetter",
+  "heartWithArrow",
+  "heartWithRibbon",
+  "sparklingHeart",
+  "growingHeart",
+  "beatingHeart",
+  "revolvingHearts",
+  "twoHearts",
+  "heartDecoration",
+  "heartExclamation",
+  "brokenHeart",
+  "heartOnFire",
+  "mendingHeart",
+  "redHeart",
+  "pinkHeart",
+  "orangeHeart",
+  "yellowHeart",
+  "greenHeart",
+  "blueHeart",
+  "lightBlueHeart",
+  "purpleHeart",
+  "brownHeart",
+  "blackHeart",
+  "greyHeart",
+  "whiteHeart"
  ],
  "smileys and emotion/emotion": [
-  "emojiKissMark",
-  "emojiHundredPoints",
-  "emojiAngerSymbol",
-  "emojiCollision",
-  "emojiDizzy",
-  "emojiSweatDroplets",
-  "emojiDashingAway",
-  "emojiHole",
-  "emojiSpeechBalloon",
-  "emojiEyeInSpeechBubble",
-  "emojiLeftSpeechBubble",
-  "emojiRightAngerBubble",
-  "emojiThoughtBalloon",
-  "emojiZZZ"
+  "kissMark",
+  "hundredPoints",
+  "angerSymbol",
+  "collision",
+  "dizzy",
+  "sweatDroplets",
+  "dashingAway",
+  "hole",
+  "speechBalloon",
+  "eyeInSpeechBubble",
+  "leftSpeechBubble",
+  "rightAngerBubble",
+  "thoughtBalloon",
+  "zZZ"
  ],
  "people and body": [
-  "emojiWavingHand",
-  "emojiRaisedBackOfHand",
-  "emojiHandWithFingersSplayed",
-  "emojiRaisedHand",
-  "emojiVulcanSalute",
-  "emojiRightwardsHand",
-  "emojiLeftwardsHand",
-  "emojiPalmDownHand",
-  "emojiPalmUpHand",
-  "emojiLeftwardsPushingHand",
-  "emojiRightwardsPushingHand",
-  "emojiOKHand",
-  "emojiPinchedFingers",
-  "emojiPinchingHand",
-  "emojiVictoryHand",
-  "emojiCrossedFingers",
-  "emojiHandWithIndexFingerAndThumbCrossed",
-  "emojiLoveYouGesture",
-  "emojiSignOfTheHorns",
-  "emojiCallMeHand",
-  "emojiBackhandIndexPointingLeft",
-  "emojiBackhandIndexPointingRight",
-  "emojiBackhandIndexPointingUp",
-  "emojiMiddleFinger",
-  "emojiBackhandIndexPointingDown",
-  "emojiIndexPointingUp",
-  "emojiIndexPointingAtTheViewer",
-  "emojiThumbsUp",
-  "emojiThumbsDown",
-  "emojiRaisedFist",
-  "emojiOncomingFist",
-  "emojiLeftFacingFist",
-  "emojiRightFacingFist",
-  "emojiClappingHands",
-  "emojiRaisingHands",
-  "emojiHeartHands",
-  "emojiOpenHands",
-  "emojiPalmsUpTogether",
-  "emojiHandshake",
-  "emojiFoldedHands",
-  "emojiWritingHand",
-  "emojiNailPolish",
-  "emojiSelfie",
-  "emojiFlexedBiceps",
-  "emojiMechanicalArm",
-  "emojiMechanicalLeg",
-  "emojiLeg",
-  "emojiFoot",
-  "emojiEar",
-  "emojiEarWithHearingAid",
-  "emojiNose",
-  "emojiBrain",
-  "emojiAnatomicalHeart",
-  "emojiLungs",
-  "emojiTooth",
-  "emojiBone",
-  "emojiEyes",
-  "emojiEye",
-  "emojiTongue",
-  "emojiMouth",
-  "emojiBitingLip",
-  "emojiBaby",
-  "emojiChild",
-  "emojiBoy",
-  "emojiGirl",
-  "emojiPerson",
-  "emojiPersonBlondHair",
-  "emojiMan",
-  "emojiPersonBeard",
-  "emojiManBeard",
-  "emojiWomanBeard",
-  "emojiManRedHair",
-  "emojiManCurlyHair",
-  "emojiManWhiteHair",
-  "emojiManBald",
-  "emojiWoman",
-  "emojiWomanRedHair",
-  "emojiPersonRedHair",
-  "emojiWomanCurlyHair",
-  "emojiPersonCurlyHair",
-  "emojiWomanWhiteHair",
-  "emojiPersonWhiteHair",
-  "emojiWomanBald",
-  "emojiPersonBald",
-  "emojiWomanBlondHair",
-  "emojiManBlondHair",
-  "emojiOlderPerson",
-  "emojiOldMan",
-  "emojiOldWoman",
-  "emojiPersonFrowning",
-  "emojiManFrowning",
-  "emojiWomanFrowning",
-  "emojiPersonPouting",
-  "emojiManPouting",
-  "emojiWomanPouting",
-  "emojiPersonGesturingNO",
-  "emojiManGesturingNO",
-  "emojiWomanGesturingNO",
-  "emojiPersonGesturingOK",
-  "emojiManGesturingOK",
-  "emojiWomanGesturingOK",
-  "emojiPersonTippingHand",
-  "emojiManTippingHand",
-  "emojiWomanTippingHand",
-  "emojiPersonRaisingHand",
-  "emojiManRaisingHand",
-  "emojiWomanRaisingHand",
-  "emojiDeafPerson",
-  "emojiDeafMan",
-  "emojiDeafWoman",
-  "emojiPersonBowing",
-  "emojiManBowing",
-  "emojiWomanBowing",
-  "emojiPersonFacepalming",
-  "emojiManFacepalming",
-  "emojiWomanFacepalming",
-  "emojiPersonShrugging",
-  "emojiManShrugging",
-  "emojiWomanShrugging",
-  "emojiHealthWorker",
-  "emojiManHealthWorker",
-  "emojiWomanHealthWorker",
-  "emojiStudent",
-  "emojiManStudent",
-  "emojiWomanStudent",
-  "emojiTeacher",
-  "emojiManTeacher",
-  "emojiWomanTeacher",
-  "emojiJudge",
-  "emojiManJudge",
-  "emojiWomanJudge",
-  "emojiFarmer",
-  "emojiManFarmer",
-  "emojiWomanFarmer",
-  "emojiCook",
-  "emojiManCook",
-  "emojiWomanCook",
-  "emojiMechanic",
-  "emojiManMechanic",
-  "emojiWomanMechanic",
-  "emojiFactoryWorker",
-  "emojiManFactoryWorker",
-  "emojiWomanFactoryWorker",
-  "emojiOfficeWorker",
-  "emojiManOfficeWorker",
-  "emojiWomanOfficeWorker",
-  "emojiScientist",
-  "emojiManScientist",
-  "emojiWomanScientist",
-  "emojiTechnologist",
-  "emojiManTechnologist",
-  "emojiWomanTechnologist",
-  "emojiSinger",
-  "emojiManSinger",
-  "emojiWomanSinger",
-  "emojiArtist",
-  "emojiManArtist",
-  "emojiWomanArtist",
-  "emojiPilot",
-  "emojiManPilot",
-  "emojiWomanPilot",
-  "emojiAstronaut",
-  "emojiManAstronaut",
-  "emojiWomanAstronaut",
-  "emojiFirefighter",
-  "emojiManFirefighter",
-  "emojiWomanFirefighter",
-  "emojiPoliceOfficer",
-  "emojiManPoliceOfficer",
-  "emojiWomanPoliceOfficer",
-  "emojiDetective",
-  "emojiManDetective",
-  "emojiWomanDetective",
-  "emojiGuard",
-  "emojiManGuard",
-  "emojiWomanGuard",
-  "emojiNinja",
-  "emojiConstructionWorker",
-  "emojiManConstructionWorker",
-  "emojiWomanConstructionWorker",
-  "emojiPersonWithCrown",
-  "emojiPrince",
-  "emojiPrincess",
-  "emojiPersonWearingTurban",
-  "emojiManWearingTurban",
-  "emojiWomanWearingTurban",
-  "emojiPersonWithSkullcap",
-  "emojiWomanWithHeadscarf",
-  "emojiPersonInTuxedo",
-  "emojiManInTuxedo",
-  "emojiWomanInTuxedo",
-  "emojiPersonWithVeil",
-  "emojiManWithVeil",
-  "emojiWomanWithVeil",
-  "emojiPregnantWoman",
-  "emojiPregnantMan",
-  "emojiPregnantPerson",
-  "emojiBreastFeeding",
-  "emojiWomanFeedingBaby",
-  "emojiManFeedingBaby",
-  "emojiPersonFeedingBaby",
-  "emojiBabyAngel",
-  "emojiSantaClaus",
-  "emojiMrsClaus",
-  "emojiMxClaus",
-  "emojiSuperhero",
-  "emojiManSuperhero",
-  "emojiWomanSuperhero",
-  "emojiSupervillain",
-  "emojiManSupervillain",
-  "emojiWomanSupervillain",
-  "emojiMage",
-  "emojiManMage",
-  "emojiWomanMage",
-  "emojiFairy",
-  "emojiManFairy",
-  "emojiWomanFairy",
-  "emojiVampire",
-  "emojiManVampire",
-  "emojiWomanVampire",
-  "emojiMerperson",
-  "emojiMerman",
-  "emojiMermaid",
-  "emojiElf",
-  "emojiManElf",
-  "emojiWomanElf",
-  "emojiGenie",
-  "emojiManGenie",
-  "emojiWomanGenie",
-  "emojiZombie",
-  "emojiManZombie",
-  "emojiWomanZombie",
-  "emojiTroll",
-  "emojiPersonGettingMassage",
-  "emojiManGettingMassage",
-  "emojiWomanGettingMassage",
-  "emojiPersonGettingHaircut",
-  "emojiManGettingHaircut",
-  "emojiWomanGettingHaircut",
-  "emojiPersonWalking",
-  "emojiManWalking",
-  "emojiWomanWalking",
-  "emojiPersonStanding",
-  "emojiManStanding",
-  "emojiWomanStanding",
-  "emojiPersonKneeling",
-  "emojiManKneeling",
-  "emojiWomanKneeling",
-  "emojiPersonWithWhiteCane",
-  "emojiManWithWhiteCane",
-  "emojiWomanWithWhiteCane",
-  "emojiPersonInMotorizedWheelchair",
-  "emojiManInMotorizedWheelchair",
-  "emojiWomanInMotorizedWheelchair",
-  "emojiPersonInManualWheelchair",
-  "emojiManInManualWheelchair",
-  "emojiWomanInManualWheelchair",
-  "emojiPersonRunning",
-  "emojiManRunning",
-  "emojiWomanRunning",
-  "emojiWomanDancing",
-  "emojiManDancing",
-  "emojiPersonInSuitLevitating",
-  "emojiPeopleWithBunnyEars",
-  "emojiMenWithBunnyEars",
-  "emojiWomenWithBunnyEars",
-  "emojiPersonInSteamyRoom",
-  "emojiManInSteamyRoom",
-  "emojiWomanInSteamyRoom",
-  "emojiPersonClimbing",
-  "emojiManClimbing",
-  "emojiWomanClimbing",
-  "emojiPersonFencing",
-  "emojiHorseRacing",
-  "emojiSkier",
-  "emojiSnowboarder",
-  "emojiPersonGolfing",
-  "emojiManGolfing",
-  "emojiWomanGolfing",
-  "emojiPersonSurfing",
-  "emojiManSurfing",
-  "emojiWomanSurfing",
-  "emojiPersonRowingBoat",
-  "emojiManRowingBoat",
-  "emojiWomanRowingBoat",
-  "emojiPersonSwimming",
-  "emojiManSwimming",
-  "emojiWomanSwimming",
-  "emojiPersonBouncingBall",
-  "emojiManBouncingBall",
-  "emojiWomanBouncingBall",
-  "emojiPersonLiftingWeights",
-  "emojiManLiftingWeights",
-  "emojiWomanLiftingWeights",
-  "emojiPersonBiking",
-  "emojiManBiking",
-  "emojiWomanBiking",
-  "emojiPersonMountainBiking",
-  "emojiManMountainBiking",
-  "emojiWomanMountainBiking",
-  "emojiPersonCartwheeling",
-  "emojiManCartwheeling",
-  "emojiWomanCartwheeling",
-  "emojiPeopleWrestling",
-  "emojiMenWrestling",
-  "emojiWomenWrestling",
-  "emojiPersonPlayingWaterPolo",
-  "emojiManPlayingWaterPolo",
-  "emojiWomanPlayingWaterPolo",
-  "emojiPersonPlayingHandball",
-  "emojiManPlayingHandball",
-  "emojiWomanPlayingHandball",
-  "emojiPersonJuggling",
-  "emojiManJuggling",
-  "emojiWomanJuggling",
-  "emojiPersonInLotusPosition",
-  "emojiManInLotusPosition",
-  "emojiWomanInLotusPosition",
-  "emojiPersonTakingBath",
-  "emojiPersonInBed",
-  "emojiPeopleHoldingHands",
-  "emojiWomenHoldingHands",
-  "emojiWomanAndManHoldingHands",
-  "emojiMenHoldingHands",
-  "emojiKiss",
-  "emojiKissWomanMan",
-  "emojiKissManMan",
-  "emojiKissWomanWoman",
-  "emojiCoupleWithHeart",
-  "emojiCoupleWithHeartWomanMan",
-  "emojiCoupleWithHeartManMan",
-  "emojiCoupleWithHeartWomanWoman",
-  "emojiFamily",
-  "emojiFamilyManWomanBoy",
-  "emojiFamilyManWomanGirl",
-  "emojiFamilyManWomanGirlBoy",
-  "emojiFamilyManWomanBoyBoy",
-  "emojiFamilyManWomanGirlGirl",
-  "emojiFamilyManManBoy",
-  "emojiFamilyManManGirl",
-  "emojiFamilyManManGirlBoy",
-  "emojiFamilyManManBoyBoy",
-  "emojiFamilyManManGirlGirl",
-  "emojiFamilyWomanWomanBoy",
-  "emojiFamilyWomanWomanGirl",
-  "emojiFamilyWomanWomanGirlBoy",
-  "emojiFamilyWomanWomanBoyBoy",
-  "emojiFamilyWomanWomanGirlGirl",
-  "emojiFamilyManBoy",
-  "emojiFamilyManBoyBoy",
-  "emojiFamilyManGirl",
-  "emojiFamilyManGirlBoy",
-  "emojiFamilyManGirlGirl",
-  "emojiFamilyWomanBoy",
-  "emojiFamilyWomanBoyBoy",
-  "emojiFamilyWomanGirl",
-  "emojiFamilyWomanGirlBoy",
-  "emojiFamilyWomanGirlGirl",
-  "emojiSpeakingHead",
-  "emojiBustInSilhouette",
-  "emojiBustsInSilhouette",
-  "emojiPeopleHugging",
-  "emojiFootprints"
+  "wavingHand",
+  "raisedBackOfHand",
+  "handWithFingersSplayed",
+  "raisedHand",
+  "vulcanSalute",
+  "rightwardsHand",
+  "leftwardsHand",
+  "palmDownHand",
+  "palmUpHand",
+  "leftwardsPushingHand",
+  "rightwardsPushingHand",
+  "oKHand",
+  "pinchedFingers",
+  "pinchingHand",
+  "victoryHand",
+  "crossedFingers",
+  "handWithIndexFingerAndThumbCrossed",
+  "loveYouGesture",
+  "signOfTheHorns",
+  "callMeHand",
+  "backhandIndexPointingLeft",
+  "backhandIndexPointingRight",
+  "backhandIndexPointingUp",
+  "middleFinger",
+  "backhandIndexPointingDown",
+  "indexPointingUp",
+  "indexPointingAtTheViewer",
+  "thumbsUp",
+  "thumbsDown",
+  "raisedFist",
+  "oncomingFist",
+  "leftFacingFist",
+  "rightFacingFist",
+  "clappingHands",
+  "raisingHands",
+  "heartHands",
+  "openHands",
+  "palmsUpTogether",
+  "handshake",
+  "foldedHands",
+  "writingHand",
+  "nailPolish",
+  "selfie",
+  "flexedBiceps",
+  "mechanicalArm",
+  "mechanicalLeg",
+  "leg",
+  "foot",
+  "ear",
+  "earWithHearingAid",
+  "nose",
+  "brain",
+  "anatomicalHeart",
+  "lungs",
+  "tooth",
+  "bone",
+  "eyes",
+  "eye",
+  "tongue",
+  "mouth",
+  "bitingLip",
+  "baby",
+  "child",
+  "boy",
+  "girl",
+  "person",
+  "personBlondHair",
+  "man",
+  "personBeard",
+  "manBeard",
+  "womanBeard",
+  "manRedHair",
+  "manCurlyHair",
+  "manWhiteHair",
+  "manBald",
+  "woman",
+  "womanRedHair",
+  "personRedHair",
+  "womanCurlyHair",
+  "personCurlyHair",
+  "womanWhiteHair",
+  "personWhiteHair",
+  "womanBald",
+  "personBald",
+  "womanBlondHair",
+  "manBlondHair",
+  "olderPerson",
+  "oldMan",
+  "oldWoman",
+  "personFrowning",
+  "manFrowning",
+  "womanFrowning",
+  "personPouting",
+  "manPouting",
+  "womanPouting",
+  "personGesturingNO",
+  "manGesturingNO",
+  "womanGesturingNO",
+  "personGesturingOK",
+  "manGesturingOK",
+  "womanGesturingOK",
+  "personTippingHand",
+  "manTippingHand",
+  "womanTippingHand",
+  "personRaisingHand",
+  "manRaisingHand",
+  "womanRaisingHand",
+  "deafPerson",
+  "deafMan",
+  "deafWoman",
+  "personBowing",
+  "manBowing",
+  "womanBowing",
+  "personFacepalming",
+  "manFacepalming",
+  "womanFacepalming",
+  "personShrugging",
+  "manShrugging",
+  "womanShrugging",
+  "healthWorker",
+  "manHealthWorker",
+  "womanHealthWorker",
+  "student",
+  "manStudent",
+  "womanStudent",
+  "teacher",
+  "manTeacher",
+  "womanTeacher",
+  "judge",
+  "manJudge",
+  "womanJudge",
+  "farmer",
+  "manFarmer",
+  "womanFarmer",
+  "cook",
+  "manCook",
+  "womanCook",
+  "mechanic",
+  "manMechanic",
+  "womanMechanic",
+  "factoryWorker",
+  "manFactoryWorker",
+  "womanFactoryWorker",
+  "officeWorker",
+  "manOfficeWorker",
+  "womanOfficeWorker",
+  "scientist",
+  "manScientist",
+  "womanScientist",
+  "technologist",
+  "manTechnologist",
+  "womanTechnologist",
+  "singer",
+  "manSinger",
+  "womanSinger",
+  "artist",
+  "manArtist",
+  "womanArtist",
+  "pilot",
+  "manPilot",
+  "womanPilot",
+  "astronaut",
+  "manAstronaut",
+  "womanAstronaut",
+  "firefighter",
+  "manFirefighter",
+  "womanFirefighter",
+  "policeOfficer",
+  "manPoliceOfficer",
+  "womanPoliceOfficer",
+  "detective",
+  "manDetective",
+  "womanDetective",
+  "guard",
+  "manGuard",
+  "womanGuard",
+  "ninja",
+  "constructionWorker",
+  "manConstructionWorker",
+  "womanConstructionWorker",
+  "personWithCrown",
+  "prince",
+  "princess",
+  "personWearingTurban",
+  "manWearingTurban",
+  "womanWearingTurban",
+  "personWithSkullcap",
+  "womanWithHeadscarf",
+  "personInTuxedo",
+  "manInTuxedo",
+  "womanInTuxedo",
+  "personWithVeil",
+  "manWithVeil",
+  "womanWithVeil",
+  "pregnantWoman",
+  "pregnantMan",
+  "pregnantPerson",
+  "breastFeeding",
+  "womanFeedingBaby",
+  "manFeedingBaby",
+  "personFeedingBaby",
+  "babyAngel",
+  "santaClaus",
+  "mrsClaus",
+  "mxClaus",
+  "superhero",
+  "manSuperhero",
+  "womanSuperhero",
+  "supervillain",
+  "manSupervillain",
+  "womanSupervillain",
+  "mage",
+  "manMage",
+  "womanMage",
+  "fairy",
+  "manFairy",
+  "womanFairy",
+  "vampire",
+  "manVampire",
+  "womanVampire",
+  "merperson",
+  "merman",
+  "mermaid",
+  "elf",
+  "manElf",
+  "womanElf",
+  "genie",
+  "manGenie",
+  "womanGenie",
+  "zombie",
+  "manZombie",
+  "womanZombie",
+  "troll",
+  "personGettingMassage",
+  "manGettingMassage",
+  "womanGettingMassage",
+  "personGettingHaircut",
+  "manGettingHaircut",
+  "womanGettingHaircut",
+  "personWalking",
+  "manWalking",
+  "womanWalking",
+  "personStanding",
+  "manStanding",
+  "womanStanding",
+  "personKneeling",
+  "manKneeling",
+  "womanKneeling",
+  "personWithWhiteCane",
+  "manWithWhiteCane",
+  "womanWithWhiteCane",
+  "personInMotorizedWheelchair",
+  "manInMotorizedWheelchair",
+  "womanInMotorizedWheelchair",
+  "personInManualWheelchair",
+  "manInManualWheelchair",
+  "womanInManualWheelchair",
+  "personRunning",
+  "manRunning",
+  "womanRunning",
+  "womanDancing",
+  "manDancing",
+  "personInSuitLevitating",
+  "peopleWithBunnyEars",
+  "menWithBunnyEars",
+  "womenWithBunnyEars",
+  "personInSteamyRoom",
+  "manInSteamyRoom",
+  "womanInSteamyRoom",
+  "personClimbing",
+  "manClimbing",
+  "womanClimbing",
+  "personFencing",
+  "horseRacing",
+  "skier",
+  "snowboarder",
+  "personGolfing",
+  "manGolfing",
+  "womanGolfing",
+  "personSurfing",
+  "manSurfing",
+  "womanSurfing",
+  "personRowingBoat",
+  "manRowingBoat",
+  "womanRowingBoat",
+  "personSwimming",
+  "manSwimming",
+  "womanSwimming",
+  "personBouncingBall",
+  "manBouncingBall",
+  "womanBouncingBall",
+  "personLiftingWeights",
+  "manLiftingWeights",
+  "womanLiftingWeights",
+  "personBiking",
+  "manBiking",
+  "womanBiking",
+  "personMountainBiking",
+  "manMountainBiking",
+  "womanMountainBiking",
+  "personCartwheeling",
+  "manCartwheeling",
+  "womanCartwheeling",
+  "peopleWrestling",
+  "menWrestling",
+  "womenWrestling",
+  "personPlayingWaterPolo",
+  "manPlayingWaterPolo",
+  "womanPlayingWaterPolo",
+  "personPlayingHandball",
+  "manPlayingHandball",
+  "womanPlayingHandball",
+  "personJuggling",
+  "manJuggling",
+  "womanJuggling",
+  "personInLotusPosition",
+  "manInLotusPosition",
+  "womanInLotusPosition",
+  "personTakingBath",
+  "personInBed",
+  "peopleHoldingHands",
+  "womenHoldingHands",
+  "womanAndManHoldingHands",
+  "menHoldingHands",
+  "kiss",
+  "kissWomanMan",
+  "kissManMan",
+  "kissWomanWoman",
+  "coupleWithHeart",
+  "coupleWithHeartWomanMan",
+  "coupleWithHeartManMan",
+  "coupleWithHeartWomanWoman",
+  "family",
+  "familyManWomanBoy",
+  "familyManWomanGirl",
+  "familyManWomanGirlBoy",
+  "familyManWomanBoyBoy",
+  "familyManWomanGirlGirl",
+  "familyManManBoy",
+  "familyManManGirl",
+  "familyManManGirlBoy",
+  "familyManManBoyBoy",
+  "familyManManGirlGirl",
+  "familyWomanWomanBoy",
+  "familyWomanWomanGirl",
+  "familyWomanWomanGirlBoy",
+  "familyWomanWomanBoyBoy",
+  "familyWomanWomanGirlGirl",
+  "familyManBoy",
+  "familyManBoyBoy",
+  "familyManGirl",
+  "familyManGirlBoy",
+  "familyManGirlGirl",
+  "familyWomanBoy",
+  "familyWomanBoyBoy",
+  "familyWomanGirl",
+  "familyWomanGirlBoy",
+  "familyWomanGirlGirl",
+  "speakingHead",
+  "bustInSilhouette",
+  "bustsInSilhouette",
+  "peopleHugging",
+  "footprints"
  ],
  "people and body/hand-fingers-open": [
-  "emojiWavingHand",
-  "emojiRaisedBackOfHand",
-  "emojiHandWithFingersSplayed",
-  "emojiRaisedHand",
-  "emojiVulcanSalute",
-  "emojiRightwardsHand",
-  "emojiLeftwardsHand",
-  "emojiPalmDownHand",
-  "emojiPalmUpHand",
-  "emojiLeftwardsPushingHand",
-  "emojiRightwardsPushingHand"
+  "wavingHand",
+  "raisedBackOfHand",
+  "handWithFingersSplayed",
+  "raisedHand",
+  "vulcanSalute",
+  "rightwardsHand",
+  "leftwardsHand",
+  "palmDownHand",
+  "palmUpHand",
+  "leftwardsPushingHand",
+  "rightwardsPushingHand"
  ],
  "people and body/hand-fingers-partial": [
-  "emojiOKHand",
-  "emojiPinchedFingers",
-  "emojiPinchingHand",
-  "emojiVictoryHand",
-  "emojiCrossedFingers",
-  "emojiHandWithIndexFingerAndThumbCrossed",
-  "emojiLoveYouGesture",
-  "emojiSignOfTheHorns",
-  "emojiCallMeHand"
+  "oKHand",
+  "pinchedFingers",
+  "pinchingHand",
+  "victoryHand",
+  "crossedFingers",
+  "handWithIndexFingerAndThumbCrossed",
+  "loveYouGesture",
+  "signOfTheHorns",
+  "callMeHand"
  ],
  "people and body/hand-single-finger": [
-  "emojiBackhandIndexPointingLeft",
-  "emojiBackhandIndexPointingRight",
-  "emojiBackhandIndexPointingUp",
-  "emojiMiddleFinger",
-  "emojiBackhandIndexPointingDown",
-  "emojiIndexPointingUp",
-  "emojiIndexPointingAtTheViewer"
+  "backhandIndexPointingLeft",
+  "backhandIndexPointingRight",
+  "backhandIndexPointingUp",
+  "middleFinger",
+  "backhandIndexPointingDown",
+  "indexPointingUp",
+  "indexPointingAtTheViewer"
  ],
  "people and body/hand-fingers-closed": [
-  "emojiThumbsUp",
-  "emojiThumbsDown",
-  "emojiRaisedFist",
-  "emojiOncomingFist",
-  "emojiLeftFacingFist",
-  "emojiRightFacingFist"
+  "thumbsUp",
+  "thumbsDown",
+  "raisedFist",
+  "oncomingFist",
+  "leftFacingFist",
+  "rightFacingFist"
  ],
  "people and body/hands": [
-  "emojiClappingHands",
-  "emojiRaisingHands",
-  "emojiHeartHands",
-  "emojiOpenHands",
-  "emojiPalmsUpTogether",
-  "emojiHandshake",
-  "emojiFoldedHands"
+  "clappingHands",
+  "raisingHands",
+  "heartHands",
+  "openHands",
+  "palmsUpTogether",
+  "handshake",
+  "foldedHands"
  ],
  "people and body/hand-prop": [
-  "emojiWritingHand",
-  "emojiNailPolish",
-  "emojiSelfie"
+  "writingHand",
+  "nailPolish",
+  "selfie"
  ],
  "people and body/body-parts": [
-  "emojiFlexedBiceps",
-  "emojiMechanicalArm",
-  "emojiMechanicalLeg",
-  "emojiLeg",
-  "emojiFoot",
-  "emojiEar",
-  "emojiEarWithHearingAid",
-  "emojiNose",
-  "emojiBrain",
-  "emojiAnatomicalHeart",
-  "emojiLungs",
-  "emojiTooth",
-  "emojiBone",
-  "emojiEyes",
-  "emojiEye",
-  "emojiTongue",
-  "emojiMouth",
-  "emojiBitingLip"
+  "flexedBiceps",
+  "mechanicalArm",
+  "mechanicalLeg",
+  "leg",
+  "foot",
+  "ear",
+  "earWithHearingAid",
+  "nose",
+  "brain",
+  "anatomicalHeart",
+  "lungs",
+  "tooth",
+  "bone",
+  "eyes",
+  "eye",
+  "tongue",
+  "mouth",
+  "bitingLip"
  ],
  "people and body/person": [
-  "emojiBaby",
-  "emojiChild",
-  "emojiBoy",
-  "emojiGirl",
-  "emojiPerson",
-  "emojiPersonBlondHair",
-  "emojiMan",
-  "emojiPersonBeard",
-  "emojiManBeard",
-  "emojiWomanBeard",
-  "emojiManRedHair",
-  "emojiManCurlyHair",
-  "emojiManWhiteHair",
-  "emojiManBald",
-  "emojiWoman",
-  "emojiWomanRedHair",
-  "emojiPersonRedHair",
-  "emojiWomanCurlyHair",
-  "emojiPersonCurlyHair",
-  "emojiWomanWhiteHair",
-  "emojiPersonWhiteHair",
-  "emojiWomanBald",
-  "emojiPersonBald",
-  "emojiWomanBlondHair",
-  "emojiManBlondHair",
-  "emojiOlderPerson",
-  "emojiOldMan",
-  "emojiOldWoman"
+  "baby",
+  "child",
+  "boy",
+  "girl",
+  "person",
+  "personBlondHair",
+  "man",
+  "personBeard",
+  "manBeard",
+  "womanBeard",
+  "manRedHair",
+  "manCurlyHair",
+  "manWhiteHair",
+  "manBald",
+  "woman",
+  "womanRedHair",
+  "personRedHair",
+  "womanCurlyHair",
+  "personCurlyHair",
+  "womanWhiteHair",
+  "personWhiteHair",
+  "womanBald",
+  "personBald",
+  "womanBlondHair",
+  "manBlondHair",
+  "olderPerson",
+  "oldMan",
+  "oldWoman"
  ],
  "people and body/person-gesture": [
-  "emojiPersonFrowning",
-  "emojiManFrowning",
-  "emojiWomanFrowning",
-  "emojiPersonPouting",
-  "emojiManPouting",
-  "emojiWomanPouting",
-  "emojiPersonGesturingNO",
-  "emojiManGesturingNO",
-  "emojiWomanGesturingNO",
-  "emojiPersonGesturingOK",
-  "emojiManGesturingOK",
-  "emojiWomanGesturingOK",
-  "emojiPersonTippingHand",
-  "emojiManTippingHand",
-  "emojiWomanTippingHand",
-  "emojiPersonRaisingHand",
-  "emojiManRaisingHand",
-  "emojiWomanRaisingHand",
-  "emojiDeafPerson",
-  "emojiDeafMan",
-  "emojiDeafWoman",
-  "emojiPersonBowing",
-  "emojiManBowing",
-  "emojiWomanBowing",
-  "emojiPersonFacepalming",
-  "emojiManFacepalming",
-  "emojiWomanFacepalming",
-  "emojiPersonShrugging",
-  "emojiManShrugging",
-  "emojiWomanShrugging"
+  "personFrowning",
+  "manFrowning",
+  "womanFrowning",
+  "personPouting",
+  "manPouting",
+  "womanPouting",
+  "personGesturingNO",
+  "manGesturingNO",
+  "womanGesturingNO",
+  "personGesturingOK",
+  "manGesturingOK",
+  "womanGesturingOK",
+  "personTippingHand",
+  "manTippingHand",
+  "womanTippingHand",
+  "personRaisingHand",
+  "manRaisingHand",
+  "womanRaisingHand",
+  "deafPerson",
+  "deafMan",
+  "deafWoman",
+  "personBowing",
+  "manBowing",
+  "womanBowing",
+  "personFacepalming",
+  "manFacepalming",
+  "womanFacepalming",
+  "personShrugging",
+  "manShrugging",
+  "womanShrugging"
  ],
  "people and body/person-role": [
-  "emojiHealthWorker",
-  "emojiManHealthWorker",
-  "emojiWomanHealthWorker",
-  "emojiStudent",
-  "emojiManStudent",
-  "emojiWomanStudent",
-  "emojiTeacher",
-  "emojiManTeacher",
-  "emojiWomanTeacher",
-  "emojiJudge",
-  "emojiManJudge",
-  "emojiWomanJudge",
-  "emojiFarmer",
-  "emojiManFarmer",
-  "emojiWomanFarmer",
-  "emojiCook",
-  "emojiManCook",
-  "emojiWomanCook",
-  "emojiMechanic",
-  "emojiManMechanic",
-  "emojiWomanMechanic",
-  "emojiFactoryWorker",
-  "emojiManFactoryWorker",
-  "emojiWomanFactoryWorker",
-  "emojiOfficeWorker",
-  "emojiManOfficeWorker",
-  "emojiWomanOfficeWorker",
-  "emojiScientist",
-  "emojiManScientist",
-  "emojiWomanScientist",
-  "emojiTechnologist",
-  "emojiManTechnologist",
-  "emojiWomanTechnologist",
-  "emojiSinger",
-  "emojiManSinger",
-  "emojiWomanSinger",
-  "emojiArtist",
-  "emojiManArtist",
-  "emojiWomanArtist",
-  "emojiPilot",
-  "emojiManPilot",
-  "emojiWomanPilot",
-  "emojiAstronaut",
-  "emojiManAstronaut",
-  "emojiWomanAstronaut",
-  "emojiFirefighter",
-  "emojiManFirefighter",
-  "emojiWomanFirefighter",
-  "emojiPoliceOfficer",
-  "emojiManPoliceOfficer",
-  "emojiWomanPoliceOfficer",
-  "emojiDetective",
-  "emojiManDetective",
-  "emojiWomanDetective",
-  "emojiGuard",
-  "emojiManGuard",
-  "emojiWomanGuard",
-  "emojiNinja",
-  "emojiConstructionWorker",
-  "emojiManConstructionWorker",
-  "emojiWomanConstructionWorker",
-  "emojiPersonWithCrown",
-  "emojiPrince",
-  "emojiPrincess",
-  "emojiPersonWearingTurban",
-  "emojiManWearingTurban",
-  "emojiWomanWearingTurban",
-  "emojiPersonWithSkullcap",
-  "emojiWomanWithHeadscarf",
-  "emojiPersonInTuxedo",
-  "emojiManInTuxedo",
-  "emojiWomanInTuxedo",
-  "emojiPersonWithVeil",
-  "emojiManWithVeil",
-  "emojiWomanWithVeil",
-  "emojiPregnantWoman",
-  "emojiPregnantMan",
-  "emojiPregnantPerson",
-  "emojiBreastFeeding",
-  "emojiWomanFeedingBaby",
-  "emojiManFeedingBaby",
-  "emojiPersonFeedingBaby"
+  "healthWorker",
+  "manHealthWorker",
+  "womanHealthWorker",
+  "student",
+  "manStudent",
+  "womanStudent",
+  "teacher",
+  "manTeacher",
+  "womanTeacher",
+  "judge",
+  "manJudge",
+  "womanJudge",
+  "farmer",
+  "manFarmer",
+  "womanFarmer",
+  "cook",
+  "manCook",
+  "womanCook",
+  "mechanic",
+  "manMechanic",
+  "womanMechanic",
+  "factoryWorker",
+  "manFactoryWorker",
+  "womanFactoryWorker",
+  "officeWorker",
+  "manOfficeWorker",
+  "womanOfficeWorker",
+  "scientist",
+  "manScientist",
+  "womanScientist",
+  "technologist",
+  "manTechnologist",
+  "womanTechnologist",
+  "singer",
+  "manSinger",
+  "womanSinger",
+  "artist",
+  "manArtist",
+  "womanArtist",
+  "pilot",
+  "manPilot",
+  "womanPilot",
+  "astronaut",
+  "manAstronaut",
+  "womanAstronaut",
+  "firefighter",
+  "manFirefighter",
+  "womanFirefighter",
+  "policeOfficer",
+  "manPoliceOfficer",
+  "womanPoliceOfficer",
+  "detective",
+  "manDetective",
+  "womanDetective",
+  "guard",
+  "manGuard",
+  "womanGuard",
+  "ninja",
+  "constructionWorker",
+  "manConstructionWorker",
+  "womanConstructionWorker",
+  "personWithCrown",
+  "prince",
+  "princess",
+  "personWearingTurban",
+  "manWearingTurban",
+  "womanWearingTurban",
+  "personWithSkullcap",
+  "womanWithHeadscarf",
+  "personInTuxedo",
+  "manInTuxedo",
+  "womanInTuxedo",
+  "personWithVeil",
+  "manWithVeil",
+  "womanWithVeil",
+  "pregnantWoman",
+  "pregnantMan",
+  "pregnantPerson",
+  "breastFeeding",
+  "womanFeedingBaby",
+  "manFeedingBaby",
+  "personFeedingBaby"
  ],
  "people and body/person-fantasy": [
-  "emojiBabyAngel",
-  "emojiSantaClaus",
-  "emojiMrsClaus",
-  "emojiMxClaus",
-  "emojiSuperhero",
-  "emojiManSuperhero",
-  "emojiWomanSuperhero",
-  "emojiSupervillain",
-  "emojiManSupervillain",
-  "emojiWomanSupervillain",
-  "emojiMage",
-  "emojiManMage",
-  "emojiWomanMage",
-  "emojiFairy",
-  "emojiManFairy",
-  "emojiWomanFairy",
-  "emojiVampire",
-  "emojiManVampire",
-  "emojiWomanVampire",
-  "emojiMerperson",
-  "emojiMerman",
-  "emojiMermaid",
-  "emojiElf",
-  "emojiManElf",
-  "emojiWomanElf",
-  "emojiGenie",
-  "emojiManGenie",
-  "emojiWomanGenie",
-  "emojiZombie",
-  "emojiManZombie",
-  "emojiWomanZombie",
-  "emojiTroll"
+  "babyAngel",
+  "santaClaus",
+  "mrsClaus",
+  "mxClaus",
+  "superhero",
+  "manSuperhero",
+  "womanSuperhero",
+  "supervillain",
+  "manSupervillain",
+  "womanSupervillain",
+  "mage",
+  "manMage",
+  "womanMage",
+  "fairy",
+  "manFairy",
+  "womanFairy",
+  "vampire",
+  "manVampire",
+  "womanVampire",
+  "merperson",
+  "merman",
+  "mermaid",
+  "elf",
+  "manElf",
+  "womanElf",
+  "genie",
+  "manGenie",
+  "womanGenie",
+  "zombie",
+  "manZombie",
+  "womanZombie",
+  "troll"
  ],
  "people and body/person-activity": [
-  "emojiPersonGettingMassage",
-  "emojiManGettingMassage",
-  "emojiWomanGettingMassage",
-  "emojiPersonGettingHaircut",
-  "emojiManGettingHaircut",
-  "emojiWomanGettingHaircut",
-  "emojiPersonWalking",
-  "emojiManWalking",
-  "emojiWomanWalking",
-  "emojiPersonStanding",
-  "emojiManStanding",
-  "emojiWomanStanding",
-  "emojiPersonKneeling",
-  "emojiManKneeling",
-  "emojiWomanKneeling",
-  "emojiPersonWithWhiteCane",
-  "emojiManWithWhiteCane",
-  "emojiWomanWithWhiteCane",
-  "emojiPersonInMotorizedWheelchair",
-  "emojiManInMotorizedWheelchair",
-  "emojiWomanInMotorizedWheelchair",
-  "emojiPersonInManualWheelchair",
-  "emojiManInManualWheelchair",
-  "emojiWomanInManualWheelchair",
-  "emojiPersonRunning",
-  "emojiManRunning",
-  "emojiWomanRunning",
-  "emojiWomanDancing",
-  "emojiManDancing",
-  "emojiPersonInSuitLevitating",
-  "emojiPeopleWithBunnyEars",
-  "emojiMenWithBunnyEars",
-  "emojiWomenWithBunnyEars",
-  "emojiPersonInSteamyRoom",
-  "emojiManInSteamyRoom",
-  "emojiWomanInSteamyRoom",
-  "emojiPersonClimbing",
-  "emojiManClimbing",
-  "emojiWomanClimbing"
+  "personGettingMassage",
+  "manGettingMassage",
+  "womanGettingMassage",
+  "personGettingHaircut",
+  "manGettingHaircut",
+  "womanGettingHaircut",
+  "personWalking",
+  "manWalking",
+  "womanWalking",
+  "personStanding",
+  "manStanding",
+  "womanStanding",
+  "personKneeling",
+  "manKneeling",
+  "womanKneeling",
+  "personWithWhiteCane",
+  "manWithWhiteCane",
+  "womanWithWhiteCane",
+  "personInMotorizedWheelchair",
+  "manInMotorizedWheelchair",
+  "womanInMotorizedWheelchair",
+  "personInManualWheelchair",
+  "manInManualWheelchair",
+  "womanInManualWheelchair",
+  "personRunning",
+  "manRunning",
+  "womanRunning",
+  "womanDancing",
+  "manDancing",
+  "personInSuitLevitating",
+  "peopleWithBunnyEars",
+  "menWithBunnyEars",
+  "womenWithBunnyEars",
+  "personInSteamyRoom",
+  "manInSteamyRoom",
+  "womanInSteamyRoom",
+  "personClimbing",
+  "manClimbing",
+  "womanClimbing"
  ],
  "people and body/person-sport": [
-  "emojiPersonFencing",
-  "emojiHorseRacing",
-  "emojiSkier",
-  "emojiSnowboarder",
-  "emojiPersonGolfing",
-  "emojiManGolfing",
-  "emojiWomanGolfing",
-  "emojiPersonSurfing",
-  "emojiManSurfing",
-  "emojiWomanSurfing",
-  "emojiPersonRowingBoat",
-  "emojiManRowingBoat",
-  "emojiWomanRowingBoat",
-  "emojiPersonSwimming",
-  "emojiManSwimming",
-  "emojiWomanSwimming",
-  "emojiPersonBouncingBall",
-  "emojiManBouncingBall",
-  "emojiWomanBouncingBall",
-  "emojiPersonLiftingWeights",
-  "emojiManLiftingWeights",
-  "emojiWomanLiftingWeights",
-  "emojiPersonBiking",
-  "emojiManBiking",
-  "emojiWomanBiking",
-  "emojiPersonMountainBiking",
-  "emojiManMountainBiking",
-  "emojiWomanMountainBiking",
-  "emojiPersonCartwheeling",
-  "emojiManCartwheeling",
-  "emojiWomanCartwheeling",
-  "emojiPeopleWrestling",
-  "emojiMenWrestling",
-  "emojiWomenWrestling",
-  "emojiPersonPlayingWaterPolo",
-  "emojiManPlayingWaterPolo",
-  "emojiWomanPlayingWaterPolo",
-  "emojiPersonPlayingHandball",
-  "emojiManPlayingHandball",
-  "emojiWomanPlayingHandball",
-  "emojiPersonJuggling",
-  "emojiManJuggling",
-  "emojiWomanJuggling"
+  "personFencing",
+  "horseRacing",
+  "skier",
+  "snowboarder",
+  "personGolfing",
+  "manGolfing",
+  "womanGolfing",
+  "personSurfing",
+  "manSurfing",
+  "womanSurfing",
+  "personRowingBoat",
+  "manRowingBoat",
+  "womanRowingBoat",
+  "personSwimming",
+  "manSwimming",
+  "womanSwimming",
+  "personBouncingBall",
+  "manBouncingBall",
+  "womanBouncingBall",
+  "personLiftingWeights",
+  "manLiftingWeights",
+  "womanLiftingWeights",
+  "personBiking",
+  "manBiking",
+  "womanBiking",
+  "personMountainBiking",
+  "manMountainBiking",
+  "womanMountainBiking",
+  "personCartwheeling",
+  "manCartwheeling",
+  "womanCartwheeling",
+  "peopleWrestling",
+  "menWrestling",
+  "womenWrestling",
+  "personPlayingWaterPolo",
+  "manPlayingWaterPolo",
+  "womanPlayingWaterPolo",
+  "personPlayingHandball",
+  "manPlayingHandball",
+  "womanPlayingHandball",
+  "personJuggling",
+  "manJuggling",
+  "womanJuggling"
  ],
  "people and body/person-resting": [
-  "emojiPersonInLotusPosition",
-  "emojiManInLotusPosition",
-  "emojiWomanInLotusPosition",
-  "emojiPersonTakingBath",
-  "emojiPersonInBed"
+  "personInLotusPosition",
+  "manInLotusPosition",
+  "womanInLotusPosition",
+  "personTakingBath",
+  "personInBed"
  ],
  "people and body/family": [
-  "emojiPeopleHoldingHands",
-  "emojiWomenHoldingHands",
-  "emojiWomanAndManHoldingHands",
-  "emojiMenHoldingHands",
-  "emojiKiss",
-  "emojiKissWomanMan",
-  "emojiKissManMan",
-  "emojiKissWomanWoman",
-  "emojiCoupleWithHeart",
-  "emojiCoupleWithHeartWomanMan",
-  "emojiCoupleWithHeartManMan",
-  "emojiCoupleWithHeartWomanWoman",
-  "emojiFamily",
-  "emojiFamilyManWomanBoy",
-  "emojiFamilyManWomanGirl",
-  "emojiFamilyManWomanGirlBoy",
-  "emojiFamilyManWomanBoyBoy",
-  "emojiFamilyManWomanGirlGirl",
-  "emojiFamilyManManBoy",
-  "emojiFamilyManManGirl",
-  "emojiFamilyManManGirlBoy",
-  "emojiFamilyManManBoyBoy",
-  "emojiFamilyManManGirlGirl",
-  "emojiFamilyWomanWomanBoy",
-  "emojiFamilyWomanWomanGirl",
-  "emojiFamilyWomanWomanGirlBoy",
-  "emojiFamilyWomanWomanBoyBoy",
-  "emojiFamilyWomanWomanGirlGirl",
-  "emojiFamilyManBoy",
-  "emojiFamilyManBoyBoy",
-  "emojiFamilyManGirl",
-  "emojiFamilyManGirlBoy",
-  "emojiFamilyManGirlGirl",
-  "emojiFamilyWomanBoy",
-  "emojiFamilyWomanBoyBoy",
-  "emojiFamilyWomanGirl",
-  "emojiFamilyWomanGirlBoy",
-  "emojiFamilyWomanGirlGirl"
+  "peopleHoldingHands",
+  "womenHoldingHands",
+  "womanAndManHoldingHands",
+  "menHoldingHands",
+  "kiss",
+  "kissWomanMan",
+  "kissManMan",
+  "kissWomanWoman",
+  "coupleWithHeart",
+  "coupleWithHeartWomanMan",
+  "coupleWithHeartManMan",
+  "coupleWithHeartWomanWoman",
+  "family",
+  "familyManWomanBoy",
+  "familyManWomanGirl",
+  "familyManWomanGirlBoy",
+  "familyManWomanBoyBoy",
+  "familyManWomanGirlGirl",
+  "familyManManBoy",
+  "familyManManGirl",
+  "familyManManGirlBoy",
+  "familyManManBoyBoy",
+  "familyManManGirlGirl",
+  "familyWomanWomanBoy",
+  "familyWomanWomanGirl",
+  "familyWomanWomanGirlBoy",
+  "familyWomanWomanBoyBoy",
+  "familyWomanWomanGirlGirl",
+  "familyManBoy",
+  "familyManBoyBoy",
+  "familyManGirl",
+  "familyManGirlBoy",
+  "familyManGirlGirl",
+  "familyWomanBoy",
+  "familyWomanBoyBoy",
+  "familyWomanGirl",
+  "familyWomanGirlBoy",
+  "familyWomanGirlGirl"
  ],
  "people and body/person-symbol": [
-  "emojiSpeakingHead",
-  "emojiBustInSilhouette",
-  "emojiBustsInSilhouette",
-  "emojiPeopleHugging",
-  "emojiFootprints"
+  "speakingHead",
+  "bustInSilhouette",
+  "bustsInSilhouette",
+  "peopleHugging",
+  "footprints"
  ],
  "component": [
-  "emojiRedHair",
-  "emojiCurlyHair",
-  "emojiWhiteHair",
-  "emojiBald"
+  "redHair",
+  "curlyHair",
+  "whiteHair",
+  "bald"
  ],
  "component/hair-style": [
-  "emojiRedHair",
-  "emojiCurlyHair",
-  "emojiWhiteHair",
-  "emojiBald"
+  "redHair",
+  "curlyHair",
+  "whiteHair",
+  "bald"
  ],
  "animals and nature": [
-  "emojiMonkeyFace",
-  "emojiMonkey",
-  "emojiGorilla",
-  "emojiOrangutan",
-  "emojiDogFace",
-  "emojiDog",
-  "emojiGuideDog",
-  "emojiServiceDog",
-  "emojiPoodle",
-  "emojiWolf",
-  "emojiFox",
-  "emojiRaccoon",
-  "emojiCatFace",
-  "emojiCat",
-  "emojiBlackCat",
-  "emojiLion",
-  "emojiTigerFace",
-  "emojiTiger",
-  "emojiLeopard",
-  "emojiHorseFace",
-  "emojiMoose",
-  "emojiDonkey",
-  "emojiHorse",
-  "emojiUnicorn",
-  "emojiZebra",
-  "emojiDeer",
-  "emojiBison",
-  "emojiCowFace",
-  "emojiOx",
-  "emojiWaterBuffalo",
-  "emojiCow",
-  "emojiPigFace",
-  "emojiPig",
-  "emojiBoar",
-  "emojiPigNose",
-  "emojiRam",
-  "emojiEwe",
-  "emojiGoat",
-  "emojiCamel",
-  "emojiTwoHumpCamel",
-  "emojiLlama",
-  "emojiGiraffe",
-  "emojiElephant",
-  "emojiMammoth",
-  "emojiRhinoceros",
-  "emojiHippopotamus",
-  "emojiMouseFace",
-  "emojiMouse",
-  "emojiRat",
-  "emojiHamster",
-  "emojiRabbitFace",
-  "emojiRabbit",
-  "emojiChipmunk",
-  "emojiBeaver",
-  "emojiHedgehog",
-  "emojiBat",
-  "emojiBear",
-  "emojiPolarBear",
-  "emojiKoala",
-  "emojiPanda",
-  "emojiSloth",
-  "emojiOtter",
-  "emojiSkunk",
-  "emojiKangaroo",
-  "emojiBadger",
-  "emojiPawPrints",
-  "emojiTurkey",
-  "emojiChicken",
-  "emojiRooster",
-  "emojiHatchingChick",
-  "emojiBabyChick",
-  "emojiFrontFacingBabyChick",
-  "emojiBird",
-  "emojiPenguin",
-  "emojiDove",
-  "emojiEagle",
-  "emojiDuck",
-  "emojiSwan",
-  "emojiOwl",
-  "emojiDodo",
-  "emojiFeather",
-  "emojiFlamingo",
-  "emojiPeacock",
-  "emojiParrot",
-  "emojiWing",
-  "emojiBlackBird",
-  "emojiGoose",
-  "emojiFrog",
-  "emojiCrocodile",
-  "emojiTurtle",
-  "emojiLizard",
-  "emojiSnake",
-  "emojiDragonFace",
-  "emojiDragon",
-  "emojiSauropod",
-  "emojiTRex",
-  "emojiSpoutingWhale",
-  "emojiWhale",
-  "emojiDolphin",
-  "emojiSeal",
-  "emojiFish",
-  "emojiTropicalFish",
-  "emojiBlowfish",
-  "emojiShark",
-  "emojiOctopus",
-  "emojiSpiralShell",
-  "emojiCoral",
-  "emojiJellyfish",
-  "emojiSnail",
-  "emojiButterfly",
-  "emojiBug",
-  "emojiAnt",
-  "emojiHoneybee",
-  "emojiBeetle",
-  "emojiLadyBeetle",
-  "emojiCricket",
-  "emojiCockroach",
-  "emojiSpider",
-  "emojiSpiderWeb",
-  "emojiScorpion",
-  "emojiMosquito",
-  "emojiFly",
-  "emojiWorm",
-  "emojiMicrobe",
-  "emojiBouquet",
-  "emojiCherryBlossom",
-  "emojiWhiteFlower",
-  "emojiLotus",
-  "emojiRosette",
-  "emojiRose",
-  "emojiWiltedFlower",
-  "emojiHibiscus",
-  "emojiSunflower",
-  "emojiBlossom",
-  "emojiTulip",
-  "emojiHyacinth",
-  "emojiSeedling",
-  "emojiPottedPlant",
-  "emojiEvergreenTree",
-  "emojiDeciduousTree",
-  "emojiPalmTree",
-  "emojiCactus",
-  "emojiSheafOfRice",
-  "emojiHerb",
-  "emojiShamrock",
-  "emojiFourLeafClover",
-  "emojiMapleLeaf",
-  "emojiFallenLeaf",
-  "emojiLeafFlutteringInWind",
-  "emojiEmptyNest",
-  "emojiNestWithEggs",
-  "emojiMushroom"
+  "monkeyFace",
+  "monkey",
+  "gorilla",
+  "orangutan",
+  "dogFace",
+  "dog",
+  "guideDog",
+  "serviceDog",
+  "poodle",
+  "wolf",
+  "fox",
+  "raccoon",
+  "catFace",
+  "cat",
+  "blackCat",
+  "lion",
+  "tigerFace",
+  "tiger",
+  "leopard",
+  "horseFace",
+  "moose",
+  "donkey",
+  "horse",
+  "unicorn",
+  "zebra",
+  "deer",
+  "bison",
+  "cowFace",
+  "ox",
+  "waterBuffalo",
+  "cow",
+  "pigFace",
+  "pig",
+  "boar",
+  "pigNose",
+  "ram",
+  "ewe",
+  "goat",
+  "camel",
+  "twoHumpCamel",
+  "llama",
+  "giraffe",
+  "elephant",
+  "mammoth",
+  "rhinoceros",
+  "hippopotamus",
+  "mouseFace",
+  "mouse",
+  "rat",
+  "hamster",
+  "rabbitFace",
+  "rabbit",
+  "chipmunk",
+  "beaver",
+  "hedgehog",
+  "bat",
+  "bear",
+  "polarBear",
+  "koala",
+  "panda",
+  "sloth",
+  "otter",
+  "skunk",
+  "kangaroo",
+  "badger",
+  "pawPrints",
+  "turkey",
+  "chicken",
+  "rooster",
+  "hatchingChick",
+  "babyChick",
+  "frontFacingBabyChick",
+  "bird",
+  "penguin",
+  "dove",
+  "eagle",
+  "duck",
+  "swan",
+  "owl",
+  "dodo",
+  "feather",
+  "flamingo",
+  "peacock",
+  "parrot",
+  "wing",
+  "blackBird",
+  "goose",
+  "frog",
+  "crocodile",
+  "turtle",
+  "lizard",
+  "snake",
+  "dragonFace",
+  "dragon",
+  "sauropod",
+  "tRex",
+  "spoutingWhale",
+  "whale",
+  "dolphin",
+  "seal",
+  "fish",
+  "tropicalFish",
+  "blowfish",
+  "shark",
+  "octopus",
+  "spiralShell",
+  "coral",
+  "jellyfish",
+  "snail",
+  "butterfly",
+  "bug",
+  "ant",
+  "honeybee",
+  "beetle",
+  "ladyBeetle",
+  "cricket",
+  "cockroach",
+  "spider",
+  "spiderWeb",
+  "scorpion",
+  "mosquito",
+  "fly",
+  "worm",
+  "microbe",
+  "bouquet",
+  "cherryBlossom",
+  "whiteFlower",
+  "lotus",
+  "rosette",
+  "rose",
+  "wiltedFlower",
+  "hibiscus",
+  "sunflower",
+  "blossom",
+  "tulip",
+  "hyacinth",
+  "seedling",
+  "pottedPlant",
+  "evergreenTree",
+  "deciduousTree",
+  "palmTree",
+  "cactus",
+  "sheafOfRice",
+  "herb",
+  "shamrock",
+  "fourLeafClover",
+  "mapleLeaf",
+  "fallenLeaf",
+  "leafFlutteringInWind",
+  "emptyNest",
+  "nestWithEggs",
+  "mushroom"
  ],
  "animals and nature/animal-mammal": [
-  "emojiMonkeyFace",
-  "emojiMonkey",
-  "emojiGorilla",
-  "emojiOrangutan",
-  "emojiDogFace",
-  "emojiDog",
-  "emojiGuideDog",
-  "emojiServiceDog",
-  "emojiPoodle",
-  "emojiWolf",
-  "emojiFox",
-  "emojiRaccoon",
-  "emojiCatFace",
-  "emojiCat",
-  "emojiBlackCat",
-  "emojiLion",
-  "emojiTigerFace",
-  "emojiTiger",
-  "emojiLeopard",
-  "emojiHorseFace",
-  "emojiMoose",
-  "emojiDonkey",
-  "emojiHorse",
-  "emojiUnicorn",
-  "emojiZebra",
-  "emojiDeer",
-  "emojiBison",
-  "emojiCowFace",
-  "emojiOx",
-  "emojiWaterBuffalo",
-  "emojiCow",
-  "emojiPigFace",
-  "emojiPig",
-  "emojiBoar",
-  "emojiPigNose",
-  "emojiRam",
-  "emojiEwe",
-  "emojiGoat",
-  "emojiCamel",
-  "emojiTwoHumpCamel",
-  "emojiLlama",
-  "emojiGiraffe",
-  "emojiElephant",
-  "emojiMammoth",
-  "emojiRhinoceros",
-  "emojiHippopotamus",
-  "emojiMouseFace",
-  "emojiMouse",
-  "emojiRat",
-  "emojiHamster",
-  "emojiRabbitFace",
-  "emojiRabbit",
-  "emojiChipmunk",
-  "emojiBeaver",
-  "emojiHedgehog",
-  "emojiBat",
-  "emojiBear",
-  "emojiPolarBear",
-  "emojiKoala",
-  "emojiPanda",
-  "emojiSloth",
-  "emojiOtter",
-  "emojiSkunk",
-  "emojiKangaroo",
-  "emojiBadger",
-  "emojiPawPrints"
+  "monkeyFace",
+  "monkey",
+  "gorilla",
+  "orangutan",
+  "dogFace",
+  "dog",
+  "guideDog",
+  "serviceDog",
+  "poodle",
+  "wolf",
+  "fox",
+  "raccoon",
+  "catFace",
+  "cat",
+  "blackCat",
+  "lion",
+  "tigerFace",
+  "tiger",
+  "leopard",
+  "horseFace",
+  "moose",
+  "donkey",
+  "horse",
+  "unicorn",
+  "zebra",
+  "deer",
+  "bison",
+  "cowFace",
+  "ox",
+  "waterBuffalo",
+  "cow",
+  "pigFace",
+  "pig",
+  "boar",
+  "pigNose",
+  "ram",
+  "ewe",
+  "goat",
+  "camel",
+  "twoHumpCamel",
+  "llama",
+  "giraffe",
+  "elephant",
+  "mammoth",
+  "rhinoceros",
+  "hippopotamus",
+  "mouseFace",
+  "mouse",
+  "rat",
+  "hamster",
+  "rabbitFace",
+  "rabbit",
+  "chipmunk",
+  "beaver",
+  "hedgehog",
+  "bat",
+  "bear",
+  "polarBear",
+  "koala",
+  "panda",
+  "sloth",
+  "otter",
+  "skunk",
+  "kangaroo",
+  "badger",
+  "pawPrints"
  ],
  "animals and nature/animal-bird": [
-  "emojiTurkey",
-  "emojiChicken",
-  "emojiRooster",
-  "emojiHatchingChick",
-  "emojiBabyChick",
-  "emojiFrontFacingBabyChick",
-  "emojiBird",
-  "emojiPenguin",
-  "emojiDove",
-  "emojiEagle",
-  "emojiDuck",
-  "emojiSwan",
-  "emojiOwl",
-  "emojiDodo",
-  "emojiFeather",
-  "emojiFlamingo",
-  "emojiPeacock",
-  "emojiParrot",
-  "emojiWing",
-  "emojiBlackBird",
-  "emojiGoose"
+  "turkey",
+  "chicken",
+  "rooster",
+  "hatchingChick",
+  "babyChick",
+  "frontFacingBabyChick",
+  "bird",
+  "penguin",
+  "dove",
+  "eagle",
+  "duck",
+  "swan",
+  "owl",
+  "dodo",
+  "feather",
+  "flamingo",
+  "peacock",
+  "parrot",
+  "wing",
+  "blackBird",
+  "goose"
  ],
  "animals and nature/animal-amphibian": [
-  "emojiFrog"
+  "frog"
  ],
  "animals and nature/animal-reptile": [
-  "emojiCrocodile",
-  "emojiTurtle",
-  "emojiLizard",
-  "emojiSnake",
-  "emojiDragonFace",
-  "emojiDragon",
-  "emojiSauropod",
-  "emojiTRex"
+  "crocodile",
+  "turtle",
+  "lizard",
+  "snake",
+  "dragonFace",
+  "dragon",
+  "sauropod",
+  "tRex"
  ],
  "animals and nature/animal-marine": [
-  "emojiSpoutingWhale",
-  "emojiWhale",
-  "emojiDolphin",
-  "emojiSeal",
-  "emojiFish",
-  "emojiTropicalFish",
-  "emojiBlowfish",
-  "emojiShark",
-  "emojiOctopus",
-  "emojiSpiralShell",
-  "emojiCoral",
-  "emojiJellyfish"
+  "spoutingWhale",
+  "whale",
+  "dolphin",
+  "seal",
+  "fish",
+  "tropicalFish",
+  "blowfish",
+  "shark",
+  "octopus",
+  "spiralShell",
+  "coral",
+  "jellyfish"
  ],
  "animals and nature/animal-bug": [
-  "emojiSnail",
-  "emojiButterfly",
-  "emojiBug",
-  "emojiAnt",
-  "emojiHoneybee",
-  "emojiBeetle",
-  "emojiLadyBeetle",
-  "emojiCricket",
-  "emojiCockroach",
-  "emojiSpider",
-  "emojiSpiderWeb",
-  "emojiScorpion",
-  "emojiMosquito",
-  "emojiFly",
-  "emojiWorm",
-  "emojiMicrobe"
+  "snail",
+  "butterfly",
+  "bug",
+  "ant",
+  "honeybee",
+  "beetle",
+  "ladyBeetle",
+  "cricket",
+  "cockroach",
+  "spider",
+  "spiderWeb",
+  "scorpion",
+  "mosquito",
+  "fly",
+  "worm",
+  "microbe"
  ],
  "animals and nature/plant-flower": [
-  "emojiBouquet",
-  "emojiCherryBlossom",
-  "emojiWhiteFlower",
-  "emojiLotus",
-  "emojiRosette",
-  "emojiRose",
-  "emojiWiltedFlower",
-  "emojiHibiscus",
-  "emojiSunflower",
-  "emojiBlossom",
-  "emojiTulip",
-  "emojiHyacinth"
+  "bouquet",
+  "cherryBlossom",
+  "whiteFlower",
+  "lotus",
+  "rosette",
+  "rose",
+  "wiltedFlower",
+  "hibiscus",
+  "sunflower",
+  "blossom",
+  "tulip",
+  "hyacinth"
  ],
  "animals and nature/plant-other": [
-  "emojiSeedling",
-  "emojiPottedPlant",
-  "emojiEvergreenTree",
-  "emojiDeciduousTree",
-  "emojiPalmTree",
-  "emojiCactus",
-  "emojiSheafOfRice",
-  "emojiHerb",
-  "emojiShamrock",
-  "emojiFourLeafClover",
-  "emojiMapleLeaf",
-  "emojiFallenLeaf",
-  "emojiLeafFlutteringInWind",
-  "emojiEmptyNest",
-  "emojiNestWithEggs",
-  "emojiMushroom"
+  "seedling",
+  "pottedPlant",
+  "evergreenTree",
+  "deciduousTree",
+  "palmTree",
+  "cactus",
+  "sheafOfRice",
+  "herb",
+  "shamrock",
+  "fourLeafClover",
+  "mapleLeaf",
+  "fallenLeaf",
+  "leafFlutteringInWind",
+  "emptyNest",
+  "nestWithEggs",
+  "mushroom"
  ],
  "food and drink": [
-  "emojiGrapes",
-  "emojiMelon",
-  "emojiWatermelon",
-  "emojiTangerine",
-  "emojiLemon",
-  "emojiBanana",
-  "emojiPineapple",
-  "emojiMango",
-  "emojiRedApple",
-  "emojiGreenApple",
-  "emojiPear",
-  "emojiPeach",
-  "emojiCherries",
-  "emojiStrawberry",
-  "emojiBlueberries",
-  "emojiKiwiFruit",
-  "emojiTomato",
-  "emojiOlive",
-  "emojiCoconut",
-  "emojiAvocado",
-  "emojiEggplant",
-  "emojiPotato",
-  "emojiCarrot",
-  "emojiEarOfCorn",
-  "emojiHotPepper",
-  "emojiBellPepper",
-  "emojiCucumber",
-  "emojiLeafyGreen",
-  "emojiBroccoli",
-  "emojiGarlic",
-  "emojiOnion",
-  "emojiPeanuts",
-  "emojiBeans",
-  "emojiChestnut",
-  "emojiGingerRoot",
-  "emojiPeaPod",
-  "emojiBread",
-  "emojiCroissant",
-  "emojiBaguetteBread",
-  "emojiFlatbread",
-  "emojiPretzel",
-  "emojiBagel",
-  "emojiPancakes",
-  "emojiWaffle",
-  "emojiCheeseWedge",
-  "emojiMeatOnBone",
-  "emojiPoultryLeg",
-  "emojiCutOfMeat",
-  "emojiBacon",
-  "emojiHamburger",
-  "emojiFrenchFries",
-  "emojiPizza",
-  "emojiHotDog",
-  "emojiSandwich",
-  "emojiTaco",
-  "emojiBurrito",
-  "emojiTamale",
-  "emojiStuffedFlatbread",
-  "emojiFalafel",
-  "emojiEgg",
-  "emojiCooking",
-  "emojiShallowPanOfFood",
-  "emojiPotOfFood",
-  "emojiFondue",
-  "emojiBowlWithSpoon",
-  "emojiGreenSalad",
-  "emojiPopcorn",
-  "emojiButter",
-  "emojiSalt",
-  "emojiCannedFood",
-  "emojiBentoBox",
-  "emojiRiceCracker",
-  "emojiRiceBall",
-  "emojiCookedRice",
-  "emojiCurryRice",
-  "emojiSteamingBowl",
-  "emojiSpaghetti",
-  "emojiRoastedSweetPotato",
-  "emojiOden",
-  "emojiSushi",
-  "emojiFriedShrimp",
-  "emojiFishCakeWithSwirl",
-  "emojiMoonCake",
-  "emojiDango",
-  "emojiDumpling",
-  "emojiFortuneCookie",
-  "emojiTakeoutBox",
-  "emojiCrab",
-  "emojiLobster",
-  "emojiShrimp",
-  "emojiSquid",
-  "emojiOyster",
-  "emojiSoftIceCream",
-  "emojiShavedIce",
-  "emojiIceCream",
-  "emojiDoughnut",
-  "emojiCookie",
-  "emojiBirthdayCake",
-  "emojiShortcake",
-  "emojiCupcake",
-  "emojiPie",
-  "emojiChocolateBar",
-  "emojiCandy",
-  "emojiLollipop",
-  "emojiCustard",
-  "emojiHoneyPot",
-  "emojiBabyBottle",
-  "emojiGlassOfMilk",
-  "emojiHotBeverage",
-  "emojiTeapot",
-  "emojiTeacupWithoutHandle",
-  "emojiSake",
-  "emojiBottleWithPoppingCork",
-  "emojiWineGlass",
-  "emojiCocktailGlass",
-  "emojiTropicalDrink",
-  "emojiBeerMug",
-  "emojiClinkingBeerMugs",
-  "emojiClinkingGlasses",
-  "emojiTumblerGlass",
-  "emojiPouringLiquid",
-  "emojiCupWithStraw",
-  "emojiBubbleTea",
-  "emojiBeverageBox",
-  "emojiMate",
-  "emojiIce",
-  "emojiChopsticks",
-  "emojiForkAndKnifeWithPlate",
-  "emojiForkAndKnife",
-  "emojiSpoon",
-  "emojiKitchenKnife",
-  "emojiJar",
-  "emojiAmphora"
+  "grapes",
+  "melon",
+  "watermelon",
+  "tangerine",
+  "lemon",
+  "banana",
+  "pineapple",
+  "mango",
+  "redApple",
+  "greenApple",
+  "pear",
+  "peach",
+  "cherries",
+  "strawberry",
+  "blueberries",
+  "kiwiFruit",
+  "tomato",
+  "olive",
+  "coconut",
+  "avocado",
+  "eggplant",
+  "potato",
+  "carrot",
+  "earOfCorn",
+  "hotPepper",
+  "bellPepper",
+  "cucumber",
+  "leafyGreen",
+  "broccoli",
+  "garlic",
+  "onion",
+  "peanuts",
+  "beans",
+  "chestnut",
+  "gingerRoot",
+  "peaPod",
+  "bread",
+  "croissant",
+  "baguetteBread",
+  "flatbread",
+  "pretzel",
+  "bagel",
+  "pancakes",
+  "waffle",
+  "cheeseWedge",
+  "meatOnBone",
+  "poultryLeg",
+  "cutOfMeat",
+  "bacon",
+  "hamburger",
+  "frenchFries",
+  "pizza",
+  "hotDog",
+  "sandwich",
+  "taco",
+  "burrito",
+  "tamale",
+  "stuffedFlatbread",
+  "falafel",
+  "egg",
+  "cooking",
+  "shallowPanOfFood",
+  "potOfFood",
+  "fondue",
+  "bowlWithSpoon",
+  "greenSalad",
+  "popcorn",
+  "butter",
+  "salt",
+  "cannedFood",
+  "bentoBox",
+  "riceCracker",
+  "riceBall",
+  "cookedRice",
+  "curryRice",
+  "steamingBowl",
+  "spaghetti",
+  "roastedSweetPotato",
+  "oden",
+  "sushi",
+  "friedShrimp",
+  "fishCakeWithSwirl",
+  "moonCake",
+  "dango",
+  "dumpling",
+  "fortuneCookie",
+  "takeoutBox",
+  "crab",
+  "lobster",
+  "shrimp",
+  "squid",
+  "oyster",
+  "softIceCream",
+  "shavedIce",
+  "iceCream",
+  "doughnut",
+  "cookie",
+  "birthdayCake",
+  "shortcake",
+  "cupcake",
+  "pie",
+  "chocolateBar",
+  "candy",
+  "lollipop",
+  "custard",
+  "honeyPot",
+  "babyBottle",
+  "glassOfMilk",
+  "hotBeverage",
+  "teapot",
+  "teacupWithoutHandle",
+  "sake",
+  "bottleWithPoppingCork",
+  "wineGlass",
+  "cocktailGlass",
+  "tropicalDrink",
+  "beerMug",
+  "clinkingBeerMugs",
+  "clinkingGlasses",
+  "tumblerGlass",
+  "pouringLiquid",
+  "cupWithStraw",
+  "bubbleTea",
+  "beverageBox",
+  "mate",
+  "ice",
+  "chopsticks",
+  "forkAndKnifeWithPlate",
+  "forkAndKnife",
+  "spoon",
+  "kitchenKnife",
+  "jar",
+  "amphora"
  ],
  "food and drink/food-fruit": [
-  "emojiGrapes",
-  "emojiMelon",
-  "emojiWatermelon",
-  "emojiTangerine",
-  "emojiLemon",
-  "emojiBanana",
-  "emojiPineapple",
-  "emojiMango",
-  "emojiRedApple",
-  "emojiGreenApple",
-  "emojiPear",
-  "emojiPeach",
-  "emojiCherries",
-  "emojiStrawberry",
-  "emojiBlueberries",
-  "emojiKiwiFruit",
-  "emojiTomato",
-  "emojiOlive",
-  "emojiCoconut"
+  "grapes",
+  "melon",
+  "watermelon",
+  "tangerine",
+  "lemon",
+  "banana",
+  "pineapple",
+  "mango",
+  "redApple",
+  "greenApple",
+  "pear",
+  "peach",
+  "cherries",
+  "strawberry",
+  "blueberries",
+  "kiwiFruit",
+  "tomato",
+  "olive",
+  "coconut"
  ],
  "food and drink/food-vegetable": [
-  "emojiAvocado",
-  "emojiEggplant",
-  "emojiPotato",
-  "emojiCarrot",
-  "emojiEarOfCorn",
-  "emojiHotPepper",
-  "emojiBellPepper",
-  "emojiCucumber",
-  "emojiLeafyGreen",
-  "emojiBroccoli",
-  "emojiGarlic",
-  "emojiOnion",
-  "emojiPeanuts",
-  "emojiBeans",
-  "emojiChestnut",
-  "emojiGingerRoot",
-  "emojiPeaPod"
+  "avocado",
+  "eggplant",
+  "potato",
+  "carrot",
+  "earOfCorn",
+  "hotPepper",
+  "bellPepper",
+  "cucumber",
+  "leafyGreen",
+  "broccoli",
+  "garlic",
+  "onion",
+  "peanuts",
+  "beans",
+  "chestnut",
+  "gingerRoot",
+  "peaPod"
  ],
  "food and drink/food-prepared": [
-  "emojiBread",
-  "emojiCroissant",
-  "emojiBaguetteBread",
-  "emojiFlatbread",
-  "emojiPretzel",
-  "emojiBagel",
-  "emojiPancakes",
-  "emojiWaffle",
-  "emojiCheeseWedge",
-  "emojiMeatOnBone",
-  "emojiPoultryLeg",
-  "emojiCutOfMeat",
-  "emojiBacon",
-  "emojiHamburger",
-  "emojiFrenchFries",
-  "emojiPizza",
-  "emojiHotDog",
-  "emojiSandwich",
-  "emojiTaco",
-  "emojiBurrito",
-  "emojiTamale",
-  "emojiStuffedFlatbread",
-  "emojiFalafel",
-  "emojiEgg",
-  "emojiCooking",
-  "emojiShallowPanOfFood",
-  "emojiPotOfFood",
-  "emojiFondue",
-  "emojiBowlWithSpoon",
-  "emojiGreenSalad",
-  "emojiPopcorn",
-  "emojiButter",
-  "emojiSalt",
-  "emojiCannedFood"
+  "bread",
+  "croissant",
+  "baguetteBread",
+  "flatbread",
+  "pretzel",
+  "bagel",
+  "pancakes",
+  "waffle",
+  "cheeseWedge",
+  "meatOnBone",
+  "poultryLeg",
+  "cutOfMeat",
+  "bacon",
+  "hamburger",
+  "frenchFries",
+  "pizza",
+  "hotDog",
+  "sandwich",
+  "taco",
+  "burrito",
+  "tamale",
+  "stuffedFlatbread",
+  "falafel",
+  "egg",
+  "cooking",
+  "shallowPanOfFood",
+  "potOfFood",
+  "fondue",
+  "bowlWithSpoon",
+  "greenSalad",
+  "popcorn",
+  "butter",
+  "salt",
+  "cannedFood"
  ],
  "food and drink/food-asian": [
-  "emojiBentoBox",
-  "emojiRiceCracker",
-  "emojiRiceBall",
-  "emojiCookedRice",
-  "emojiCurryRice",
-  "emojiSteamingBowl",
-  "emojiSpaghetti",
-  "emojiRoastedSweetPotato",
-  "emojiOden",
-  "emojiSushi",
-  "emojiFriedShrimp",
-  "emojiFishCakeWithSwirl",
-  "emojiMoonCake",
-  "emojiDango",
-  "emojiDumpling",
-  "emojiFortuneCookie",
-  "emojiTakeoutBox"
+  "bentoBox",
+  "riceCracker",
+  "riceBall",
+  "cookedRice",
+  "curryRice",
+  "steamingBowl",
+  "spaghetti",
+  "roastedSweetPotato",
+  "oden",
+  "sushi",
+  "friedShrimp",
+  "fishCakeWithSwirl",
+  "moonCake",
+  "dango",
+  "dumpling",
+  "fortuneCookie",
+  "takeoutBox"
  ],
  "food and drink/food-marine": [
-  "emojiCrab",
-  "emojiLobster",
-  "emojiShrimp",
-  "emojiSquid",
-  "emojiOyster"
+  "crab",
+  "lobster",
+  "shrimp",
+  "squid",
+  "oyster"
  ],
  "food and drink/food-sweet": [
-  "emojiSoftIceCream",
-  "emojiShavedIce",
-  "emojiIceCream",
-  "emojiDoughnut",
-  "emojiCookie",
-  "emojiBirthdayCake",
-  "emojiShortcake",
-  "emojiCupcake",
-  "emojiPie",
-  "emojiChocolateBar",
-  "emojiCandy",
-  "emojiLollipop",
-  "emojiCustard",
-  "emojiHoneyPot"
+  "softIceCream",
+  "shavedIce",
+  "iceCream",
+  "doughnut",
+  "cookie",
+  "birthdayCake",
+  "shortcake",
+  "cupcake",
+  "pie",
+  "chocolateBar",
+  "candy",
+  "lollipop",
+  "custard",
+  "honeyPot"
  ],
  "food and drink/drink": [
-  "emojiBabyBottle",
-  "emojiGlassOfMilk",
-  "emojiHotBeverage",
-  "emojiTeapot",
-  "emojiTeacupWithoutHandle",
-  "emojiSake",
-  "emojiBottleWithPoppingCork",
-  "emojiWineGlass",
-  "emojiCocktailGlass",
-  "emojiTropicalDrink",
-  "emojiBeerMug",
-  "emojiClinkingBeerMugs",
-  "emojiClinkingGlasses",
-  "emojiTumblerGlass",
-  "emojiPouringLiquid",
-  "emojiCupWithStraw",
-  "emojiBubbleTea",
-  "emojiBeverageBox",
-  "emojiMate",
-  "emojiIce"
+  "babyBottle",
+  "glassOfMilk",
+  "hotBeverage",
+  "teapot",
+  "teacupWithoutHandle",
+  "sake",
+  "bottleWithPoppingCork",
+  "wineGlass",
+  "cocktailGlass",
+  "tropicalDrink",
+  "beerMug",
+  "clinkingBeerMugs",
+  "clinkingGlasses",
+  "tumblerGlass",
+  "pouringLiquid",
+  "cupWithStraw",
+  "bubbleTea",
+  "beverageBox",
+  "mate",
+  "ice"
  ],
  "food and drink/dishware": [
-  "emojiChopsticks",
-  "emojiForkAndKnifeWithPlate",
-  "emojiForkAndKnife",
-  "emojiSpoon",
-  "emojiKitchenKnife",
-  "emojiJar",
-  "emojiAmphora"
+  "chopsticks",
+  "forkAndKnifeWithPlate",
+  "forkAndKnife",
+  "spoon",
+  "kitchenKnife",
+  "jar",
+  "amphora"
  ],
  "travel and places": [
-  "emojiGlobeShowingEuropeAfrica",
-  "emojiGlobeShowingAmericas",
-  "emojiGlobeShowingAsiaAustralia",
-  "emojiGlobeWithMeridians",
-  "emojiWorldMap",
-  "emojiMapOfJapan",
-  "emojiCompass",
-  "emojiSnowCappedMountain",
-  "emojiMountain",
-  "emojiVolcano",
-  "emojiMountFuji",
-  "emojiCamping",
-  "emojiBeachWithUmbrella",
-  "emojiDesert",
-  "emojiDesertIsland",
-  "emojiNationalPark",
-  "emojiStadium",
-  "emojiClassicalBuilding",
-  "emojiBuildingConstruction",
-  "emojiBrick",
-  "emojiRock",
-  "emojiWood",
-  "emojiHut",
-  "emojiHouses",
-  "emojiDerelictHouse",
-  "emojiHouse",
-  "emojiHouseWithGarden",
-  "emojiOfficeBuilding",
-  "emojiJapanesePostOffice",
-  "emojiPostOffice",
-  "emojiHospital",
-  "emojiBank",
-  "emojiHotel",
-  "emojiLoveHotel",
-  "emojiConvenienceStore",
-  "emojiSchool",
-  "emojiDepartmentStore",
-  "emojiFactory",
-  "emojiJapaneseCastle",
-  "emojiCastle",
-  "emojiWedding",
-  "emojiTokyoTower",
-  "emojiStatueOfLiberty",
-  "emojiChurch",
-  "emojiMosque",
-  "emojiHinduTemple",
-  "emojiSynagogue",
-  "emojiShintoShrine",
-  "emojiKaaba",
-  "emojiFountain",
-  "emojiTent",
-  "emojiFoggy",
-  "emojiNightWithStars",
-  "emojiCityscape",
-  "emojiSunriseOverMountains",
-  "emojiSunrise",
-  "emojiCityscapeAtDusk",
-  "emojiSunset",
-  "emojiBridgeAtNight",
-  "emojiHotSprings",
-  "emojiCarouselHorse",
-  "emojiPlaygroundSlide",
-  "emojiFerrisWheel",
-  "emojiRollerCoaster",
-  "emojiBarberPole",
-  "emojiCircusTent",
-  "emojiLocomotive",
-  "emojiRailwayCar",
-  "emojiHighSpeedTrain",
-  "emojiBulletTrain",
-  "emojiTrain",
-  "emojiMetro",
-  "emojiLightRail",
-  "emojiStation",
-  "emojiTram",
-  "emojiMonorail",
-  "emojiMountainRailway",
-  "emojiTramCar",
-  "emojiBus",
-  "emojiOncomingBus",
-  "emojiTrolleybus",
-  "emojiMinibus",
-  "emojiAmbulance",
-  "emojiFireEngine",
-  "emojiPoliceCar",
-  "emojiOncomingPoliceCar",
-  "emojiTaxi",
-  "emojiOncomingTaxi",
-  "emojiAutomobile",
-  "emojiOncomingAutomobile",
-  "emojiSportUtilityVehicle",
-  "emojiPickupTruck",
-  "emojiDeliveryTruck",
-  "emojiArticulatedLorry",
-  "emojiTractor",
-  "emojiRacingCar",
-  "emojiMotorcycle",
-  "emojiMotorScooter",
-  "emojiManualWheelchair",
-  "emojiMotorizedWheelchair",
-  "emojiAutoRickshaw",
-  "emojiBicycle",
-  "emojiKickScooter",
-  "emojiSkateboard",
-  "emojiRollerSkate",
-  "emojiBusStop",
-  "emojiMotorway",
-  "emojiRailwayTrack",
-  "emojiOilDrum",
-  "emojiFuelPump",
-  "emojiWheel",
-  "emojiPoliceCarLight",
-  "emojiHorizontalTrafficLight",
-  "emojiVerticalTrafficLight",
-  "emojiStopSign",
-  "emojiConstruction",
-  "emojiAnchor",
-  "emojiRingBuoy",
-  "emojiSailboat",
-  "emojiCanoe",
-  "emojiSpeedboat",
-  "emojiPassengerShip",
-  "emojiFerry",
-  "emojiMotorBoat",
-  "emojiShip",
-  "emojiAirplane",
-  "emojiSmallAirplane",
-  "emojiAirplaneDeparture",
-  "emojiAirplaneArrival",
-  "emojiParachute",
-  "emojiSeat",
-  "emojiHelicopter",
-  "emojiSuspensionRailway",
-  "emojiMountainCableway",
-  "emojiAerialTramway",
-  "emojiSatellite",
-  "emojiRocket",
-  "emojiFlyingSaucer",
-  "emojiBellhopBell",
-  "emojiLuggage",
-  "emojiHourglassDone",
-  "emojiHourglassNotDone",
-  "emojiWatch",
-  "emojiAlarmClock",
-  "emojiStopwatch",
-  "emojiTimerClock",
-  "emojiMantelpieceClock",
-  "emojiTwelveOclock",
-  "emojiTwelveThirty",
-  "emojiOneOclock",
-  "emojiOneThirty",
-  "emojiTwoOclock",
-  "emojiTwoThirty",
-  "emojiThreeOclock",
-  "emojiThreeThirty",
-  "emojiFourOclock",
-  "emojiFourThirty",
-  "emojiFiveOclock",
-  "emojiFiveThirty",
-  "emojiSixOclock",
-  "emojiSixThirty",
-  "emojiSevenOclock",
-  "emojiSevenThirty",
-  "emojiEightOclock",
-  "emojiEightThirty",
-  "emojiNineOclock",
-  "emojiNineThirty",
-  "emojiTenOclock",
-  "emojiTenThirty",
-  "emojiElevenOclock",
-  "emojiElevenThirty",
-  "emojiCLDRShortName",
-  "emojiNewMoon",
-  "emojiWaxingCrescentMoon",
-  "emojiFirstQuarterMoon",
-  "emojiWaxingGibbousMoon",
-  "emojiFullMoon",
-  "emojiWaningGibbousMoon",
-  "emojiLastQuarterMoon",
-  "emojiWaningCrescentMoon",
-  "emojiCrescentMoon",
-  "emojiNewMoonFace",
-  "emojiFirstQuarterMoonFace",
-  "emojiLastQuarterMoonFace",
-  "emojiThermometer",
-  "emojiSun",
-  "emojiFullMoonFace",
-  "emojiSunWithFace",
-  "emojiRingedPlanet",
-  "emojiStar",
-  "emojiGlowingStar",
-  "emojiShootingStar",
-  "emojiMilkyWay",
-  "emojiCloud",
-  "emojiSunBehindCloud",
-  "emojiCloudWithLightningAndRain",
-  "emojiSunBehindSmallCloud",
-  "emojiSunBehindLargeCloud",
-  "emojiSunBehindRainCloud",
-  "emojiCloudWithRain",
-  "emojiCloudWithSnow",
-  "emojiCloudWithLightning",
-  "emojiTornado",
-  "emojiFog",
-  "emojiWindFace",
-  "emojiCyclone",
-  "emojiRainbow",
-  "emojiClosedUmbrella",
-  "emojiUmbrella",
-  "emojiUmbrellaWithRainDrops",
-  "emojiUmbrellaOnGround",
-  "emojiHighVoltage",
-  "emojiSnowflake",
-  "emojiSnowman",
-  "emojiSnowmanWithoutSnow",
-  "emojiComet",
-  "emojiFire",
-  "emojiDroplet",
-  "emojiWaterWave"
+  "globeShowingEuropeAfrica",
+  "globeShowingAmericas",
+  "globeShowingAsiaAustralia",
+  "globeWithMeridians",
+  "worldMap",
+  "mapOfJapan",
+  "compass",
+  "snowCappedMountain",
+  "mountain",
+  "volcano",
+  "mountFuji",
+  "camping",
+  "beachWithUmbrella",
+  "desert",
+  "desertIsland",
+  "nationalPark",
+  "stadium",
+  "classicalBuilding",
+  "buildingConstruction",
+  "brick",
+  "rock",
+  "wood",
+  "hut",
+  "houses",
+  "derelictHouse",
+  "house",
+  "houseWithGarden",
+  "officeBuilding",
+  "japanesePostOffice",
+  "postOffice",
+  "hospital",
+  "bank",
+  "hotel",
+  "loveHotel",
+  "convenienceStore",
+  "school",
+  "departmentStore",
+  "factory",
+  "japaneseCastle",
+  "castle",
+  "wedding",
+  "tokyoTower",
+  "statueOfLiberty",
+  "church",
+  "mosque",
+  "hinduTemple",
+  "synagogue",
+  "shintoShrine",
+  "kaaba",
+  "fountain",
+  "tent",
+  "foggy",
+  "nightWithStars",
+  "cityscape",
+  "sunriseOverMountains",
+  "sunrise",
+  "cityscapeAtDusk",
+  "sunset",
+  "bridgeAtNight",
+  "hotSprings",
+  "carouselHorse",
+  "playgroundSlide",
+  "ferrisWheel",
+  "rollerCoaster",
+  "barberPole",
+  "circusTent",
+  "locomotive",
+  "railwayCar",
+  "highSpeedTrain",
+  "bulletTrain",
+  "train",
+  "metro",
+  "lightRail",
+  "station",
+  "tram",
+  "monorail",
+  "mountainRailway",
+  "tramCar",
+  "bus",
+  "oncomingBus",
+  "trolleybus",
+  "minibus",
+  "ambulance",
+  "fireEngine",
+  "policeCar",
+  "oncomingPoliceCar",
+  "taxi",
+  "oncomingTaxi",
+  "automobile",
+  "oncomingAutomobile",
+  "sportUtilityVehicle",
+  "pickupTruck",
+  "deliveryTruck",
+  "articulatedLorry",
+  "tractor",
+  "racingCar",
+  "motorcycle",
+  "motorScooter",
+  "manualWheelchair",
+  "motorizedWheelchair",
+  "autoRickshaw",
+  "bicycle",
+  "kickScooter",
+  "skateboard",
+  "rollerSkate",
+  "busStop",
+  "motorway",
+  "railwayTrack",
+  "oilDrum",
+  "fuelPump",
+  "wheel",
+  "policeCarLight",
+  "horizontalTrafficLight",
+  "verticalTrafficLight",
+  "stopSign",
+  "construction",
+  "anchor",
+  "ringBuoy",
+  "sailboat",
+  "canoe",
+  "speedboat",
+  "passengerShip",
+  "ferry",
+  "motorBoat",
+  "ship",
+  "airplane",
+  "smallAirplane",
+  "airplaneDeparture",
+  "airplaneArrival",
+  "parachute",
+  "seat",
+  "helicopter",
+  "suspensionRailway",
+  "mountainCableway",
+  "aerialTramway",
+  "satellite",
+  "rocket",
+  "flyingSaucer",
+  "bellhopBell",
+  "luggage",
+  "hourglassDone",
+  "hourglassNotDone",
+  "watch",
+  "alarmClock",
+  "stopwatch",
+  "timerClock",
+  "mantelpieceClock",
+  "twelveOclock",
+  "twelveThirty",
+  "oneOclock",
+  "oneThirty",
+  "twoOclock",
+  "twoThirty",
+  "threeOclock",
+  "threeThirty",
+  "fourOclock",
+  "fourThirty",
+  "fiveOclock",
+  "fiveThirty",
+  "sixOclock",
+  "sixThirty",
+  "sevenOclock",
+  "sevenThirty",
+  "eightOclock",
+  "eightThirty",
+  "nineOclock",
+  "nineThirty",
+  "tenOclock",
+  "tenThirty",
+  "elevenOclock",
+  "elevenThirty",
+  "cLDRShortName",
+  "newMoon",
+  "waxingCrescentMoon",
+  "firstQuarterMoon",
+  "waxingGibbousMoon",
+  "fullMoon",
+  "waningGibbousMoon",
+  "lastQuarterMoon",
+  "waningCrescentMoon",
+  "crescentMoon",
+  "newMoonFace",
+  "firstQuarterMoonFace",
+  "lastQuarterMoonFace",
+  "thermometer",
+  "sun",
+  "fullMoonFace",
+  "sunWithFace",
+  "ringedPlanet",
+  "star",
+  "glowingStar",
+  "shootingStar",
+  "milkyWay",
+  "cloud",
+  "sunBehindCloud",
+  "cloudWithLightningAndRain",
+  "sunBehindSmallCloud",
+  "sunBehindLargeCloud",
+  "sunBehindRainCloud",
+  "cloudWithRain",
+  "cloudWithSnow",
+  "cloudWithLightning",
+  "tornado",
+  "fog",
+  "windFace",
+  "cyclone",
+  "rainbow",
+  "closedUmbrella",
+  "umbrella",
+  "umbrellaWithRainDrops",
+  "umbrellaOnGround",
+  "highVoltage",
+  "snowflake",
+  "snowman",
+  "snowmanWithoutSnow",
+  "comet",
+  "fire",
+  "droplet",
+  "waterWave"
  ],
  "travel and places/place-map": [
-  "emojiGlobeShowingEuropeAfrica",
-  "emojiGlobeShowingAmericas",
-  "emojiGlobeShowingAsiaAustralia",
-  "emojiGlobeWithMeridians",
-  "emojiWorldMap",
-  "emojiMapOfJapan",
-  "emojiCompass"
+  "globeShowingEuropeAfrica",
+  "globeShowingAmericas",
+  "globeShowingAsiaAustralia",
+  "globeWithMeridians",
+  "worldMap",
+  "mapOfJapan",
+  "compass"
  ],
  "travel and places/place-geographic": [
-  "emojiSnowCappedMountain",
-  "emojiMountain",
-  "emojiVolcano",
-  "emojiMountFuji",
-  "emojiCamping",
-  "emojiBeachWithUmbrella",
-  "emojiDesert",
-  "emojiDesertIsland",
-  "emojiNationalPark"
+  "snowCappedMountain",
+  "mountain",
+  "volcano",
+  "mountFuji",
+  "camping",
+  "beachWithUmbrella",
+  "desert",
+  "desertIsland",
+  "nationalPark"
  ],
  "travel and places/place-building": [
-  "emojiStadium",
-  "emojiClassicalBuilding",
-  "emojiBuildingConstruction",
-  "emojiBrick",
-  "emojiRock",
-  "emojiWood",
-  "emojiHut",
-  "emojiHouses",
-  "emojiDerelictHouse",
-  "emojiHouse",
-  "emojiHouseWithGarden",
-  "emojiOfficeBuilding",
-  "emojiJapanesePostOffice",
-  "emojiPostOffice",
-  "emojiHospital",
-  "emojiBank",
-  "emojiHotel",
-  "emojiLoveHotel",
-  "emojiConvenienceStore",
-  "emojiSchool",
-  "emojiDepartmentStore",
-  "emojiFactory",
-  "emojiJapaneseCastle",
-  "emojiCastle",
-  "emojiWedding",
-  "emojiTokyoTower",
-  "emojiStatueOfLiberty"
+  "stadium",
+  "classicalBuilding",
+  "buildingConstruction",
+  "brick",
+  "rock",
+  "wood",
+  "hut",
+  "houses",
+  "derelictHouse",
+  "house",
+  "houseWithGarden",
+  "officeBuilding",
+  "japanesePostOffice",
+  "postOffice",
+  "hospital",
+  "bank",
+  "hotel",
+  "loveHotel",
+  "convenienceStore",
+  "school",
+  "departmentStore",
+  "factory",
+  "japaneseCastle",
+  "castle",
+  "wedding",
+  "tokyoTower",
+  "statueOfLiberty"
  ],
  "travel and places/place-religious": [
-  "emojiChurch",
-  "emojiMosque",
-  "emojiHinduTemple",
-  "emojiSynagogue",
-  "emojiShintoShrine",
-  "emojiKaaba"
+  "church",
+  "mosque",
+  "hinduTemple",
+  "synagogue",
+  "shintoShrine",
+  "kaaba"
  ],
  "travel and places/place-other": [
-  "emojiFountain",
-  "emojiTent",
-  "emojiFoggy",
-  "emojiNightWithStars",
-  "emojiCityscape",
-  "emojiSunriseOverMountains",
-  "emojiSunrise",
-  "emojiCityscapeAtDusk",
-  "emojiSunset",
-  "emojiBridgeAtNight",
-  "emojiHotSprings",
-  "emojiCarouselHorse",
-  "emojiPlaygroundSlide",
-  "emojiFerrisWheel",
-  "emojiRollerCoaster",
-  "emojiBarberPole",
-  "emojiCircusTent"
+  "fountain",
+  "tent",
+  "foggy",
+  "nightWithStars",
+  "cityscape",
+  "sunriseOverMountains",
+  "sunrise",
+  "cityscapeAtDusk",
+  "sunset",
+  "bridgeAtNight",
+  "hotSprings",
+  "carouselHorse",
+  "playgroundSlide",
+  "ferrisWheel",
+  "rollerCoaster",
+  "barberPole",
+  "circusTent"
  ],
  "travel and places/transport-ground": [
-  "emojiLocomotive",
-  "emojiRailwayCar",
-  "emojiHighSpeedTrain",
-  "emojiBulletTrain",
-  "emojiTrain",
-  "emojiMetro",
-  "emojiLightRail",
-  "emojiStation",
-  "emojiTram",
-  "emojiMonorail",
-  "emojiMountainRailway",
-  "emojiTramCar",
-  "emojiBus",
-  "emojiOncomingBus",
-  "emojiTrolleybus",
-  "emojiMinibus",
-  "emojiAmbulance",
-  "emojiFireEngine",
-  "emojiPoliceCar",
-  "emojiOncomingPoliceCar",
-  "emojiTaxi",
-  "emojiOncomingTaxi",
-  "emojiAutomobile",
-  "emojiOncomingAutomobile",
-  "emojiSportUtilityVehicle",
-  "emojiPickupTruck",
-  "emojiDeliveryTruck",
-  "emojiArticulatedLorry",
-  "emojiTractor",
-  "emojiRacingCar",
-  "emojiMotorcycle",
-  "emojiMotorScooter",
-  "emojiManualWheelchair",
-  "emojiMotorizedWheelchair",
-  "emojiAutoRickshaw",
-  "emojiBicycle",
-  "emojiKickScooter",
-  "emojiSkateboard",
-  "emojiRollerSkate",
-  "emojiBusStop",
-  "emojiMotorway",
-  "emojiRailwayTrack",
-  "emojiOilDrum",
-  "emojiFuelPump",
-  "emojiWheel",
-  "emojiPoliceCarLight",
-  "emojiHorizontalTrafficLight",
-  "emojiVerticalTrafficLight",
-  "emojiStopSign",
-  "emojiConstruction",
-  "emojiAnchor",
-  "emojiRingBuoy",
-  "emojiSailboat",
-  "emojiCanoe",
-  "emojiSpeedboat",
-  "emojiPassengerShip",
-  "emojiFerry",
-  "emojiMotorBoat",
-  "emojiShip"
+  "locomotive",
+  "railwayCar",
+  "highSpeedTrain",
+  "bulletTrain",
+  "train",
+  "metro",
+  "lightRail",
+  "station",
+  "tram",
+  "monorail",
+  "mountainRailway",
+  "tramCar",
+  "bus",
+  "oncomingBus",
+  "trolleybus",
+  "minibus",
+  "ambulance",
+  "fireEngine",
+  "policeCar",
+  "oncomingPoliceCar",
+  "taxi",
+  "oncomingTaxi",
+  "automobile",
+  "oncomingAutomobile",
+  "sportUtilityVehicle",
+  "pickupTruck",
+  "deliveryTruck",
+  "articulatedLorry",
+  "tractor",
+  "racingCar",
+  "motorcycle",
+  "motorScooter",
+  "manualWheelchair",
+  "motorizedWheelchair",
+  "autoRickshaw",
+  "bicycle",
+  "kickScooter",
+  "skateboard",
+  "rollerSkate",
+  "busStop",
+  "motorway",
+  "railwayTrack",
+  "oilDrum",
+  "fuelPump",
+  "wheel",
+  "policeCarLight",
+  "horizontalTrafficLight",
+  "verticalTrafficLight",
+  "stopSign",
+  "construction",
+  "anchor",
+  "ringBuoy",
+  "sailboat",
+  "canoe",
+  "speedboat",
+  "passengerShip",
+  "ferry",
+  "motorBoat",
+  "ship"
  ],
  "travel and places/transport-air": [
-  "emojiAirplane",
-  "emojiSmallAirplane",
-  "emojiAirplaneDeparture",
-  "emojiAirplaneArrival",
-  "emojiParachute",
-  "emojiSeat",
-  "emojiHelicopter",
-  "emojiSuspensionRailway",
-  "emojiMountainCableway",
-  "emojiAerialTramway",
-  "emojiSatellite",
-  "emojiRocket",
-  "emojiFlyingSaucer"
+  "airplane",
+  "smallAirplane",
+  "airplaneDeparture",
+  "airplaneArrival",
+  "parachute",
+  "seat",
+  "helicopter",
+  "suspensionRailway",
+  "mountainCableway",
+  "aerialTramway",
+  "satellite",
+  "rocket",
+  "flyingSaucer"
  ],
  "travel and places/hotel": [
-  "emojiBellhopBell",
-  "emojiLuggage"
+  "bellhopBell",
+  "luggage"
  ],
  "travel and places/time": [
-  "emojiHourglassDone",
-  "emojiHourglassNotDone",
-  "emojiWatch",
-  "emojiAlarmClock",
-  "emojiStopwatch",
-  "emojiTimerClock",
-  "emojiMantelpieceClock",
-  "emojiTwelveOclock",
-  "emojiTwelveThirty",
-  "emojiOneOclock",
-  "emojiOneThirty",
-  "emojiTwoOclock",
-  "emojiTwoThirty",
-  "emojiThreeOclock",
-  "emojiThreeThirty",
-  "emojiFourOclock",
-  "emojiFourThirty",
-  "emojiFiveOclock",
-  "emojiFiveThirty",
-  "emojiSixOclock",
-  "emojiSixThirty",
-  "emojiSevenOclock",
-  "emojiSevenThirty",
-  "emojiEightOclock",
-  "emojiEightThirty",
-  "emojiNineOclock",
-  "emojiNineThirty",
-  "emojiTenOclock",
-  "emojiTenThirty",
-  "emojiElevenOclock",
-  "emojiElevenThirty"
+  "hourglassDone",
+  "hourglassNotDone",
+  "watch",
+  "alarmClock",
+  "stopwatch",
+  "timerClock",
+  "mantelpieceClock",
+  "twelveOclock",
+  "twelveThirty",
+  "oneOclock",
+  "oneThirty",
+  "twoOclock",
+  "twoThirty",
+  "threeOclock",
+  "threeThirty",
+  "fourOclock",
+  "fourThirty",
+  "fiveOclock",
+  "fiveThirty",
+  "sixOclock",
+  "sixThirty",
+  "sevenOclock",
+  "sevenThirty",
+  "eightOclock",
+  "eightThirty",
+  "nineOclock",
+  "nineThirty",
+  "tenOclock",
+  "tenThirty",
+  "elevenOclock",
+  "elevenThirty"
  ],
  "travel and places/sky and weather": [
-  "emojiCLDRShortName",
-  "emojiNewMoon",
-  "emojiWaxingCrescentMoon",
-  "emojiFirstQuarterMoon",
-  "emojiWaxingGibbousMoon",
-  "emojiFullMoon",
-  "emojiWaningGibbousMoon",
-  "emojiLastQuarterMoon",
-  "emojiWaningCrescentMoon",
-  "emojiCrescentMoon",
-  "emojiNewMoonFace",
-  "emojiFirstQuarterMoonFace",
-  "emojiLastQuarterMoonFace",
-  "emojiThermometer",
-  "emojiSun",
-  "emojiFullMoonFace",
-  "emojiSunWithFace",
-  "emojiRingedPlanet",
-  "emojiStar",
-  "emojiGlowingStar",
-  "emojiShootingStar",
-  "emojiMilkyWay",
-  "emojiCloud",
-  "emojiSunBehindCloud",
-  "emojiCloudWithLightningAndRain",
-  "emojiSunBehindSmallCloud",
-  "emojiSunBehindLargeCloud",
-  "emojiSunBehindRainCloud",
-  "emojiCloudWithRain",
-  "emojiCloudWithSnow",
-  "emojiCloudWithLightning",
-  "emojiTornado",
-  "emojiFog",
-  "emojiWindFace",
-  "emojiCyclone",
-  "emojiRainbow",
-  "emojiClosedUmbrella",
-  "emojiUmbrella",
-  "emojiUmbrellaWithRainDrops",
-  "emojiUmbrellaOnGround",
-  "emojiHighVoltage",
-  "emojiSnowflake",
-  "emojiSnowman",
-  "emojiSnowmanWithoutSnow",
-  "emojiComet",
-  "emojiFire",
-  "emojiDroplet",
-  "emojiWaterWave"
+  "cLDRShortName",
+  "newMoon",
+  "waxingCrescentMoon",
+  "firstQuarterMoon",
+  "waxingGibbousMoon",
+  "fullMoon",
+  "waningGibbousMoon",
+  "lastQuarterMoon",
+  "waningCrescentMoon",
+  "crescentMoon",
+  "newMoonFace",
+  "firstQuarterMoonFace",
+  "lastQuarterMoonFace",
+  "thermometer",
+  "sun",
+  "fullMoonFace",
+  "sunWithFace",
+  "ringedPlanet",
+  "star",
+  "glowingStar",
+  "shootingStar",
+  "milkyWay",
+  "cloud",
+  "sunBehindCloud",
+  "cloudWithLightningAndRain",
+  "sunBehindSmallCloud",
+  "sunBehindLargeCloud",
+  "sunBehindRainCloud",
+  "cloudWithRain",
+  "cloudWithSnow",
+  "cloudWithLightning",
+  "tornado",
+  "fog",
+  "windFace",
+  "cyclone",
+  "rainbow",
+  "closedUmbrella",
+  "umbrella",
+  "umbrellaWithRainDrops",
+  "umbrellaOnGround",
+  "highVoltage",
+  "snowflake",
+  "snowman",
+  "snowmanWithoutSnow",
+  "comet",
+  "fire",
+  "droplet",
+  "waterWave"
  ],
  "activities": [
-  "emojiJackOLantern",
-  "emojiChristmasTree",
-  "emojiFireworks",
-  "emojiSparkler",
-  "emojiFirecracker",
-  "emojiSparkles",
-  "emojiBalloon",
-  "emojiPartyPopper",
-  "emojiConfettiBall",
-  "emojiTanabataTree",
-  "emojiPineDecoration",
-  "emojiJapaneseDolls",
-  "emojiCarpStreamer",
-  "emojiWindChime",
-  "emojiMoonViewingCeremony",
-  "emojiRedEnvelope",
-  "emojiRibbon",
-  "emojiWrappedGift",
-  "emojiReminderRibbon",
-  "emojiAdmissionTickets",
-  "emojiTicket",
-  "emojiMilitaryMedal",
-  "emojiTrophy",
-  "emojiSportsMedal",
-  "emoji1stPlaceMedal",
-  "emoji2ndPlaceMedal",
-  "emoji3rdPlaceMedal",
-  "emojiSoccerBall",
-  "emojiBaseball",
-  "emojiSoftball",
-  "emojiBasketball",
-  "emojiVolleyball",
-  "emojiAmericanFootball",
-  "emojiRugbyFootball",
-  "emojiTennis",
-  "emojiFlyingDisc",
-  "emojiBowling",
-  "emojiCricketGame",
-  "emojiFieldHockey",
-  "emojiIceHockey",
-  "emojiLacrosse",
-  "emojiPingPong",
-  "emojiBadminton",
-  "emojiBoxingGlove",
-  "emojiMartialArtsUniform",
-  "emojiGoalNet",
-  "emojiFlagInHole",
-  "emojiIceSkate",
-  "emojiFishingPole",
-  "emojiDivingMask",
-  "emojiRunningShirt",
-  "emojiSkis",
-  "emojiSled",
-  "emojiCurlingStone",
-  "emojiBullseye",
-  "emojiYoYo",
-  "emojiKite",
-  "emojiWaterPistol",
-  "emojiPool8Ball",
-  "emojiCrystalBall",
-  "emojiMagicWand",
-  "emojiVideoGame",
-  "emojiJoystick",
-  "emojiSlotMachine",
-  "emojiGameDie",
-  "emojiPuzzlePiece",
-  "emojiTeddyBear",
-  "emojiPinata",
-  "emojiMirrorBall",
-  "emojiNestingDolls",
-  "emojiSpadeSuit",
-  "emojiHeartSuit",
-  "emojiDiamondSuit",
-  "emojiClubSuit",
-  "emojiChessPawn",
-  "emojiJoker",
-  "emojiMahjongRedDragon",
-  "emojiFlowerPlayingCards",
-  "emojiPerformingArts",
-  "emojiFramedPicture",
-  "emojiArtistPalette",
-  "emojiThread",
-  "emojiSewingNeedle",
-  "emojiYarn",
-  "emojiKnot"
+  "jackOLantern",
+  "christmasTree",
+  "fireworks",
+  "sparkler",
+  "firecracker",
+  "sparkles",
+  "balloon",
+  "partyPopper",
+  "confettiBall",
+  "tanabataTree",
+  "pineDecoration",
+  "japaneseDolls",
+  "carpStreamer",
+  "windChime",
+  "moonViewingCeremony",
+  "redEnvelope",
+  "ribbon",
+  "wrappedGift",
+  "reminderRibbon",
+  "admissionTickets",
+  "ticket",
+  "militaryMedal",
+  "trophy",
+  "sportsMedal",
+  "1stPlaceMedal",
+  "2ndPlaceMedal",
+  "3rdPlaceMedal",
+  "soccerBall",
+  "baseball",
+  "softball",
+  "basketball",
+  "volleyball",
+  "americanFootball",
+  "rugbyFootball",
+  "tennis",
+  "flyingDisc",
+  "bowling",
+  "cricketGame",
+  "fieldHockey",
+  "iceHockey",
+  "lacrosse",
+  "pingPong",
+  "badminton",
+  "boxingGlove",
+  "martialArtsUniform",
+  "goalNet",
+  "flagInHole",
+  "iceSkate",
+  "fishingPole",
+  "divingMask",
+  "runningShirt",
+  "skis",
+  "sled",
+  "curlingStone",
+  "bullseye",
+  "yoYo",
+  "kite",
+  "waterPistol",
+  "pool8Ball",
+  "crystalBall",
+  "magicWand",
+  "videoGame",
+  "joystick",
+  "slotMachine",
+  "gameDie",
+  "puzzlePiece",
+  "teddyBear",
+  "pinata",
+  "mirrorBall",
+  "nestingDolls",
+  "spadeSuit",
+  "heartSuit",
+  "diamondSuit",
+  "clubSuit",
+  "chessPawn",
+  "joker",
+  "mahjongRedDragon",
+  "flowerPlayingCards",
+  "performingArts",
+  "framedPicture",
+  "artistPalette",
+  "thread",
+  "sewingNeedle",
+  "yarn",
+  "knot"
  ],
  "activities/event": [
-  "emojiJackOLantern",
-  "emojiChristmasTree",
-  "emojiFireworks",
-  "emojiSparkler",
-  "emojiFirecracker",
-  "emojiSparkles",
-  "emojiBalloon",
-  "emojiPartyPopper",
-  "emojiConfettiBall",
-  "emojiTanabataTree",
-  "emojiPineDecoration",
-  "emojiJapaneseDolls",
-  "emojiCarpStreamer",
-  "emojiWindChime",
-  "emojiMoonViewingCeremony",
-  "emojiRedEnvelope",
-  "emojiRibbon",
-  "emojiWrappedGift",
-  "emojiReminderRibbon",
-  "emojiAdmissionTickets",
-  "emojiTicket"
+  "jackOLantern",
+  "christmasTree",
+  "fireworks",
+  "sparkler",
+  "firecracker",
+  "sparkles",
+  "balloon",
+  "partyPopper",
+  "confettiBall",
+  "tanabataTree",
+  "pineDecoration",
+  "japaneseDolls",
+  "carpStreamer",
+  "windChime",
+  "moonViewingCeremony",
+  "redEnvelope",
+  "ribbon",
+  "wrappedGift",
+  "reminderRibbon",
+  "admissionTickets",
+  "ticket"
  ],
  "activities/award-medal": [
-  "emojiMilitaryMedal",
-  "emojiTrophy",
-  "emojiSportsMedal",
-  "emoji1stPlaceMedal",
-  "emoji2ndPlaceMedal",
-  "emoji3rdPlaceMedal"
+  "militaryMedal",
+  "trophy",
+  "sportsMedal",
+  "1stPlaceMedal",
+  "2ndPlaceMedal",
+  "3rdPlaceMedal"
  ],
  "activities/sport": [
-  "emojiSoccerBall",
-  "emojiBaseball",
-  "emojiSoftball",
-  "emojiBasketball",
-  "emojiVolleyball",
-  "emojiAmericanFootball",
-  "emojiRugbyFootball",
-  "emojiTennis",
-  "emojiFlyingDisc",
-  "emojiBowling",
-  "emojiCricketGame",
-  "emojiFieldHockey",
-  "emojiIceHockey",
-  "emojiLacrosse",
-  "emojiPingPong",
-  "emojiBadminton",
-  "emojiBoxingGlove",
-  "emojiMartialArtsUniform",
-  "emojiGoalNet",
-  "emojiFlagInHole",
-  "emojiIceSkate",
-  "emojiFishingPole",
-  "emojiDivingMask",
-  "emojiRunningShirt",
-  "emojiSkis",
-  "emojiSled",
-  "emojiCurlingStone"
+  "soccerBall",
+  "baseball",
+  "softball",
+  "basketball",
+  "volleyball",
+  "americanFootball",
+  "rugbyFootball",
+  "tennis",
+  "flyingDisc",
+  "bowling",
+  "cricketGame",
+  "fieldHockey",
+  "iceHockey",
+  "lacrosse",
+  "pingPong",
+  "badminton",
+  "boxingGlove",
+  "martialArtsUniform",
+  "goalNet",
+  "flagInHole",
+  "iceSkate",
+  "fishingPole",
+  "divingMask",
+  "runningShirt",
+  "skis",
+  "sled",
+  "curlingStone"
  ],
  "activities/game": [
-  "emojiBullseye",
-  "emojiYoYo",
-  "emojiKite",
-  "emojiWaterPistol",
-  "emojiPool8Ball",
-  "emojiCrystalBall",
-  "emojiMagicWand",
-  "emojiVideoGame",
-  "emojiJoystick",
-  "emojiSlotMachine",
-  "emojiGameDie",
-  "emojiPuzzlePiece",
-  "emojiTeddyBear",
-  "emojiPinata",
-  "emojiMirrorBall",
-  "emojiNestingDolls",
-  "emojiSpadeSuit",
-  "emojiHeartSuit",
-  "emojiDiamondSuit",
-  "emojiClubSuit",
-  "emojiChessPawn",
-  "emojiJoker",
-  "emojiMahjongRedDragon",
-  "emojiFlowerPlayingCards"
+  "bullseye",
+  "yoYo",
+  "kite",
+  "waterPistol",
+  "pool8Ball",
+  "crystalBall",
+  "magicWand",
+  "videoGame",
+  "joystick",
+  "slotMachine",
+  "gameDie",
+  "puzzlePiece",
+  "teddyBear",
+  "pinata",
+  "mirrorBall",
+  "nestingDolls",
+  "spadeSuit",
+  "heartSuit",
+  "diamondSuit",
+  "clubSuit",
+  "chessPawn",
+  "joker",
+  "mahjongRedDragon",
+  "flowerPlayingCards"
  ],
  "activities/arts and crafts": [
-  "emojiPerformingArts",
-  "emojiFramedPicture",
-  "emojiArtistPalette",
-  "emojiThread",
-  "emojiSewingNeedle",
-  "emojiYarn",
-  "emojiKnot"
+  "performingArts",
+  "framedPicture",
+  "artistPalette",
+  "thread",
+  "sewingNeedle",
+  "yarn",
+  "knot"
  ],
  "objects": [
-  "emojiGlasses",
-  "emojiSunglasses",
-  "emojiGoggles",
-  "emojiLabCoat",
-  "emojiSafetyVest",
-  "emojiNecktie",
-  "emojiTShirt",
-  "emojiJeans",
-  "emojiScarf",
-  "emojiGloves",
-  "emojiCoat",
-  "emojiSocks",
-  "emojiDress",
-  "emojiKimono",
-  "emojiSari",
-  "emojiOnePieceSwimsuit",
-  "emojiBriefs",
-  "emojiShorts",
-  "emojiBikini",
-  "emojiWomansClothes",
-  "emojiFoldingHandFan",
-  "emojiPurse",
-  "emojiHandbag",
-  "emojiClutchBag",
-  "emojiShoppingBags",
-  "emojiBackpack",
-  "emojiThongSandal",
-  "emojiMansShoe",
-  "emojiRunningShoe",
-  "emojiHikingBoot",
-  "emojiFlatShoe",
-  "emojiHighHeeledShoe",
-  "emojiWomansSandal",
-  "emojiBalletShoes",
-  "emojiWomansBoot",
-  "emojiHairPick",
-  "emojiCrown",
-  "emojiWomansHat",
-  "emojiTopHat",
-  "emojiGraduationCap",
-  "emojiBilledCap",
-  "emojiMilitaryHelmet",
-  "emojiRescueWorkersHelmet",
-  "emojiPrayerBeads",
-  "emojiLipstick",
-  "emojiRing",
-  "emojiGemStone",
-  "emojiMutedSpeaker",
-  "emojiSpeakerLowVolume",
-  "emojiSpeakerMediumVolume",
-  "emojiSpeakerHighVolume",
-  "emojiLoudspeaker",
-  "emojiMegaphone",
-  "emojiPostalHorn",
-  "emojiBell",
-  "emojiBellWithSlash",
-  "emojiMusicalScore",
-  "emojiMusicalNote",
-  "emojiMusicalNotes",
-  "emojiStudioMicrophone",
-  "emojiLevelSlider",
-  "emojiControlKnobs",
-  "emojiMicrophone",
-  "emojiHeadphone",
-  "emojiRadio",
-  "emojiSaxophone",
-  "emojiAccordion",
-  "emojiGuitar",
-  "emojiMusicalKeyboard",
-  "emojiTrumpet",
-  "emojiViolin",
-  "emojiBanjo",
-  "emojiDrum",
-  "emojiLongDrum",
-  "emojiMaracas",
-  "emojiFlute",
-  "emojiMobilePhone",
-  "emojiMobilePhoneWithArrow",
-  "emojiTelephone",
-  "emojiTelephoneReceiver",
-  "emojiPager",
-  "emojiFaxMachine",
-  "emojiBattery",
-  "emojiLowBattery",
-  "emojiElectricPlug",
-  "emojiLaptop",
-  "emojiDesktopComputer",
-  "emojiPrinter",
-  "emojiKeyboard",
-  "emojiComputerMouse",
-  "emojiTrackball",
-  "emojiComputerDisk",
-  "emojiFloppyDisk",
-  "emojiOpticalDisk",
-  "emojiDvd",
-  "emojiAbacus",
-  "emojiMovieCamera",
-  "emojiFilmFrames",
-  "emojiFilmProjector",
-  "emojiClapperBoard",
-  "emojiTelevision",
-  "emojiCamera",
-  "emojiCameraWithFlash",
-  "emojiVideoCamera",
-  "emojiVideocassette",
-  "emojiMagnifyingGlassTiltedLeft",
-  "emojiMagnifyingGlassTiltedRight",
-  "emojiCandle",
-  "emojiLightBulb",
-  "emojiFlashlight",
-  "emojiRedPaperLantern",
-  "emojiDiyaLamp",
-  "emojiNotebookWithDecorativeCover",
-  "emojiClosedBook",
-  "emojiOpenBook",
-  "emojiGreenBook",
-  "emojiBlueBook",
-  "emojiOrangeBook",
-  "emojiBooks",
-  "emojiNotebook",
-  "emojiLedger",
-  "emojiPageWithCurl",
-  "emojiScroll",
-  "emojiPageFacingUp",
-  "emojiNewspaper",
-  "emojiRolledUpNewspaper",
-  "emojiBookmarkTabs",
-  "emojiBookmark",
-  "emojiLabel",
-  "emojiMoneyBag",
-  "emojiCoin",
-  "emojiYenBanknote",
-  "emojiDollarBanknote",
-  "emojiEuroBanknote",
-  "emojiPoundBanknote",
-  "emojiMoneyWithWings",
-  "emojiCreditCard",
-  "emojiReceipt",
-  "emojiChartIncreasingWithYen",
-  "emojiEnvelope",
-  "emojiEMail",
-  "emojiIncomingEnvelope",
-  "emojiEnvelopeWithArrow",
-  "emojiOutboxTray",
-  "emojiInboxTray",
-  "emojiPackage",
-  "emojiClosedMailboxWithRaisedFlag",
-  "emojiClosedMailboxWithLoweredFlag",
-  "emojiOpenMailboxWithRaisedFlag",
-  "emojiOpenMailboxWithLoweredFlag",
-  "emojiPostbox",
-  "emojiBallotBoxWithBallot",
-  "emojiPencil",
-  "emojiBlackNib",
-  "emojiFountainPen",
-  "emojiPen",
-  "emojiPaintbrush",
-  "emojiCrayon",
-  "emojiMemo",
-  "emojiBriefcase",
-  "emojiFileFolder",
-  "emojiOpenFileFolder",
-  "emojiCardIndexDividers",
-  "emojiCalendar",
-  "emojiTearOffCalendar",
-  "emojiSpiralNotepad",
-  "emojiSpiralCalendar",
-  "emojiCardIndex",
-  "emojiChartIncreasing",
-  "emojiChartDecreasing",
-  "emojiBarChart",
-  "emojiClipboard",
-  "emojiPushpin",
-  "emojiRoundPushpin",
-  "emojiPaperclip",
-  "emojiLinkedPaperclips",
-  "emojiStraightRuler",
-  "emojiTriangularRuler",
-  "emojiScissors",
-  "emojiCardFileBox",
-  "emojiFileCabinet",
-  "emojiWastebasket",
-  "emojiLocked",
-  "emojiUnlocked",
-  "emojiLockedWithPen",
-  "emojiLockedWithKey",
-  "emojiKey",
-  "emojiOldKey",
-  "emojiHammer",
-  "emojiAxe",
-  "emojiPick",
-  "emojiHammerAndPick",
-  "emojiHammerAndWrench",
-  "emojiDagger",
-  "emojiCrossedSwords",
-  "emojiBomb",
-  "emojiBoomerang",
-  "emojiBowAndArrow",
-  "emojiShield",
-  "emojiCarpentrySaw",
-  "emojiWrench",
-  "emojiScrewdriver",
-  "emojiNutAndBolt",
-  "emojiGear",
-  "emojiClamp",
-  "emojiBalanceScale",
-  "emojiWhiteCane",
-  "emojiLink",
-  "emojiChains",
-  "emojiHook",
-  "emojiToolbox",
-  "emojiMagnet",
-  "emojiLadder",
-  "emojiAlembic",
-  "emojiTestTube",
-  "emojiPetriDish",
-  "emojiDna",
-  "emojiMicroscope",
-  "emojiTelescope",
-  "emojiSatelliteAntenna",
-  "emojiSyringe",
-  "emojiDropOfBlood",
-  "emojiPill",
-  "emojiAdhesiveBandage",
-  "emojiCrutch",
-  "emojiStethoscope",
-  "emojiXRay",
-  "emojiDoor",
-  "emojiElevator",
-  "emojiMirror",
-  "emojiWindow",
-  "emojiBed",
-  "emojiCouchAndLamp",
-  "emojiChair",
-  "emojiToilet",
-  "emojiPlunger",
-  "emojiShower",
-  "emojiBathtub",
-  "emojiMouseTrap",
-  "emojiRazor",
-  "emojiLotionBottle",
-  "emojiSafetyPin",
-  "emojiBroom",
-  "emojiBasket",
-  "emojiRollOfPaper",
-  "emojiBucket",
-  "emojiSoap",
-  "emojiBubbles",
-  "emojiToothbrush",
-  "emojiSponge",
-  "emojiFireExtinguisher",
-  "emojiShoppingCart",
-  "emojiCigarette",
-  "emojiCoffin",
-  "emojiHeadstone",
-  "emojiFuneralUrn",
-  "emojiNazarAmulet",
-  "emojiHamsa",
-  "emojiMoai",
-  "emojiPlacard",
-  "emojiIdentificationCard"
+  "glasses",
+  "sunglasses",
+  "goggles",
+  "labCoat",
+  "safetyVest",
+  "necktie",
+  "tShirt",
+  "jeans",
+  "scarf",
+  "gloves",
+  "coat",
+  "socks",
+  "dress",
+  "kimono",
+  "sari",
+  "onePieceSwimsuit",
+  "briefs",
+  "shorts",
+  "bikini",
+  "womansClothes",
+  "foldingHandFan",
+  "purse",
+  "handbag",
+  "clutchBag",
+  "shoppingBags",
+  "backpack",
+  "thongSandal",
+  "mansShoe",
+  "runningShoe",
+  "hikingBoot",
+  "flatShoe",
+  "highHeeledShoe",
+  "womansSandal",
+  "balletShoes",
+  "womansBoot",
+  "hairPick",
+  "crown",
+  "womansHat",
+  "topHat",
+  "graduationCap",
+  "billedCap",
+  "militaryHelmet",
+  "rescueWorkersHelmet",
+  "prayerBeads",
+  "lipstick",
+  "ring",
+  "gemStone",
+  "mutedSpeaker",
+  "speakerLowVolume",
+  "speakerMediumVolume",
+  "speakerHighVolume",
+  "loudspeaker",
+  "megaphone",
+  "postalHorn",
+  "bell",
+  "bellWithSlash",
+  "musicalScore",
+  "musicalNote",
+  "musicalNotes",
+  "studioMicrophone",
+  "levelSlider",
+  "controlKnobs",
+  "microphone",
+  "headphone",
+  "radio",
+  "saxophone",
+  "accordion",
+  "guitar",
+  "musicalKeyboard",
+  "trumpet",
+  "violin",
+  "banjo",
+  "drum",
+  "longDrum",
+  "maracas",
+  "flute",
+  "mobilePhone",
+  "mobilePhoneWithArrow",
+  "telephone",
+  "telephoneReceiver",
+  "pager",
+  "faxMachine",
+  "battery",
+  "lowBattery",
+  "electricPlug",
+  "laptop",
+  "desktopComputer",
+  "printer",
+  "keyboard",
+  "computerMouse",
+  "trackball",
+  "computerDisk",
+  "floppyDisk",
+  "opticalDisk",
+  "dvd",
+  "abacus",
+  "movieCamera",
+  "filmFrames",
+  "filmProjector",
+  "clapperBoard",
+  "television",
+  "camera",
+  "cameraWithFlash",
+  "videoCamera",
+  "videocassette",
+  "magnifyingGlassTiltedLeft",
+  "magnifyingGlassTiltedRight",
+  "candle",
+  "lightBulb",
+  "flashlight",
+  "redPaperLantern",
+  "diyaLamp",
+  "notebookWithDecorativeCover",
+  "closedBook",
+  "openBook",
+  "greenBook",
+  "blueBook",
+  "orangeBook",
+  "books",
+  "notebook",
+  "ledger",
+  "pageWithCurl",
+  "scroll",
+  "pageFacingUp",
+  "newspaper",
+  "rolledUpNewspaper",
+  "bookmarkTabs",
+  "bookmark",
+  "label",
+  "moneyBag",
+  "coin",
+  "yenBanknote",
+  "dollarBanknote",
+  "euroBanknote",
+  "poundBanknote",
+  "moneyWithWings",
+  "creditCard",
+  "receipt",
+  "chartIncreasingWithYen",
+  "envelope",
+  "eMail",
+  "incomingEnvelope",
+  "envelopeWithArrow",
+  "outboxTray",
+  "inboxTray",
+  "package",
+  "closedMailboxWithRaisedFlag",
+  "closedMailboxWithLoweredFlag",
+  "openMailboxWithRaisedFlag",
+  "openMailboxWithLoweredFlag",
+  "postbox",
+  "ballotBoxWithBallot",
+  "pencil",
+  "blackNib",
+  "fountainPen",
+  "pen",
+  "paintbrush",
+  "crayon",
+  "memo",
+  "briefcase",
+  "fileFolder",
+  "openFileFolder",
+  "cardIndexDividers",
+  "calendar",
+  "tearOffCalendar",
+  "spiralNotepad",
+  "spiralCalendar",
+  "cardIndex",
+  "chartIncreasing",
+  "chartDecreasing",
+  "barChart",
+  "clipboard",
+  "pushpin",
+  "roundPushpin",
+  "paperclip",
+  "linkedPaperclips",
+  "straightRuler",
+  "triangularRuler",
+  "scissors",
+  "cardFileBox",
+  "fileCabinet",
+  "wastebasket",
+  "locked",
+  "unlocked",
+  "lockedWithPen",
+  "lockedWithKey",
+  "key",
+  "oldKey",
+  "hammer",
+  "axe",
+  "pick",
+  "hammerAndPick",
+  "hammerAndWrench",
+  "dagger",
+  "crossedSwords",
+  "bomb",
+  "boomerang",
+  "bowAndArrow",
+  "shield",
+  "carpentrySaw",
+  "wrench",
+  "screwdriver",
+  "nutAndBolt",
+  "gear",
+  "clamp",
+  "balanceScale",
+  "whiteCane",
+  "link",
+  "chains",
+  "hook",
+  "toolbox",
+  "magnet",
+  "ladder",
+  "alembic",
+  "testTube",
+  "petriDish",
+  "dna",
+  "microscope",
+  "telescope",
+  "satelliteAntenna",
+  "syringe",
+  "dropOfBlood",
+  "pill",
+  "adhesiveBandage",
+  "crutch",
+  "stethoscope",
+  "xRay",
+  "door",
+  "elevator",
+  "mirror",
+  "window",
+  "bed",
+  "couchAndLamp",
+  "chair",
+  "toilet",
+  "plunger",
+  "shower",
+  "bathtub",
+  "mouseTrap",
+  "razor",
+  "lotionBottle",
+  "safetyPin",
+  "broom",
+  "basket",
+  "rollOfPaper",
+  "bucket",
+  "soap",
+  "bubbles",
+  "toothbrush",
+  "sponge",
+  "fireExtinguisher",
+  "shoppingCart",
+  "cigarette",
+  "coffin",
+  "headstone",
+  "funeralUrn",
+  "nazarAmulet",
+  "hamsa",
+  "moai",
+  "placard",
+  "identificationCard"
  ],
  "objects/clothing": [
-  "emojiGlasses",
-  "emojiSunglasses",
-  "emojiGoggles",
-  "emojiLabCoat",
-  "emojiSafetyVest",
-  "emojiNecktie",
-  "emojiTShirt",
-  "emojiJeans",
-  "emojiScarf",
-  "emojiGloves",
-  "emojiCoat",
-  "emojiSocks",
-  "emojiDress",
-  "emojiKimono",
-  "emojiSari",
-  "emojiOnePieceSwimsuit",
-  "emojiBriefs",
-  "emojiShorts",
-  "emojiBikini",
-  "emojiWomansClothes",
-  "emojiFoldingHandFan",
-  "emojiPurse",
-  "emojiHandbag",
-  "emojiClutchBag",
-  "emojiShoppingBags",
-  "emojiBackpack",
-  "emojiThongSandal",
-  "emojiMansShoe",
-  "emojiRunningShoe",
-  "emojiHikingBoot",
-  "emojiFlatShoe",
-  "emojiHighHeeledShoe",
-  "emojiWomansSandal",
-  "emojiBalletShoes",
-  "emojiWomansBoot",
-  "emojiHairPick",
-  "emojiCrown",
-  "emojiWomansHat",
-  "emojiTopHat",
-  "emojiGraduationCap",
-  "emojiBilledCap",
-  "emojiMilitaryHelmet",
-  "emojiRescueWorkersHelmet",
-  "emojiPrayerBeads",
-  "emojiLipstick",
-  "emojiRing",
-  "emojiGemStone"
+  "glasses",
+  "sunglasses",
+  "goggles",
+  "labCoat",
+  "safetyVest",
+  "necktie",
+  "tShirt",
+  "jeans",
+  "scarf",
+  "gloves",
+  "coat",
+  "socks",
+  "dress",
+  "kimono",
+  "sari",
+  "onePieceSwimsuit",
+  "briefs",
+  "shorts",
+  "bikini",
+  "womansClothes",
+  "foldingHandFan",
+  "purse",
+  "handbag",
+  "clutchBag",
+  "shoppingBags",
+  "backpack",
+  "thongSandal",
+  "mansShoe",
+  "runningShoe",
+  "hikingBoot",
+  "flatShoe",
+  "highHeeledShoe",
+  "womansSandal",
+  "balletShoes",
+  "womansBoot",
+  "hairPick",
+  "crown",
+  "womansHat",
+  "topHat",
+  "graduationCap",
+  "billedCap",
+  "militaryHelmet",
+  "rescueWorkersHelmet",
+  "prayerBeads",
+  "lipstick",
+  "ring",
+  "gemStone"
  ],
  "objects/sound": [
-  "emojiMutedSpeaker",
-  "emojiSpeakerLowVolume",
-  "emojiSpeakerMediumVolume",
-  "emojiSpeakerHighVolume",
-  "emojiLoudspeaker",
-  "emojiMegaphone",
-  "emojiPostalHorn",
-  "emojiBell",
-  "emojiBellWithSlash"
+  "mutedSpeaker",
+  "speakerLowVolume",
+  "speakerMediumVolume",
+  "speakerHighVolume",
+  "loudspeaker",
+  "megaphone",
+  "postalHorn",
+  "bell",
+  "bellWithSlash"
  ],
  "objects/music": [
-  "emojiMusicalScore",
-  "emojiMusicalNote",
-  "emojiMusicalNotes",
-  "emojiStudioMicrophone",
-  "emojiLevelSlider",
-  "emojiControlKnobs",
-  "emojiMicrophone",
-  "emojiHeadphone",
-  "emojiRadio"
+  "musicalScore",
+  "musicalNote",
+  "musicalNotes",
+  "studioMicrophone",
+  "levelSlider",
+  "controlKnobs",
+  "microphone",
+  "headphone",
+  "radio"
  ],
  "objects/musical-instrument": [
-  "emojiSaxophone",
-  "emojiAccordion",
-  "emojiGuitar",
-  "emojiMusicalKeyboard",
-  "emojiTrumpet",
-  "emojiViolin",
-  "emojiBanjo",
-  "emojiDrum",
-  "emojiLongDrum",
-  "emojiMaracas",
-  "emojiFlute"
+  "saxophone",
+  "accordion",
+  "guitar",
+  "musicalKeyboard",
+  "trumpet",
+  "violin",
+  "banjo",
+  "drum",
+  "longDrum",
+  "maracas",
+  "flute"
  ],
  "objects/phone": [
-  "emojiMobilePhone",
-  "emojiMobilePhoneWithArrow",
-  "emojiTelephone",
-  "emojiTelephoneReceiver",
-  "emojiPager",
-  "emojiFaxMachine"
+  "mobilePhone",
+  "mobilePhoneWithArrow",
+  "telephone",
+  "telephoneReceiver",
+  "pager",
+  "faxMachine"
  ],
  "objects/computer": [
-  "emojiBattery",
-  "emojiLowBattery",
-  "emojiElectricPlug",
-  "emojiLaptop",
-  "emojiDesktopComputer",
-  "emojiPrinter",
-  "emojiKeyboard",
-  "emojiComputerMouse",
-  "emojiTrackball",
-  "emojiComputerDisk",
-  "emojiFloppyDisk",
-  "emojiOpticalDisk",
-  "emojiDvd",
-  "emojiAbacus"
+  "battery",
+  "lowBattery",
+  "electricPlug",
+  "laptop",
+  "desktopComputer",
+  "printer",
+  "keyboard",
+  "computerMouse",
+  "trackball",
+  "computerDisk",
+  "floppyDisk",
+  "opticalDisk",
+  "dvd",
+  "abacus"
  ],
  "objects/light and video": [
-  "emojiMovieCamera",
-  "emojiFilmFrames",
-  "emojiFilmProjector",
-  "emojiClapperBoard",
-  "emojiTelevision",
-  "emojiCamera",
-  "emojiCameraWithFlash",
-  "emojiVideoCamera",
-  "emojiVideocassette",
-  "emojiMagnifyingGlassTiltedLeft",
-  "emojiMagnifyingGlassTiltedRight",
-  "emojiCandle",
-  "emojiLightBulb",
-  "emojiFlashlight",
-  "emojiRedPaperLantern",
-  "emojiDiyaLamp"
+  "movieCamera",
+  "filmFrames",
+  "filmProjector",
+  "clapperBoard",
+  "television",
+  "camera",
+  "cameraWithFlash",
+  "videoCamera",
+  "videocassette",
+  "magnifyingGlassTiltedLeft",
+  "magnifyingGlassTiltedRight",
+  "candle",
+  "lightBulb",
+  "flashlight",
+  "redPaperLantern",
+  "diyaLamp"
  ],
  "objects/book-paper": [
-  "emojiNotebookWithDecorativeCover",
-  "emojiClosedBook",
-  "emojiOpenBook",
-  "emojiGreenBook",
-  "emojiBlueBook",
-  "emojiOrangeBook",
-  "emojiBooks",
-  "emojiNotebook",
-  "emojiLedger",
-  "emojiPageWithCurl",
-  "emojiScroll",
-  "emojiPageFacingUp",
-  "emojiNewspaper",
-  "emojiRolledUpNewspaper",
-  "emojiBookmarkTabs",
-  "emojiBookmark",
-  "emojiLabel"
+  "notebookWithDecorativeCover",
+  "closedBook",
+  "openBook",
+  "greenBook",
+  "blueBook",
+  "orangeBook",
+  "books",
+  "notebook",
+  "ledger",
+  "pageWithCurl",
+  "scroll",
+  "pageFacingUp",
+  "newspaper",
+  "rolledUpNewspaper",
+  "bookmarkTabs",
+  "bookmark",
+  "label"
  ],
  "objects/money": [
-  "emojiMoneyBag",
-  "emojiCoin",
-  "emojiYenBanknote",
-  "emojiDollarBanknote",
-  "emojiEuroBanknote",
-  "emojiPoundBanknote",
-  "emojiMoneyWithWings",
-  "emojiCreditCard",
-  "emojiReceipt",
-  "emojiChartIncreasingWithYen"
+  "moneyBag",
+  "coin",
+  "yenBanknote",
+  "dollarBanknote",
+  "euroBanknote",
+  "poundBanknote",
+  "moneyWithWings",
+  "creditCard",
+  "receipt",
+  "chartIncreasingWithYen"
  ],
  "objects/mail": [
-  "emojiEnvelope",
-  "emojiEMail",
-  "emojiIncomingEnvelope",
-  "emojiEnvelopeWithArrow",
-  "emojiOutboxTray",
-  "emojiInboxTray",
-  "emojiPackage",
-  "emojiClosedMailboxWithRaisedFlag",
-  "emojiClosedMailboxWithLoweredFlag",
-  "emojiOpenMailboxWithRaisedFlag",
-  "emojiOpenMailboxWithLoweredFlag",
-  "emojiPostbox",
-  "emojiBallotBoxWithBallot"
+  "envelope",
+  "eMail",
+  "incomingEnvelope",
+  "envelopeWithArrow",
+  "outboxTray",
+  "inboxTray",
+  "package",
+  "closedMailboxWithRaisedFlag",
+  "closedMailboxWithLoweredFlag",
+  "openMailboxWithRaisedFlag",
+  "openMailboxWithLoweredFlag",
+  "postbox",
+  "ballotBoxWithBallot"
  ],
  "objects/writing": [
-  "emojiPencil",
-  "emojiBlackNib",
-  "emojiFountainPen",
-  "emojiPen",
-  "emojiPaintbrush",
-  "emojiCrayon",
-  "emojiMemo"
+  "pencil",
+  "blackNib",
+  "fountainPen",
+  "pen",
+  "paintbrush",
+  "crayon",
+  "memo"
  ],
  "objects/office": [
-  "emojiBriefcase",
-  "emojiFileFolder",
-  "emojiOpenFileFolder",
-  "emojiCardIndexDividers",
-  "emojiCalendar",
-  "emojiTearOffCalendar",
-  "emojiSpiralNotepad",
-  "emojiSpiralCalendar",
-  "emojiCardIndex",
-  "emojiChartIncreasing",
-  "emojiChartDecreasing",
-  "emojiBarChart",
-  "emojiClipboard",
-  "emojiPushpin",
-  "emojiRoundPushpin",
-  "emojiPaperclip",
-  "emojiLinkedPaperclips",
-  "emojiStraightRuler",
-  "emojiTriangularRuler",
-  "emojiScissors",
-  "emojiCardFileBox",
-  "emojiFileCabinet",
-  "emojiWastebasket"
+  "briefcase",
+  "fileFolder",
+  "openFileFolder",
+  "cardIndexDividers",
+  "calendar",
+  "tearOffCalendar",
+  "spiralNotepad",
+  "spiralCalendar",
+  "cardIndex",
+  "chartIncreasing",
+  "chartDecreasing",
+  "barChart",
+  "clipboard",
+  "pushpin",
+  "roundPushpin",
+  "paperclip",
+  "linkedPaperclips",
+  "straightRuler",
+  "triangularRuler",
+  "scissors",
+  "cardFileBox",
+  "fileCabinet",
+  "wastebasket"
  ],
  "objects/lock": [
-  "emojiLocked",
-  "emojiUnlocked",
-  "emojiLockedWithPen",
-  "emojiLockedWithKey",
-  "emojiKey",
-  "emojiOldKey"
+  "locked",
+  "unlocked",
+  "lockedWithPen",
+  "lockedWithKey",
+  "key",
+  "oldKey"
  ],
  "objects/tool": [
-  "emojiHammer",
-  "emojiAxe",
-  "emojiPick",
-  "emojiHammerAndPick",
-  "emojiHammerAndWrench",
-  "emojiDagger",
-  "emojiCrossedSwords",
-  "emojiBomb",
-  "emojiBoomerang",
-  "emojiBowAndArrow",
-  "emojiShield",
-  "emojiCarpentrySaw",
-  "emojiWrench",
-  "emojiScrewdriver",
-  "emojiNutAndBolt",
-  "emojiGear",
-  "emojiClamp",
-  "emojiBalanceScale",
-  "emojiWhiteCane",
-  "emojiLink",
-  "emojiChains",
-  "emojiHook",
-  "emojiToolbox",
-  "emojiMagnet",
-  "emojiLadder"
+  "hammer",
+  "axe",
+  "pick",
+  "hammerAndPick",
+  "hammerAndWrench",
+  "dagger",
+  "crossedSwords",
+  "bomb",
+  "boomerang",
+  "bowAndArrow",
+  "shield",
+  "carpentrySaw",
+  "wrench",
+  "screwdriver",
+  "nutAndBolt",
+  "gear",
+  "clamp",
+  "balanceScale",
+  "whiteCane",
+  "link",
+  "chains",
+  "hook",
+  "toolbox",
+  "magnet",
+  "ladder"
  ],
  "objects/science": [
-  "emojiAlembic",
-  "emojiTestTube",
-  "emojiPetriDish",
-  "emojiDna",
-  "emojiMicroscope",
-  "emojiTelescope",
-  "emojiSatelliteAntenna"
+  "alembic",
+  "testTube",
+  "petriDish",
+  "dna",
+  "microscope",
+  "telescope",
+  "satelliteAntenna"
  ],
  "objects/medical": [
-  "emojiSyringe",
-  "emojiDropOfBlood",
-  "emojiPill",
-  "emojiAdhesiveBandage",
-  "emojiCrutch",
-  "emojiStethoscope",
-  "emojiXRay"
+  "syringe",
+  "dropOfBlood",
+  "pill",
+  "adhesiveBandage",
+  "crutch",
+  "stethoscope",
+  "xRay"
  ],
  "objects/household": [
-  "emojiDoor",
-  "emojiElevator",
-  "emojiMirror",
-  "emojiWindow",
-  "emojiBed",
-  "emojiCouchAndLamp",
-  "emojiChair",
-  "emojiToilet",
-  "emojiPlunger",
-  "emojiShower",
-  "emojiBathtub",
-  "emojiMouseTrap",
-  "emojiRazor",
-  "emojiLotionBottle",
-  "emojiSafetyPin",
-  "emojiBroom",
-  "emojiBasket",
-  "emojiRollOfPaper",
-  "emojiBucket",
-  "emojiSoap",
-  "emojiBubbles",
-  "emojiToothbrush",
-  "emojiSponge",
-  "emojiFireExtinguisher",
-  "emojiShoppingCart"
+  "door",
+  "elevator",
+  "mirror",
+  "window",
+  "bed",
+  "couchAndLamp",
+  "chair",
+  "toilet",
+  "plunger",
+  "shower",
+  "bathtub",
+  "mouseTrap",
+  "razor",
+  "lotionBottle",
+  "safetyPin",
+  "broom",
+  "basket",
+  "rollOfPaper",
+  "bucket",
+  "soap",
+  "bubbles",
+  "toothbrush",
+  "sponge",
+  "fireExtinguisher",
+  "shoppingCart"
  ],
  "objects/other-object": [
-  "emojiCigarette",
-  "emojiCoffin",
-  "emojiHeadstone",
-  "emojiFuneralUrn",
-  "emojiNazarAmulet",
-  "emojiHamsa",
-  "emojiMoai",
-  "emojiPlacard",
-  "emojiIdentificationCard"
+  "cigarette",
+  "coffin",
+  "headstone",
+  "funeralUrn",
+  "nazarAmulet",
+  "hamsa",
+  "moai",
+  "placard",
+  "identificationCard"
  ],
  "symbols": [
-  "emojiATMSign",
-  "emojiLitterInBinSign",
-  "emojiPotableWater",
-  "emojiWheelchairSymbol",
-  "emojiMensRoom",
-  "emojiWomensRoom",
-  "emojiRestroom",
-  "emojiBabySymbol",
-  "emojiWaterCloset",
-  "emojiPassportControl",
-  "emojiCustoms",
-  "emojiBaggageClaim",
-  "emojiLeftLuggage",
-  "emojiWarning",
-  "emojiChildrenCrossing",
-  "emojiNoEntry",
-  "emojiProhibited",
-  "emojiNoBicycles",
-  "emojiNoSmoking",
-  "emojiNoLittering",
-  "emojiNonPotableWater",
-  "emojiNoPedestrians",
-  "emojiNoMobilePhones",
-  "emojiNoOneUnderEighteen",
-  "emojiRadioactive",
-  "emojiBiohazard",
-  "emojiUpArrow",
-  "emojiUpRightArrow",
-  "emojiRightArrow",
-  "emojiDownRightArrow",
-  "emojiDownArrow",
-  "emojiDownLeftArrow",
-  "emojiLeftArrow",
-  "emojiUpLeftArrow",
-  "emojiUpDownArrow",
-  "emojiLeftRightArrow",
-  "emojiRightArrowCurvingLeft",
-  "emojiLeftArrowCurvingRight",
-  "emojiRightArrowCurvingUp",
-  "emojiRightArrowCurvingDown",
-  "emojiClockwiseVerticalArrows",
-  "emojiCounterclockwiseArrowsButton",
-  "emojiBACKArrow",
-  "emojiENDArrow",
-  "emojiONArrow",
-  "emojiSOONArrow",
-  "emojiTOPArrow",
-  "emojiPlaceOfWorship",
-  "emojiAtomSymbol",
-  "emojiOm",
-  "emojiStarOfDavid",
-  "emojiWheelOfDharma",
-  "emojiYinYang",
-  "emojiLatinCross",
-  "emojiOrthodoxCross",
-  "emojiStarAndCrescent",
-  "emojiPeaceSymbol",
-  "emojiMenorah",
-  "emojiDottedSixPointedStar",
-  "emojiKhanda",
-  "emojiAries",
-  "emojiTaurus",
-  "emojiGemini",
-  "emojiCancer",
-  "emojiLeo",
-  "emojiVirgo",
-  "emojiLibra",
-  "emojiScorpio",
-  "emojiSagittarius",
-  "emojiCapricorn",
-  "emojiAquarius",
-  "emojiPisces",
-  "emojiOphiuchus",
-  "emojiShuffleTracksButton",
-  "emojiRepeatButton",
-  "emojiRepeatSingleButton",
-  "emojiPlayButton",
-  "emojiFastForwardButton",
-  "emojiNextTrackButton",
-  "emojiPlayOrPauseButton",
-  "emojiReverseButton",
-  "emojiFastReverseButton",
-  "emojiLastTrackButton",
-  "emojiUpwardsButton",
-  "emojiFastUpButton",
-  "emojiDownwardsButton",
-  "emojiFastDownButton",
-  "emojiPauseButton",
-  "emojiStopButton",
-  "emojiRecordButton",
-  "emojiEjectButton",
-  "emojiCinema",
-  "emojiDimButton",
-  "emojiBrightButton",
-  "emojiAntennaBars",
-  "emojiWireless",
-  "emojiVibrationMode",
-  "emojiMobilePhoneOff",
-  "emojiFemaleSign",
-  "emojiMaleSign",
-  "emojiTransgenderSymbol",
-  "emojiMultiply",
-  "emojiPlus",
-  "emojiMinus",
-  "emojiDivide",
-  "emojiHeavyEqualsSign",
-  "emojiInfinity",
-  "emojiDoubleExclamationMark",
-  "emojiExclamationQuestionMark",
-  "emojiRedQuestionMark",
-  "emojiWhiteQuestionMark",
-  "emojiWhiteExclamationMark",
-  "emojiRedExclamationMark",
-  "emojiWavyDash",
-  "emojiCurrencyExchange",
-  "emojiHeavyDollarSign",
-  "emojiMedicalSymbol",
-  "emojiRecyclingSymbol",
-  "emojiFleurDeLis",
-  "emojiTridentEmblem",
-  "emojiNameBadge",
-  "emojiJapaneseSymbolForBeginner",
-  "emojiHollowRedCircle",
-  "emojiCheckMarkButton",
-  "emojiCheckBoxWithCheck",
-  "emojiCheckMark",
-  "emojiCrossMark",
-  "emojiCrossMarkButton",
-  "emojiCurlyLoop",
-  "emojiDoubleCurlyLoop",
-  "emojiPartAlternationMark",
-  "emojiEightSpokedAsterisk",
-  "emojiEightPointedStar",
-  "emojiSparkle",
-  "emojiCopyright",
-  "emojiRegistered",
-  "emojiTradeMark",
-  "emojiKeycapHash",
-  "emojiKeycapStar",
-  "emojiKeycap0",
-  "emojiKeycap1",
-  "emojiKeycap2",
-  "emojiKeycap3",
-  "emojiKeycap4",
-  "emojiKeycap5",
-  "emojiKeycap6",
-  "emojiKeycap7",
-  "emojiKeycap8",
-  "emojiKeycap9",
-  "emojiKeycap10",
-  "emojiInputLatinUppercase",
-  "emojiInputLatinLowercase",
-  "emojiInputNumbers",
-  "emojiInputSymbols",
-  "emojiInputLatinLetters",
-  "emojiAButtonBloodType",
-  "emojiABButtonBloodType",
-  "emojiBButtonBloodType",
-  "emojiCLButton",
-  "emojiCOOLButton",
-  "emojiFREEButton",
-  "emojiInformation",
-  "emojiIDButton",
-  "emojiCircledM",
-  "emojiNEWButton",
-  "emojiNGButton",
-  "emojiOButtonBloodType",
-  "emojiOKButton",
-  "emojiPButton",
-  "emojiSOSButton",
-  "emojiUPButton",
-  "emojiVSButton",
-  "emojiJapaneseHereButton",
-  "emojiJapaneseServiceChargeButton",
-  "emojiJapaneseMonthlyAmountButton",
-  "emojiJapaneseNotFreeOfChargeButton",
-  "emojiJapaneseReservedButton",
-  "emojiJapaneseBargainButton",
-  "emojiJapaneseDiscountButton",
-  "emojiJapaneseFreeOfChargeButton",
-  "emojiJapaneseProhibitedButton",
-  "emojiJapaneseAcceptableButton",
-  "emojiJapaneseApplicationButton",
-  "emojiJapanesePassingGradeButton",
-  "emojiJapaneseVacancyButton",
-  "emojiJapaneseCongratulationsButton",
-  "emojiJapaneseSecretButton",
-  "emojiJapaneseOpenForBusinessButton",
-  "emojiJapaneseNoVacancyButton",
-  "emojiRedCircle",
-  "emojiOrangeCircle",
-  "emojiYellowCircle",
-  "emojiGreenCircle",
-  "emojiBlueCircle",
-  "emojiPurpleCircle",
-  "emojiBrownCircle",
-  "emojiBlackCircle",
-  "emojiWhiteCircle",
-  "emojiRedSquare",
-  "emojiOrangeSquare",
-  "emojiYellowSquare",
-  "emojiGreenSquare",
-  "emojiBlueSquare",
-  "emojiPurpleSquare",
-  "emojiBrownSquare",
-  "emojiBlackLargeSquare",
-  "emojiWhiteLargeSquare",
-  "emojiBlackMediumSquare",
-  "emojiWhiteMediumSquare",
-  "emojiBlackMediumSmallSquare",
-  "emojiWhiteMediumSmallSquare",
-  "emojiBlackSmallSquare",
-  "emojiWhiteSmallSquare",
-  "emojiLargeOrangeDiamond",
-  "emojiLargeBlueDiamond",
-  "emojiSmallOrangeDiamond",
-  "emojiSmallBlueDiamond",
-  "emojiRedTrianglePointedUp",
-  "emojiRedTrianglePointedDown",
-  "emojiDiamondWithADot",
-  "emojiRadioButton",
-  "emojiWhiteSquareButton",
-  "emojiBlackSquareButton"
+  "aTMSign",
+  "litterInBinSign",
+  "potableWater",
+  "wheelchairSymbol",
+  "mensRoom",
+  "womensRoom",
+  "restroom",
+  "babySymbol",
+  "waterCloset",
+  "passportControl",
+  "customs",
+  "baggageClaim",
+  "leftLuggage",
+  "warning",
+  "childrenCrossing",
+  "noEntry",
+  "prohibited",
+  "noBicycles",
+  "noSmoking",
+  "noLittering",
+  "nonPotableWater",
+  "noPedestrians",
+  "noMobilePhones",
+  "noOneUnderEighteen",
+  "radioactive",
+  "biohazard",
+  "upArrow",
+  "upRightArrow",
+  "rightArrow",
+  "downRightArrow",
+  "downArrow",
+  "downLeftArrow",
+  "leftArrow",
+  "upLeftArrow",
+  "upDownArrow",
+  "leftRightArrow",
+  "rightArrowCurvingLeft",
+  "leftArrowCurvingRight",
+  "rightArrowCurvingUp",
+  "rightArrowCurvingDown",
+  "clockwiseVerticalArrows",
+  "counterclockwiseArrowsButton",
+  "bACKArrow",
+  "eNDArrow",
+  "oNArrow",
+  "sOONArrow",
+  "tOPArrow",
+  "placeOfWorship",
+  "atomSymbol",
+  "om",
+  "starOfDavid",
+  "wheelOfDharma",
+  "yinYang",
+  "latinCross",
+  "orthodoxCross",
+  "starAndCrescent",
+  "peaceSymbol",
+  "menorah",
+  "dottedSixPointedStar",
+  "khanda",
+  "aries",
+  "taurus",
+  "gemini",
+  "cancer",
+  "leo",
+  "virgo",
+  "libra",
+  "scorpio",
+  "sagittarius",
+  "capricorn",
+  "aquarius",
+  "pisces",
+  "ophiuchus",
+  "shuffleTracksButton",
+  "repeatButton",
+  "repeatSingleButton",
+  "playButton",
+  "fastForwardButton",
+  "nextTrackButton",
+  "playOrPauseButton",
+  "reverseButton",
+  "fastReverseButton",
+  "lastTrackButton",
+  "upwardsButton",
+  "fastUpButton",
+  "downwardsButton",
+  "fastDownButton",
+  "pauseButton",
+  "stopButton",
+  "recordButton",
+  "ejectButton",
+  "cinema",
+  "dimButton",
+  "brightButton",
+  "antennaBars",
+  "wireless",
+  "vibrationMode",
+  "mobilePhoneOff",
+  "femaleSign",
+  "maleSign",
+  "transgenderSymbol",
+  "multiply",
+  "plus",
+  "minus",
+  "divide",
+  "heavyEqualsSign",
+  "infinity",
+  "doubleExclamationMark",
+  "exclamationQuestionMark",
+  "redQuestionMark",
+  "whiteQuestionMark",
+  "whiteExclamationMark",
+  "redExclamationMark",
+  "wavyDash",
+  "currencyExchange",
+  "heavyDollarSign",
+  "medicalSymbol",
+  "recyclingSymbol",
+  "fleurDeLis",
+  "tridentEmblem",
+  "nameBadge",
+  "japaneseSymbolForBeginner",
+  "hollowRedCircle",
+  "checkMarkButton",
+  "checkBoxWithCheck",
+  "checkMark",
+  "crossMark",
+  "crossMarkButton",
+  "curlyLoop",
+  "doubleCurlyLoop",
+  "partAlternationMark",
+  "eightSpokedAsterisk",
+  "eightPointedStar",
+  "sparkle",
+  "copyright",
+  "registered",
+  "tradeMark",
+  "keycapHash",
+  "keycapStar",
+  "keycap0",
+  "keycap1",
+  "keycap2",
+  "keycap3",
+  "keycap4",
+  "keycap5",
+  "keycap6",
+  "keycap7",
+  "keycap8",
+  "keycap9",
+  "keycap10",
+  "inputLatinUppercase",
+  "inputLatinLowercase",
+  "inputNumbers",
+  "inputSymbols",
+  "inputLatinLetters",
+  "aButtonBloodType",
+  "aBButtonBloodType",
+  "bButtonBloodType",
+  "cLButton",
+  "cOOLButton",
+  "fREEButton",
+  "information",
+  "iDButton",
+  "circledM",
+  "nEWButton",
+  "nGButton",
+  "oButtonBloodType",
+  "oKButton",
+  "pButton",
+  "sOSButton",
+  "uPButton",
+  "vSButton",
+  "japaneseHereButton",
+  "japaneseServiceChargeButton",
+  "japaneseMonthlyAmountButton",
+  "japaneseNotFreeOfChargeButton",
+  "japaneseReservedButton",
+  "japaneseBargainButton",
+  "japaneseDiscountButton",
+  "japaneseFreeOfChargeButton",
+  "japaneseProhibitedButton",
+  "japaneseAcceptableButton",
+  "japaneseApplicationButton",
+  "japanesePassingGradeButton",
+  "japaneseVacancyButton",
+  "japaneseCongratulationsButton",
+  "japaneseSecretButton",
+  "japaneseOpenForBusinessButton",
+  "japaneseNoVacancyButton",
+  "redCircle",
+  "orangeCircle",
+  "yellowCircle",
+  "greenCircle",
+  "blueCircle",
+  "purpleCircle",
+  "brownCircle",
+  "blackCircle",
+  "whiteCircle",
+  "redSquare",
+  "orangeSquare",
+  "yellowSquare",
+  "greenSquare",
+  "blueSquare",
+  "purpleSquare",
+  "brownSquare",
+  "blackLargeSquare",
+  "whiteLargeSquare",
+  "blackMediumSquare",
+  "whiteMediumSquare",
+  "blackMediumSmallSquare",
+  "whiteMediumSmallSquare",
+  "blackSmallSquare",
+  "whiteSmallSquare",
+  "largeOrangeDiamond",
+  "largeBlueDiamond",
+  "smallOrangeDiamond",
+  "smallBlueDiamond",
+  "redTrianglePointedUp",
+  "redTrianglePointedDown",
+  "diamondWithADot",
+  "radioButton",
+  "whiteSquareButton",
+  "blackSquareButton"
  ],
  "symbols/transport-sign": [
-  "emojiATMSign",
-  "emojiLitterInBinSign",
-  "emojiPotableWater",
-  "emojiWheelchairSymbol",
-  "emojiMensRoom",
-  "emojiWomensRoom",
-  "emojiRestroom",
-  "emojiBabySymbol",
-  "emojiWaterCloset",
-  "emojiPassportControl",
-  "emojiCustoms",
-  "emojiBaggageClaim",
-  "emojiLeftLuggage"
+  "aTMSign",
+  "litterInBinSign",
+  "potableWater",
+  "wheelchairSymbol",
+  "mensRoom",
+  "womensRoom",
+  "restroom",
+  "babySymbol",
+  "waterCloset",
+  "passportControl",
+  "customs",
+  "baggageClaim",
+  "leftLuggage"
  ],
  "symbols/warning": [
-  "emojiWarning",
-  "emojiChildrenCrossing",
-  "emojiNoEntry",
-  "emojiProhibited",
-  "emojiNoBicycles",
-  "emojiNoSmoking",
-  "emojiNoLittering",
-  "emojiNonPotableWater",
-  "emojiNoPedestrians",
-  "emojiNoMobilePhones",
-  "emojiNoOneUnderEighteen",
-  "emojiRadioactive",
-  "emojiBiohazard"
+  "warning",
+  "childrenCrossing",
+  "noEntry",
+  "prohibited",
+  "noBicycles",
+  "noSmoking",
+  "noLittering",
+  "nonPotableWater",
+  "noPedestrians",
+  "noMobilePhones",
+  "noOneUnderEighteen",
+  "radioactive",
+  "biohazard"
  ],
  "symbols/arrow": [
-  "emojiUpArrow",
-  "emojiUpRightArrow",
-  "emojiRightArrow",
-  "emojiDownRightArrow",
-  "emojiDownArrow",
-  "emojiDownLeftArrow",
-  "emojiLeftArrow",
-  "emojiUpLeftArrow",
-  "emojiUpDownArrow",
-  "emojiLeftRightArrow",
-  "emojiRightArrowCurvingLeft",
-  "emojiLeftArrowCurvingRight",
-  "emojiRightArrowCurvingUp",
-  "emojiRightArrowCurvingDown",
-  "emojiClockwiseVerticalArrows",
-  "emojiCounterclockwiseArrowsButton",
-  "emojiBACKArrow",
-  "emojiENDArrow",
-  "emojiONArrow",
-  "emojiSOONArrow",
-  "emojiTOPArrow"
+  "upArrow",
+  "upRightArrow",
+  "rightArrow",
+  "downRightArrow",
+  "downArrow",
+  "downLeftArrow",
+  "leftArrow",
+  "upLeftArrow",
+  "upDownArrow",
+  "leftRightArrow",
+  "rightArrowCurvingLeft",
+  "leftArrowCurvingRight",
+  "rightArrowCurvingUp",
+  "rightArrowCurvingDown",
+  "clockwiseVerticalArrows",
+  "counterclockwiseArrowsButton",
+  "bACKArrow",
+  "eNDArrow",
+  "oNArrow",
+  "sOONArrow",
+  "tOPArrow"
  ],
  "symbols/religion": [
-  "emojiPlaceOfWorship",
-  "emojiAtomSymbol",
-  "emojiOm",
-  "emojiStarOfDavid",
-  "emojiWheelOfDharma",
-  "emojiYinYang",
-  "emojiLatinCross",
-  "emojiOrthodoxCross",
-  "emojiStarAndCrescent",
-  "emojiPeaceSymbol",
-  "emojiMenorah",
-  "emojiDottedSixPointedStar",
-  "emojiKhanda"
+  "placeOfWorship",
+  "atomSymbol",
+  "om",
+  "starOfDavid",
+  "wheelOfDharma",
+  "yinYang",
+  "latinCross",
+  "orthodoxCross",
+  "starAndCrescent",
+  "peaceSymbol",
+  "menorah",
+  "dottedSixPointedStar",
+  "khanda"
  ],
  "symbols/zodiac": [
-  "emojiAries",
-  "emojiTaurus",
-  "emojiGemini",
-  "emojiCancer",
-  "emojiLeo",
-  "emojiVirgo",
-  "emojiLibra",
-  "emojiScorpio",
-  "emojiSagittarius",
-  "emojiCapricorn",
-  "emojiAquarius",
-  "emojiPisces",
-  "emojiOphiuchus"
+  "aries",
+  "taurus",
+  "gemini",
+  "cancer",
+  "leo",
+  "virgo",
+  "libra",
+  "scorpio",
+  "sagittarius",
+  "capricorn",
+  "aquarius",
+  "pisces",
+  "ophiuchus"
  ],
  "symbols/av-symbol": [
-  "emojiShuffleTracksButton",
-  "emojiRepeatButton",
-  "emojiRepeatSingleButton",
-  "emojiPlayButton",
-  "emojiFastForwardButton",
-  "emojiNextTrackButton",
-  "emojiPlayOrPauseButton",
-  "emojiReverseButton",
-  "emojiFastReverseButton",
-  "emojiLastTrackButton",
-  "emojiUpwardsButton",
-  "emojiFastUpButton",
-  "emojiDownwardsButton",
-  "emojiFastDownButton",
-  "emojiPauseButton",
-  "emojiStopButton",
-  "emojiRecordButton",
-  "emojiEjectButton",
-  "emojiCinema",
-  "emojiDimButton",
-  "emojiBrightButton",
-  "emojiAntennaBars",
-  "emojiWireless",
-  "emojiVibrationMode",
-  "emojiMobilePhoneOff"
+  "shuffleTracksButton",
+  "repeatButton",
+  "repeatSingleButton",
+  "playButton",
+  "fastForwardButton",
+  "nextTrackButton",
+  "playOrPauseButton",
+  "reverseButton",
+  "fastReverseButton",
+  "lastTrackButton",
+  "upwardsButton",
+  "fastUpButton",
+  "downwardsButton",
+  "fastDownButton",
+  "pauseButton",
+  "stopButton",
+  "recordButton",
+  "ejectButton",
+  "cinema",
+  "dimButton",
+  "brightButton",
+  "antennaBars",
+  "wireless",
+  "vibrationMode",
+  "mobilePhoneOff"
  ],
  "symbols/gender": [
-  "emojiFemaleSign",
-  "emojiMaleSign",
-  "emojiTransgenderSymbol"
+  "femaleSign",
+  "maleSign",
+  "transgenderSymbol"
  ],
  "symbols/math": [
-  "emojiMultiply",
-  "emojiPlus",
-  "emojiMinus",
-  "emojiDivide",
-  "emojiHeavyEqualsSign",
-  "emojiInfinity"
+  "multiply",
+  "plus",
+  "minus",
+  "divide",
+  "heavyEqualsSign",
+  "infinity"
  ],
  "symbols/punctuation": [
-  "emojiDoubleExclamationMark",
-  "emojiExclamationQuestionMark",
-  "emojiRedQuestionMark",
-  "emojiWhiteQuestionMark",
-  "emojiWhiteExclamationMark",
-  "emojiRedExclamationMark",
-  "emojiWavyDash"
+  "doubleExclamationMark",
+  "exclamationQuestionMark",
+  "redQuestionMark",
+  "whiteQuestionMark",
+  "whiteExclamationMark",
+  "redExclamationMark",
+  "wavyDash"
  ],
  "symbols/currency": [
-  "emojiCurrencyExchange",
-  "emojiHeavyDollarSign"
+  "currencyExchange",
+  "heavyDollarSign"
  ],
  "symbols/other-symbol": [
-  "emojiMedicalSymbol",
-  "emojiRecyclingSymbol",
-  "emojiFleurDeLis",
-  "emojiTridentEmblem",
-  "emojiNameBadge",
-  "emojiJapaneseSymbolForBeginner",
-  "emojiHollowRedCircle",
-  "emojiCheckMarkButton",
-  "emojiCheckBoxWithCheck",
-  "emojiCheckMark",
-  "emojiCrossMark",
-  "emojiCrossMarkButton",
-  "emojiCurlyLoop",
-  "emojiDoubleCurlyLoop",
-  "emojiPartAlternationMark",
-  "emojiEightSpokedAsterisk",
-  "emojiEightPointedStar",
-  "emojiSparkle",
-  "emojiCopyright",
-  "emojiRegistered",
-  "emojiTradeMark"
+  "medicalSymbol",
+  "recyclingSymbol",
+  "fleurDeLis",
+  "tridentEmblem",
+  "nameBadge",
+  "japaneseSymbolForBeginner",
+  "hollowRedCircle",
+  "checkMarkButton",
+  "checkBoxWithCheck",
+  "checkMark",
+  "crossMark",
+  "crossMarkButton",
+  "curlyLoop",
+  "doubleCurlyLoop",
+  "partAlternationMark",
+  "eightSpokedAsterisk",
+  "eightPointedStar",
+  "sparkle",
+  "copyright",
+  "registered",
+  "tradeMark"
  ],
  "symbols/keycap": [
-  "emojiKeycapHash",
-  "emojiKeycapStar",
-  "emojiKeycap0",
-  "emojiKeycap1",
-  "emojiKeycap2",
-  "emojiKeycap3",
-  "emojiKeycap4",
-  "emojiKeycap5",
-  "emojiKeycap6",
-  "emojiKeycap7",
-  "emojiKeycap8",
-  "emojiKeycap9",
-  "emojiKeycap10"
+  "keycapHash",
+  "keycapStar",
+  "keycap0",
+  "keycap1",
+  "keycap2",
+  "keycap3",
+  "keycap4",
+  "keycap5",
+  "keycap6",
+  "keycap7",
+  "keycap8",
+  "keycap9",
+  "keycap10"
  ],
  "symbols/alphanum": [
-  "emojiInputLatinUppercase",
-  "emojiInputLatinLowercase",
-  "emojiInputNumbers",
-  "emojiInputSymbols",
-  "emojiInputLatinLetters",
-  "emojiAButtonBloodType",
-  "emojiABButtonBloodType",
-  "emojiBButtonBloodType",
-  "emojiCLButton",
-  "emojiCOOLButton",
-  "emojiFREEButton",
-  "emojiInformation",
-  "emojiIDButton",
-  "emojiCircledM",
-  "emojiNEWButton",
-  "emojiNGButton",
-  "emojiOButtonBloodType",
-  "emojiOKButton",
-  "emojiPButton",
-  "emojiSOSButton",
-  "emojiUPButton",
-  "emojiVSButton",
-  "emojiJapaneseHereButton",
-  "emojiJapaneseServiceChargeButton",
-  "emojiJapaneseMonthlyAmountButton",
-  "emojiJapaneseNotFreeOfChargeButton",
-  "emojiJapaneseReservedButton",
-  "emojiJapaneseBargainButton",
-  "emojiJapaneseDiscountButton",
-  "emojiJapaneseFreeOfChargeButton",
-  "emojiJapaneseProhibitedButton",
-  "emojiJapaneseAcceptableButton",
-  "emojiJapaneseApplicationButton",
-  "emojiJapanesePassingGradeButton",
-  "emojiJapaneseVacancyButton",
-  "emojiJapaneseCongratulationsButton",
-  "emojiJapaneseSecretButton",
-  "emojiJapaneseOpenForBusinessButton",
-  "emojiJapaneseNoVacancyButton"
+  "inputLatinUppercase",
+  "inputLatinLowercase",
+  "inputNumbers",
+  "inputSymbols",
+  "inputLatinLetters",
+  "aButtonBloodType",
+  "aBButtonBloodType",
+  "bButtonBloodType",
+  "cLButton",
+  "cOOLButton",
+  "fREEButton",
+  "information",
+  "iDButton",
+  "circledM",
+  "nEWButton",
+  "nGButton",
+  "oButtonBloodType",
+  "oKButton",
+  "pButton",
+  "sOSButton",
+  "uPButton",
+  "vSButton",
+  "japaneseHereButton",
+  "japaneseServiceChargeButton",
+  "japaneseMonthlyAmountButton",
+  "japaneseNotFreeOfChargeButton",
+  "japaneseReservedButton",
+  "japaneseBargainButton",
+  "japaneseDiscountButton",
+  "japaneseFreeOfChargeButton",
+  "japaneseProhibitedButton",
+  "japaneseAcceptableButton",
+  "japaneseApplicationButton",
+  "japanesePassingGradeButton",
+  "japaneseVacancyButton",
+  "japaneseCongratulationsButton",
+  "japaneseSecretButton",
+  "japaneseOpenForBusinessButton",
+  "japaneseNoVacancyButton"
  ],
  "symbols/geometric": [
-  "emojiRedCircle",
-  "emojiOrangeCircle",
-  "emojiYellowCircle",
-  "emojiGreenCircle",
-  "emojiBlueCircle",
-  "emojiPurpleCircle",
-  "emojiBrownCircle",
-  "emojiBlackCircle",
-  "emojiWhiteCircle",
-  "emojiRedSquare",
-  "emojiOrangeSquare",
-  "emojiYellowSquare",
-  "emojiGreenSquare",
-  "emojiBlueSquare",
-  "emojiPurpleSquare",
-  "emojiBrownSquare",
-  "emojiBlackLargeSquare",
-  "emojiWhiteLargeSquare",
-  "emojiBlackMediumSquare",
-  "emojiWhiteMediumSquare",
-  "emojiBlackMediumSmallSquare",
-  "emojiWhiteMediumSmallSquare",
-  "emojiBlackSmallSquare",
-  "emojiWhiteSmallSquare",
-  "emojiLargeOrangeDiamond",
-  "emojiLargeBlueDiamond",
-  "emojiSmallOrangeDiamond",
-  "emojiSmallBlueDiamond",
-  "emojiRedTrianglePointedUp",
-  "emojiRedTrianglePointedDown",
-  "emojiDiamondWithADot",
-  "emojiRadioButton",
-  "emojiWhiteSquareButton",
-  "emojiBlackSquareButton"
+  "redCircle",
+  "orangeCircle",
+  "yellowCircle",
+  "greenCircle",
+  "blueCircle",
+  "purpleCircle",
+  "brownCircle",
+  "blackCircle",
+  "whiteCircle",
+  "redSquare",
+  "orangeSquare",
+  "yellowSquare",
+  "greenSquare",
+  "blueSquare",
+  "purpleSquare",
+  "brownSquare",
+  "blackLargeSquare",
+  "whiteLargeSquare",
+  "blackMediumSquare",
+  "whiteMediumSquare",
+  "blackMediumSmallSquare",
+  "whiteMediumSmallSquare",
+  "blackSmallSquare",
+  "whiteSmallSquare",
+  "largeOrangeDiamond",
+  "largeBlueDiamond",
+  "smallOrangeDiamond",
+  "smallBlueDiamond",
+  "redTrianglePointedUp",
+  "redTrianglePointedDown",
+  "diamondWithADot",
+  "radioButton",
+  "whiteSquareButton",
+  "blackSquareButton"
  ],
  "flags": [
-  "emojiChequeredFlag",
-  "emojiTriangularFlag",
-  "emojiCrossedFlags",
-  "emojiBlackFlag",
-  "emojiWhiteFlag",
-  "emojiRainbowFlag",
-  "emojiTransgenderFlag",
-  "emojiPirateFlag",
-  "emojiFlagAscensionIsland",
-  "emojiFlagAndorra",
-  "emojiFlagUnitedArabEmirates",
-  "emojiFlagAfghanistan",
-  "emojiFlagAntiguaAndBarbuda",
-  "emojiFlagAnguilla",
-  "emojiFlagAlbania",
-  "emojiFlagArmenia",
-  "emojiFlagAngola",
-  "emojiFlagAntarctica",
-  "emojiFlagArgentina",
-  "emojiFlagAmericanSamoa",
-  "emojiFlagAustria",
-  "emojiFlagAustralia",
-  "emojiFlagAruba",
-  "emojiFlagAlandIslands",
-  "emojiFlagAzerbaijan",
-  "emojiFlagBosniaAndHerzegovina",
-  "emojiFlagBarbados",
-  "emojiFlagBangladesh",
-  "emojiFlagBelgium",
-  "emojiFlagBurkinaFaso",
-  "emojiFlagBulgaria",
-  "emojiFlagBahrain",
-  "emojiFlagBurundi",
-  "emojiFlagBenin",
-  "emojiFlagStBarthelemy",
-  "emojiFlagBermuda",
-  "emojiFlagBrunei",
-  "emojiFlagBolivia",
-  "emojiFlagCaribbeanNetherlands",
-  "emojiFlagBrazil",
-  "emojiFlagBahamas",
-  "emojiFlagBhutan",
-  "emojiFlagBouvetIsland",
-  "emojiFlagBotswana",
-  "emojiFlagBelarus",
-  "emojiFlagBelize",
-  "emojiFlagCanada",
-  "emojiFlagCocosKeelingIslands",
-  "emojiFlagCongoKinshasa",
-  "emojiFlagCentralAfricanRepublic",
-  "emojiFlagCongoBrazzaville",
-  "emojiFlagSwitzerland",
-  "emojiFlagCoteDIvoire",
-  "emojiFlagCookIslands",
-  "emojiFlagChile",
-  "emojiFlagCameroon",
-  "emojiFlagChina",
-  "emojiFlagColombia",
-  "emojiFlagClippertonIsland",
-  "emojiFlagCostaRica",
-  "emojiFlagCuba",
-  "emojiFlagCapeVerde",
-  "emojiFlagCuracao",
-  "emojiFlagChristmasIsland",
-  "emojiFlagCyprus",
-  "emojiFlagCzechia",
-  "emojiFlagGermany",
-  "emojiFlagDiegoGarcia",
-  "emojiFlagDjibouti",
-  "emojiFlagDenmark",
-  "emojiFlagDominica",
-  "emojiFlagDominicanRepublic",
-  "emojiFlagAlgeria",
-  "emojiFlagCeutaAndMelilla",
-  "emojiFlagEcuador",
-  "emojiFlagEstonia",
-  "emojiFlagEgypt",
-  "emojiFlagWesternSahara",
-  "emojiFlagEritrea",
-  "emojiFlagSpain",
-  "emojiFlagEthiopia",
-  "emojiFlagEuropeanUnion",
-  "emojiFlagFinland",
-  "emojiFlagFiji",
-  "emojiFlagFalklandIslands",
-  "emojiFlagMicronesia",
-  "emojiFlagFaroeIslands",
-  "emojiFlagFrance",
-  "emojiFlagGabon",
-  "emojiFlagUnitedKingdom",
-  "emojiFlagGrenada",
-  "emojiFlagGeorgia",
-  "emojiFlagFrenchGuiana",
-  "emojiFlagGuernsey",
-  "emojiFlagGhana",
-  "emojiFlagGibraltar",
-  "emojiFlagGreenland",
-  "emojiFlagGambia",
-  "emojiFlagGuinea",
-  "emojiFlagGuadeloupe",
-  "emojiFlagEquatorialGuinea",
-  "emojiFlagGreece",
-  "emojiFlagSouthGeorgiaAndSouthSandwichIslands",
-  "emojiFlagGuatemala",
-  "emojiFlagGuam",
-  "emojiFlagGuineaBissau",
-  "emojiFlagGuyana",
-  "emojiFlagHongKongSARChina",
-  "emojiFlagHeardAndMcDonaldIslands",
-  "emojiFlagHonduras",
-  "emojiFlagCroatia",
-  "emojiFlagHaiti",
-  "emojiFlagHungary",
-  "emojiFlagCanaryIslands",
-  "emojiFlagIndonesia",
-  "emojiFlagIreland",
-  "emojiFlagIsrael",
-  "emojiFlagIsleOfMan",
-  "emojiFlagIndia",
-  "emojiFlagBritishIndianOceanTerritory",
-  "emojiFlagIraq",
-  "emojiFlagIran",
-  "emojiFlagIceland",
-  "emojiFlagItaly",
-  "emojiFlagJersey",
-  "emojiFlagJamaica",
-  "emojiFlagJordan",
-  "emojiFlagJapan",
-  "emojiFlagKenya",
-  "emojiFlagKyrgyzstan",
-  "emojiFlagCambodia",
-  "emojiFlagKiribati",
-  "emojiFlagComoros",
-  "emojiFlagStKittsAndNevis",
-  "emojiFlagNorthKorea",
-  "emojiFlagSouthKorea",
-  "emojiFlagKuwait",
-  "emojiFlagCaymanIslands",
-  "emojiFlagKazakhstan",
-  "emojiFlagLaos",
-  "emojiFlagLebanon",
-  "emojiFlagStLucia",
-  "emojiFlagLiechtenstein",
-  "emojiFlagSriLanka",
-  "emojiFlagLiberia",
-  "emojiFlagLesotho",
-  "emojiFlagLithuania",
-  "emojiFlagLuxembourg",
-  "emojiFlagLatvia",
-  "emojiFlagLibya",
-  "emojiFlagMorocco",
-  "emojiFlagMonaco",
-  "emojiFlagMoldova",
-  "emojiFlagMontenegro",
-  "emojiFlagStMartin",
-  "emojiFlagMadagascar",
-  "emojiFlagMarshallIslands",
-  "emojiFlagNorthMacedonia",
-  "emojiFlagMali",
-  "emojiFlagMyanmarBurma",
-  "emojiFlagMongolia",
-  "emojiFlagMacaoSARChina",
-  "emojiFlagNorthernMarianaIslands",
-  "emojiFlagMartinique",
-  "emojiFlagMauritania",
-  "emojiFlagMontserrat",
-  "emojiFlagMalta",
-  "emojiFlagMauritius",
-  "emojiFlagMaldives",
-  "emojiFlagMalawi",
-  "emojiFlagMexico",
-  "emojiFlagMalaysia",
-  "emojiFlagMozambique",
-  "emojiFlagNamibia",
-  "emojiFlagNewCaledonia",
-  "emojiFlagNiger",
-  "emojiFlagNorfolkIsland",
-  "emojiFlagNigeria",
-  "emojiFlagNicaragua",
-  "emojiFlagNetherlands",
-  "emojiFlagNorway",
-  "emojiFlagNepal",
-  "emojiFlagNauru",
-  "emojiFlagNiue",
-  "emojiFlagNewZealand",
-  "emojiFlagOman",
-  "emojiFlagPanama",
-  "emojiFlagPeru",
-  "emojiFlagFrenchPolynesia",
-  "emojiFlagPapuaNewGuinea",
-  "emojiFlagPhilippines",
-  "emojiFlagPakistan",
-  "emojiFlagPoland",
-  "emojiFlagStPierreAndMiquelon",
-  "emojiFlagPitcairnIslands",
-  "emojiFlagPuertoRico",
-  "emojiFlagPalestinianTerritories",
-  "emojiFlagPortugal",
-  "emojiFlagPalau",
-  "emojiFlagParaguay",
-  "emojiFlagQatar",
-  "emojiFlagReunion",
-  "emojiFlagRomania",
-  "emojiFlagSerbia",
-  "emojiFlagRussia",
-  "emojiFlagRwanda",
-  "emojiFlagSaudiArabia",
-  "emojiFlagSolomonIslands",
-  "emojiFlagSeychelles",
-  "emojiFlagSudan",
-  "emojiFlagSweden",
-  "emojiFlagSingapore",
-  "emojiFlagStHelena",
-  "emojiFlagSlovenia",
-  "emojiFlagSvalbardAndJanMayen",
-  "emojiFlagSlovakia",
-  "emojiFlagSierraLeone",
-  "emojiFlagSanMarino",
-  "emojiFlagSenegal",
-  "emojiFlagSomalia",
-  "emojiFlagSuriname",
-  "emojiFlagSouthSudan",
-  "emojiFlagSaoTomeAndPrincipe",
-  "emojiFlagElSalvador",
-  "emojiFlagSintMaarten",
-  "emojiFlagSyria",
-  "emojiFlagEswatini",
-  "emojiFlagTristanDaCunha",
-  "emojiFlagTurksAndCaicosIslands",
-  "emojiFlagChad",
-  "emojiFlagFrenchSouthernTerritories",
-  "emojiFlagTogo",
-  "emojiFlagThailand",
-  "emojiFlagTajikistan",
-  "emojiFlagTokelau",
-  "emojiFlagTimorLeste",
-  "emojiFlagTurkmenistan",
-  "emojiFlagTunisia",
-  "emojiFlagTonga",
-  "emojiFlagTurkey",
-  "emojiFlagTrinidadAndTobago",
-  "emojiFlagTuvalu",
-  "emojiFlagTaiwan",
-  "emojiFlagTanzania",
-  "emojiFlagUkraine",
-  "emojiFlagUganda",
-  "emojiFlagUSOutlyingIslands",
-  "emojiFlagUnitedNations",
-  "emojiFlagUnitedStates",
-  "emojiFlagUruguay",
-  "emojiFlagUzbekistan",
-  "emojiFlagVaticanCity",
-  "emojiFlagStVincentAndGrenadines",
-  "emojiFlagVenezuela",
-  "emojiFlagBritishVirginIslands",
-  "emojiFlagUSVirginIslands",
-  "emojiFlagVietnam",
-  "emojiFlagVanuatu",
-  "emojiFlagWallisAndFutuna",
-  "emojiFlagSamoa",
-  "emojiFlagKosovo",
-  "emojiFlagYemen",
-  "emojiFlagMayotte",
-  "emojiFlagSouthAfrica",
-  "emojiFlagZambia",
-  "emojiFlagZimbabwe",
-  "emojiFlagEngland",
-  "emojiFlagScotland",
-  "emojiFlagWales"
+  "chequeredFlag",
+  "triangularFlag",
+  "crossedFlags",
+  "blackFlag",
+  "whiteFlag",
+  "rainbowFlag",
+  "transgenderFlag",
+  "pirateFlag",
+  "flagAscensionIsland",
+  "flagAndorra",
+  "flagUnitedArabEmirates",
+  "flagAfghanistan",
+  "flagAntiguaAndBarbuda",
+  "flagAnguilla",
+  "flagAlbania",
+  "flagArmenia",
+  "flagAngola",
+  "flagAntarctica",
+  "flagArgentina",
+  "flagAmericanSamoa",
+  "flagAustria",
+  "flagAustralia",
+  "flagAruba",
+  "flagAlandIslands",
+  "flagAzerbaijan",
+  "flagBosniaAndHerzegovina",
+  "flagBarbados",
+  "flagBangladesh",
+  "flagBelgium",
+  "flagBurkinaFaso",
+  "flagBulgaria",
+  "flagBahrain",
+  "flagBurundi",
+  "flagBenin",
+  "flagStBarthelemy",
+  "flagBermuda",
+  "flagBrunei",
+  "flagBolivia",
+  "flagCaribbeanNetherlands",
+  "flagBrazil",
+  "flagBahamas",
+  "flagBhutan",
+  "flagBouvetIsland",
+  "flagBotswana",
+  "flagBelarus",
+  "flagBelize",
+  "flagCanada",
+  "flagCocosKeelingIslands",
+  "flagCongoKinshasa",
+  "flagCentralAfricanRepublic",
+  "flagCongoBrazzaville",
+  "flagSwitzerland",
+  "flagCoteDIvoire",
+  "flagCookIslands",
+  "flagChile",
+  "flagCameroon",
+  "flagChina",
+  "flagColombia",
+  "flagClippertonIsland",
+  "flagCostaRica",
+  "flagCuba",
+  "flagCapeVerde",
+  "flagCuracao",
+  "flagChristmasIsland",
+  "flagCyprus",
+  "flagCzechia",
+  "flagGermany",
+  "flagDiegoGarcia",
+  "flagDjibouti",
+  "flagDenmark",
+  "flagDominica",
+  "flagDominicanRepublic",
+  "flagAlgeria",
+  "flagCeutaAndMelilla",
+  "flagEcuador",
+  "flagEstonia",
+  "flagEgypt",
+  "flagWesternSahara",
+  "flagEritrea",
+  "flagSpain",
+  "flagEthiopia",
+  "flagEuropeanUnion",
+  "flagFinland",
+  "flagFiji",
+  "flagFalklandIslands",
+  "flagMicronesia",
+  "flagFaroeIslands",
+  "flagFrance",
+  "flagGabon",
+  "flagUnitedKingdom",
+  "flagGrenada",
+  "flagGeorgia",
+  "flagFrenchGuiana",
+  "flagGuernsey",
+  "flagGhana",
+  "flagGibraltar",
+  "flagGreenland",
+  "flagGambia",
+  "flagGuinea",
+  "flagGuadeloupe",
+  "flagEquatorialGuinea",
+  "flagGreece",
+  "flagSouthGeorgiaAndSouthSandwichIslands",
+  "flagGuatemala",
+  "flagGuam",
+  "flagGuineaBissau",
+  "flagGuyana",
+  "flagHongKongSARChina",
+  "flagHeardAndMcDonaldIslands",
+  "flagHonduras",
+  "flagCroatia",
+  "flagHaiti",
+  "flagHungary",
+  "flagCanaryIslands",
+  "flagIndonesia",
+  "flagIreland",
+  "flagIsrael",
+  "flagIsleOfMan",
+  "flagIndia",
+  "flagBritishIndianOceanTerritory",
+  "flagIraq",
+  "flagIran",
+  "flagIceland",
+  "flagItaly",
+  "flagJersey",
+  "flagJamaica",
+  "flagJordan",
+  "flagJapan",
+  "flagKenya",
+  "flagKyrgyzstan",
+  "flagCambodia",
+  "flagKiribati",
+  "flagComoros",
+  "flagStKittsAndNevis",
+  "flagNorthKorea",
+  "flagSouthKorea",
+  "flagKuwait",
+  "flagCaymanIslands",
+  "flagKazakhstan",
+  "flagLaos",
+  "flagLebanon",
+  "flagStLucia",
+  "flagLiechtenstein",
+  "flagSriLanka",
+  "flagLiberia",
+  "flagLesotho",
+  "flagLithuania",
+  "flagLuxembourg",
+  "flagLatvia",
+  "flagLibya",
+  "flagMorocco",
+  "flagMonaco",
+  "flagMoldova",
+  "flagMontenegro",
+  "flagStMartin",
+  "flagMadagascar",
+  "flagMarshallIslands",
+  "flagNorthMacedonia",
+  "flagMali",
+  "flagMyanmarBurma",
+  "flagMongolia",
+  "flagMacaoSARChina",
+  "flagNorthernMarianaIslands",
+  "flagMartinique",
+  "flagMauritania",
+  "flagMontserrat",
+  "flagMalta",
+  "flagMauritius",
+  "flagMaldives",
+  "flagMalawi",
+  "flagMexico",
+  "flagMalaysia",
+  "flagMozambique",
+  "flagNamibia",
+  "flagNewCaledonia",
+  "flagNiger",
+  "flagNorfolkIsland",
+  "flagNigeria",
+  "flagNicaragua",
+  "flagNetherlands",
+  "flagNorway",
+  "flagNepal",
+  "flagNauru",
+  "flagNiue",
+  "flagNewZealand",
+  "flagOman",
+  "flagPanama",
+  "flagPeru",
+  "flagFrenchPolynesia",
+  "flagPapuaNewGuinea",
+  "flagPhilippines",
+  "flagPakistan",
+  "flagPoland",
+  "flagStPierreAndMiquelon",
+  "flagPitcairnIslands",
+  "flagPuertoRico",
+  "flagPalestinianTerritories",
+  "flagPortugal",
+  "flagPalau",
+  "flagParaguay",
+  "flagQatar",
+  "flagReunion",
+  "flagRomania",
+  "flagSerbia",
+  "flagRussia",
+  "flagRwanda",
+  "flagSaudiArabia",
+  "flagSolomonIslands",
+  "flagSeychelles",
+  "flagSudan",
+  "flagSweden",
+  "flagSingapore",
+  "flagStHelena",
+  "flagSlovenia",
+  "flagSvalbardAndJanMayen",
+  "flagSlovakia",
+  "flagSierraLeone",
+  "flagSanMarino",
+  "flagSenegal",
+  "flagSomalia",
+  "flagSuriname",
+  "flagSouthSudan",
+  "flagSaoTomeAndPrincipe",
+  "flagElSalvador",
+  "flagSintMaarten",
+  "flagSyria",
+  "flagEswatini",
+  "flagTristanDaCunha",
+  "flagTurksAndCaicosIslands",
+  "flagChad",
+  "flagFrenchSouthernTerritories",
+  "flagTogo",
+  "flagThailand",
+  "flagTajikistan",
+  "flagTokelau",
+  "flagTimorLeste",
+  "flagTurkmenistan",
+  "flagTunisia",
+  "flagTonga",
+  "flagTurkey",
+  "flagTrinidadAndTobago",
+  "flagTuvalu",
+  "flagTaiwan",
+  "flagTanzania",
+  "flagUkraine",
+  "flagUganda",
+  "flagUSOutlyingIslands",
+  "flagUnitedNations",
+  "flagUnitedStates",
+  "flagUruguay",
+  "flagUzbekistan",
+  "flagVaticanCity",
+  "flagStVincentAndGrenadines",
+  "flagVenezuela",
+  "flagBritishVirginIslands",
+  "flagUSVirginIslands",
+  "flagVietnam",
+  "flagVanuatu",
+  "flagWallisAndFutuna",
+  "flagSamoa",
+  "flagKosovo",
+  "flagYemen",
+  "flagMayotte",
+  "flagSouthAfrica",
+  "flagZambia",
+  "flagZimbabwe",
+  "flagEngland",
+  "flagScotland",
+  "flagWales"
  ],
  "flags/flag": [
-  "emojiChequeredFlag",
-  "emojiTriangularFlag",
-  "emojiCrossedFlags",
-  "emojiBlackFlag",
-  "emojiWhiteFlag",
-  "emojiRainbowFlag",
-  "emojiTransgenderFlag",
-  "emojiPirateFlag"
+  "chequeredFlag",
+  "triangularFlag",
+  "crossedFlags",
+  "blackFlag",
+  "whiteFlag",
+  "rainbowFlag",
+  "transgenderFlag",
+  "pirateFlag"
  ],
  "flags/country-flag": [
-  "emojiFlagAscensionIsland",
-  "emojiFlagAndorra",
-  "emojiFlagUnitedArabEmirates",
-  "emojiFlagAfghanistan",
-  "emojiFlagAntiguaAndBarbuda",
-  "emojiFlagAnguilla",
-  "emojiFlagAlbania",
-  "emojiFlagArmenia",
-  "emojiFlagAngola",
-  "emojiFlagAntarctica",
-  "emojiFlagArgentina",
-  "emojiFlagAmericanSamoa",
-  "emojiFlagAustria",
-  "emojiFlagAustralia",
-  "emojiFlagAruba",
-  "emojiFlagAlandIslands",
-  "emojiFlagAzerbaijan",
-  "emojiFlagBosniaAndHerzegovina",
-  "emojiFlagBarbados",
-  "emojiFlagBangladesh",
-  "emojiFlagBelgium",
-  "emojiFlagBurkinaFaso",
-  "emojiFlagBulgaria",
-  "emojiFlagBahrain",
-  "emojiFlagBurundi",
-  "emojiFlagBenin",
-  "emojiFlagStBarthelemy",
-  "emojiFlagBermuda",
-  "emojiFlagBrunei",
-  "emojiFlagBolivia",
-  "emojiFlagCaribbeanNetherlands",
-  "emojiFlagBrazil",
-  "emojiFlagBahamas",
-  "emojiFlagBhutan",
-  "emojiFlagBouvetIsland",
-  "emojiFlagBotswana",
-  "emojiFlagBelarus",
-  "emojiFlagBelize",
-  "emojiFlagCanada",
-  "emojiFlagCocosKeelingIslands",
-  "emojiFlagCongoKinshasa",
-  "emojiFlagCentralAfricanRepublic",
-  "emojiFlagCongoBrazzaville",
-  "emojiFlagSwitzerland",
-  "emojiFlagCoteDIvoire",
-  "emojiFlagCookIslands",
-  "emojiFlagChile",
-  "emojiFlagCameroon",
-  "emojiFlagChina",
-  "emojiFlagColombia",
-  "emojiFlagClippertonIsland",
-  "emojiFlagCostaRica",
-  "emojiFlagCuba",
-  "emojiFlagCapeVerde",
-  "emojiFlagCuracao",
-  "emojiFlagChristmasIsland",
-  "emojiFlagCyprus",
-  "emojiFlagCzechia",
-  "emojiFlagGermany",
-  "emojiFlagDiegoGarcia",
-  "emojiFlagDjibouti",
-  "emojiFlagDenmark",
-  "emojiFlagDominica",
-  "emojiFlagDominicanRepublic",
-  "emojiFlagAlgeria",
-  "emojiFlagCeutaAndMelilla",
-  "emojiFlagEcuador",
-  "emojiFlagEstonia",
-  "emojiFlagEgypt",
-  "emojiFlagWesternSahara",
-  "emojiFlagEritrea",
-  "emojiFlagSpain",
-  "emojiFlagEthiopia",
-  "emojiFlagEuropeanUnion",
-  "emojiFlagFinland",
-  "emojiFlagFiji",
-  "emojiFlagFalklandIslands",
-  "emojiFlagMicronesia",
-  "emojiFlagFaroeIslands",
-  "emojiFlagFrance",
-  "emojiFlagGabon",
-  "emojiFlagUnitedKingdom",
-  "emojiFlagGrenada",
-  "emojiFlagGeorgia",
-  "emojiFlagFrenchGuiana",
-  "emojiFlagGuernsey",
-  "emojiFlagGhana",
-  "emojiFlagGibraltar",
-  "emojiFlagGreenland",
-  "emojiFlagGambia",
-  "emojiFlagGuinea",
-  "emojiFlagGuadeloupe",
-  "emojiFlagEquatorialGuinea",
-  "emojiFlagGreece",
-  "emojiFlagSouthGeorgiaAndSouthSandwichIslands",
-  "emojiFlagGuatemala",
-  "emojiFlagGuam",
-  "emojiFlagGuineaBissau",
-  "emojiFlagGuyana",
-  "emojiFlagHongKongSARChina",
-  "emojiFlagHeardAndMcDonaldIslands",
-  "emojiFlagHonduras",
-  "emojiFlagCroatia",
-  "emojiFlagHaiti",
-  "emojiFlagHungary",
-  "emojiFlagCanaryIslands",
-  "emojiFlagIndonesia",
-  "emojiFlagIreland",
-  "emojiFlagIsrael",
-  "emojiFlagIsleOfMan",
-  "emojiFlagIndia",
-  "emojiFlagBritishIndianOceanTerritory",
-  "emojiFlagIraq",
-  "emojiFlagIran",
-  "emojiFlagIceland",
-  "emojiFlagItaly",
-  "emojiFlagJersey",
-  "emojiFlagJamaica",
-  "emojiFlagJordan",
-  "emojiFlagJapan",
-  "emojiFlagKenya",
-  "emojiFlagKyrgyzstan",
-  "emojiFlagCambodia",
-  "emojiFlagKiribati",
-  "emojiFlagComoros",
-  "emojiFlagStKittsAndNevis",
-  "emojiFlagNorthKorea",
-  "emojiFlagSouthKorea",
-  "emojiFlagKuwait",
-  "emojiFlagCaymanIslands",
-  "emojiFlagKazakhstan",
-  "emojiFlagLaos",
-  "emojiFlagLebanon",
-  "emojiFlagStLucia",
-  "emojiFlagLiechtenstein",
-  "emojiFlagSriLanka",
-  "emojiFlagLiberia",
-  "emojiFlagLesotho",
-  "emojiFlagLithuania",
-  "emojiFlagLuxembourg",
-  "emojiFlagLatvia",
-  "emojiFlagLibya",
-  "emojiFlagMorocco",
-  "emojiFlagMonaco",
-  "emojiFlagMoldova",
-  "emojiFlagMontenegro",
-  "emojiFlagStMartin",
-  "emojiFlagMadagascar",
-  "emojiFlagMarshallIslands",
-  "emojiFlagNorthMacedonia",
-  "emojiFlagMali",
-  "emojiFlagMyanmarBurma",
-  "emojiFlagMongolia",
-  "emojiFlagMacaoSARChina",
-  "emojiFlagNorthernMarianaIslands",
-  "emojiFlagMartinique",
-  "emojiFlagMauritania",
-  "emojiFlagMontserrat",
-  "emojiFlagMalta",
-  "emojiFlagMauritius",
-  "emojiFlagMaldives",
-  "emojiFlagMalawi",
-  "emojiFlagMexico",
-  "emojiFlagMalaysia",
-  "emojiFlagMozambique",
-  "emojiFlagNamibia",
-  "emojiFlagNewCaledonia",
-  "emojiFlagNiger",
-  "emojiFlagNorfolkIsland",
-  "emojiFlagNigeria",
-  "emojiFlagNicaragua",
-  "emojiFlagNetherlands",
-  "emojiFlagNorway",
-  "emojiFlagNepal",
-  "emojiFlagNauru",
-  "emojiFlagNiue",
-  "emojiFlagNewZealand",
-  "emojiFlagOman",
-  "emojiFlagPanama",
-  "emojiFlagPeru",
-  "emojiFlagFrenchPolynesia",
-  "emojiFlagPapuaNewGuinea",
-  "emojiFlagPhilippines",
-  "emojiFlagPakistan",
-  "emojiFlagPoland",
-  "emojiFlagStPierreAndMiquelon",
-  "emojiFlagPitcairnIslands",
-  "emojiFlagPuertoRico",
-  "emojiFlagPalestinianTerritories",
-  "emojiFlagPortugal",
-  "emojiFlagPalau",
-  "emojiFlagParaguay",
-  "emojiFlagQatar",
-  "emojiFlagReunion",
-  "emojiFlagRomania",
-  "emojiFlagSerbia",
-  "emojiFlagRussia",
-  "emojiFlagRwanda",
-  "emojiFlagSaudiArabia",
-  "emojiFlagSolomonIslands",
-  "emojiFlagSeychelles",
-  "emojiFlagSudan",
-  "emojiFlagSweden",
-  "emojiFlagSingapore",
-  "emojiFlagStHelena",
-  "emojiFlagSlovenia",
-  "emojiFlagSvalbardAndJanMayen",
-  "emojiFlagSlovakia",
-  "emojiFlagSierraLeone",
-  "emojiFlagSanMarino",
-  "emojiFlagSenegal",
-  "emojiFlagSomalia",
-  "emojiFlagSuriname",
-  "emojiFlagSouthSudan",
-  "emojiFlagSaoTomeAndPrincipe",
-  "emojiFlagElSalvador",
-  "emojiFlagSintMaarten",
-  "emojiFlagSyria",
-  "emojiFlagEswatini",
-  "emojiFlagTristanDaCunha",
-  "emojiFlagTurksAndCaicosIslands",
-  "emojiFlagChad",
-  "emojiFlagFrenchSouthernTerritories",
-  "emojiFlagTogo",
-  "emojiFlagThailand",
-  "emojiFlagTajikistan",
-  "emojiFlagTokelau",
-  "emojiFlagTimorLeste",
-  "emojiFlagTurkmenistan",
-  "emojiFlagTunisia",
-  "emojiFlagTonga",
-  "emojiFlagTurkey",
-  "emojiFlagTrinidadAndTobago",
-  "emojiFlagTuvalu",
-  "emojiFlagTaiwan",
-  "emojiFlagTanzania",
-  "emojiFlagUkraine",
-  "emojiFlagUganda",
-  "emojiFlagUSOutlyingIslands",
-  "emojiFlagUnitedNations",
-  "emojiFlagUnitedStates",
-  "emojiFlagUruguay",
-  "emojiFlagUzbekistan",
-  "emojiFlagVaticanCity",
-  "emojiFlagStVincentAndGrenadines",
-  "emojiFlagVenezuela",
-  "emojiFlagBritishVirginIslands",
-  "emojiFlagUSVirginIslands",
-  "emojiFlagVietnam",
-  "emojiFlagVanuatu",
-  "emojiFlagWallisAndFutuna",
-  "emojiFlagSamoa",
-  "emojiFlagKosovo",
-  "emojiFlagYemen",
-  "emojiFlagMayotte",
-  "emojiFlagSouthAfrica",
-  "emojiFlagZambia",
-  "emojiFlagZimbabwe"
+  "flagAscensionIsland",
+  "flagAndorra",
+  "flagUnitedArabEmirates",
+  "flagAfghanistan",
+  "flagAntiguaAndBarbuda",
+  "flagAnguilla",
+  "flagAlbania",
+  "flagArmenia",
+  "flagAngola",
+  "flagAntarctica",
+  "flagArgentina",
+  "flagAmericanSamoa",
+  "flagAustria",
+  "flagAustralia",
+  "flagAruba",
+  "flagAlandIslands",
+  "flagAzerbaijan",
+  "flagBosniaAndHerzegovina",
+  "flagBarbados",
+  "flagBangladesh",
+  "flagBelgium",
+  "flagBurkinaFaso",
+  "flagBulgaria",
+  "flagBahrain",
+  "flagBurundi",
+  "flagBenin",
+  "flagStBarthelemy",
+  "flagBermuda",
+  "flagBrunei",
+  "flagBolivia",
+  "flagCaribbeanNetherlands",
+  "flagBrazil",
+  "flagBahamas",
+  "flagBhutan",
+  "flagBouvetIsland",
+  "flagBotswana",
+  "flagBelarus",
+  "flagBelize",
+  "flagCanada",
+  "flagCocosKeelingIslands",
+  "flagCongoKinshasa",
+  "flagCentralAfricanRepublic",
+  "flagCongoBrazzaville",
+  "flagSwitzerland",
+  "flagCoteDIvoire",
+  "flagCookIslands",
+  "flagChile",
+  "flagCameroon",
+  "flagChina",
+  "flagColombia",
+  "flagClippertonIsland",
+  "flagCostaRica",
+  "flagCuba",
+  "flagCapeVerde",
+  "flagCuracao",
+  "flagChristmasIsland",
+  "flagCyprus",
+  "flagCzechia",
+  "flagGermany",
+  "flagDiegoGarcia",
+  "flagDjibouti",
+  "flagDenmark",
+  "flagDominica",
+  "flagDominicanRepublic",
+  "flagAlgeria",
+  "flagCeutaAndMelilla",
+  "flagEcuador",
+  "flagEstonia",
+  "flagEgypt",
+  "flagWesternSahara",
+  "flagEritrea",
+  "flagSpain",
+  "flagEthiopia",
+  "flagEuropeanUnion",
+  "flagFinland",
+  "flagFiji",
+  "flagFalklandIslands",
+  "flagMicronesia",
+  "flagFaroeIslands",
+  "flagFrance",
+  "flagGabon",
+  "flagUnitedKingdom",
+  "flagGrenada",
+  "flagGeorgia",
+  "flagFrenchGuiana",
+  "flagGuernsey",
+  "flagGhana",
+  "flagGibraltar",
+  "flagGreenland",
+  "flagGambia",
+  "flagGuinea",
+  "flagGuadeloupe",
+  "flagEquatorialGuinea",
+  "flagGreece",
+  "flagSouthGeorgiaAndSouthSandwichIslands",
+  "flagGuatemala",
+  "flagGuam",
+  "flagGuineaBissau",
+  "flagGuyana",
+  "flagHongKongSARChina",
+  "flagHeardAndMcDonaldIslands",
+  "flagHonduras",
+  "flagCroatia",
+  "flagHaiti",
+  "flagHungary",
+  "flagCanaryIslands",
+  "flagIndonesia",
+  "flagIreland",
+  "flagIsrael",
+  "flagIsleOfMan",
+  "flagIndia",
+  "flagBritishIndianOceanTerritory",
+  "flagIraq",
+  "flagIran",
+  "flagIceland",
+  "flagItaly",
+  "flagJersey",
+  "flagJamaica",
+  "flagJordan",
+  "flagJapan",
+  "flagKenya",
+  "flagKyrgyzstan",
+  "flagCambodia",
+  "flagKiribati",
+  "flagComoros",
+  "flagStKittsAndNevis",
+  "flagNorthKorea",
+  "flagSouthKorea",
+  "flagKuwait",
+  "flagCaymanIslands",
+  "flagKazakhstan",
+  "flagLaos",
+  "flagLebanon",
+  "flagStLucia",
+  "flagLiechtenstein",
+  "flagSriLanka",
+  "flagLiberia",
+  "flagLesotho",
+  "flagLithuania",
+  "flagLuxembourg",
+  "flagLatvia",
+  "flagLibya",
+  "flagMorocco",
+  "flagMonaco",
+  "flagMoldova",
+  "flagMontenegro",
+  "flagStMartin",
+  "flagMadagascar",
+  "flagMarshallIslands",
+  "flagNorthMacedonia",
+  "flagMali",
+  "flagMyanmarBurma",
+  "flagMongolia",
+  "flagMacaoSARChina",
+  "flagNorthernMarianaIslands",
+  "flagMartinique",
+  "flagMauritania",
+  "flagMontserrat",
+  "flagMalta",
+  "flagMauritius",
+  "flagMaldives",
+  "flagMalawi",
+  "flagMexico",
+  "flagMalaysia",
+  "flagMozambique",
+  "flagNamibia",
+  "flagNewCaledonia",
+  "flagNiger",
+  "flagNorfolkIsland",
+  "flagNigeria",
+  "flagNicaragua",
+  "flagNetherlands",
+  "flagNorway",
+  "flagNepal",
+  "flagNauru",
+  "flagNiue",
+  "flagNewZealand",
+  "flagOman",
+  "flagPanama",
+  "flagPeru",
+  "flagFrenchPolynesia",
+  "flagPapuaNewGuinea",
+  "flagPhilippines",
+  "flagPakistan",
+  "flagPoland",
+  "flagStPierreAndMiquelon",
+  "flagPitcairnIslands",
+  "flagPuertoRico",
+  "flagPalestinianTerritories",
+  "flagPortugal",
+  "flagPalau",
+  "flagParaguay",
+  "flagQatar",
+  "flagReunion",
+  "flagRomania",
+  "flagSerbia",
+  "flagRussia",
+  "flagRwanda",
+  "flagSaudiArabia",
+  "flagSolomonIslands",
+  "flagSeychelles",
+  "flagSudan",
+  "flagSweden",
+  "flagSingapore",
+  "flagStHelena",
+  "flagSlovenia",
+  "flagSvalbardAndJanMayen",
+  "flagSlovakia",
+  "flagSierraLeone",
+  "flagSanMarino",
+  "flagSenegal",
+  "flagSomalia",
+  "flagSuriname",
+  "flagSouthSudan",
+  "flagSaoTomeAndPrincipe",
+  "flagElSalvador",
+  "flagSintMaarten",
+  "flagSyria",
+  "flagEswatini",
+  "flagTristanDaCunha",
+  "flagTurksAndCaicosIslands",
+  "flagChad",
+  "flagFrenchSouthernTerritories",
+  "flagTogo",
+  "flagThailand",
+  "flagTajikistan",
+  "flagTokelau",
+  "flagTimorLeste",
+  "flagTurkmenistan",
+  "flagTunisia",
+  "flagTonga",
+  "flagTurkey",
+  "flagTrinidadAndTobago",
+  "flagTuvalu",
+  "flagTaiwan",
+  "flagTanzania",
+  "flagUkraine",
+  "flagUganda",
+  "flagUSOutlyingIslands",
+  "flagUnitedNations",
+  "flagUnitedStates",
+  "flagUruguay",
+  "flagUzbekistan",
+  "flagVaticanCity",
+  "flagStVincentAndGrenadines",
+  "flagVenezuela",
+  "flagBritishVirginIslands",
+  "flagUSVirginIslands",
+  "flagVietnam",
+  "flagVanuatu",
+  "flagWallisAndFutuna",
+  "flagSamoa",
+  "flagKosovo",
+  "flagYemen",
+  "flagMayotte",
+  "flagSouthAfrica",
+  "flagZambia",
+  "flagZimbabwe"
  ],
  "flags/subdivision-flag": [
-  "emojiFlagEngland",
-  "emojiFlagScotland",
-  "emojiFlagWales"
+  "flagEngland",
+  "flagScotland",
+  "flagWales"
  ]
 };

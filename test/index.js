@@ -1,11 +1,11 @@
 import assert from "node:assert";
 import { emojiToKey, keyToEmoji } from "../dist/index.js";
 
-assert('emojiPileOfPoo' === emojiToKey('💩'));
-assert('💩' === keyToEmoji('emojiPileOfPoo'));
+assert('pileOfPoo' === emojiToKey('💩'));
+assert('💩' === keyToEmoji('pileOfPoo'));
 
-assert('emojiServiceDog' === emojiToKey('🐕‍🦺'));
-assert('🐕‍🦺' === keyToEmoji('emojiServiceDog'));
+assert('serviceDog' === emojiToKey('🐕‍🦺'));
+assert('🐕‍🦺' === keyToEmoji('serviceDog'));
 
 assert(null === emojiToKey('no emoji'));
 

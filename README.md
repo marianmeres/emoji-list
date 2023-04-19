@@ -1,7 +1,8 @@
 # @marianmeres/emoji-list
 
 List of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
-compiled into javascript plain object maps. Useful for various emoji processing tools.
+compiled into javascript plain object maps. Useful as a low level helpers for various 
+emoji processing tools.
 
 NOTE: only default skin-tone
 
@@ -11,9 +12,9 @@ import { emojiKeyMap } from './@marianmers/emoji-list';
 
 // emojiKeyMap contains full key-to-hex map of all emojis
 {
-    "emojiGrinningFace": "1f600",
+    "grinningFace": "1f600",
     // ... ~1870 records omitted here
-    "emojiFlagWales": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
+    "flagWales": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
 }
 ```
 
@@ -23,9 +24,9 @@ import { emojiCodeMap } from './@marianmers/emoji-list';
 
 // emojiCodeMap contains full hex-to-key map of all emojis
 {
-    "1f600": "emojiGrinningFace",
+    "1f600": "grinningFace",
     // ... ~1870 records omitted here
-    "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f": "emojiFlagWales"
+    "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f": "flagWales"
 }
 ```
 
@@ -35,19 +36,19 @@ import { emojiKeyToGroupMap, emojiGroupToKeyMap } from './@marianmers/emoji-list
 
 // emojiKeyToGroupMap contains full key-to-groups [major, minor] map
 {
-    "emojiGrinningFace": [ "smileys and emotion", "face-smiling" ],
+    "grinningFace": [ "smileys and emotion", "face-smiling" ],
     // ... ~1870 records omitted here
-    "emojiFlagWales": [ "flags", "subdivision-flag" ]
+    "flagWales": [ "flags", "subdivision-flag" ]
 }
 
 // emojiGroupToKeyMap contains full group-to-key map
 {
     // major group
-    "smileys and emotion": [ "emojiGrinningFace", /*...*/ ],
+    "smileys and emotion": [ "grinningFace", /*...*/ ],
     // ...
 	
     // major/minor group
-    "smileys and emotion/face-smiling": [ "emojiGrinningFace", /*...*/ ],
+    "smileys and emotion/face-smiling": [ "grinningFace", /*...*/ ],
     // ...
 }
 ```
@@ -58,16 +59,16 @@ import { emojiFulltextMap } from './@marianmers/emoji-list';
 
 // emojifulltextMap contains full key-to-text map of all emojis
 {
-    "emojiGrinningFace": "grinning face",
+    "grinningFace": "grinning face",
     // ... ~1870 records omitted here
-    "emojiFlagWales": "flag: Wales"
+    "flagWales": "flag: Wales"
 }
 ```
 
-## `emojiToKey` and `keyToEmoji` utils
+## `emojiToKey` and `keyToEmoji` helpers
 ```javascript
 import { emojiToKey, keyToEmoji } from './@marianmers/emoji-list';
 
-assert('emojiPileOfPoo' === emojiToKey('💩'));
-assert('💩' === keyToEmoji('emojiPileOfPoo'));
+assert('pileOfPoo' === emojiToKey('💩'));
+assert('💩' === keyToEmoji('pileOfPoo'));
 ```
