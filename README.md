@@ -8,7 +8,7 @@ NOTE: only default skin-tone
 
 ## key to hex
 ```javascript
-import { emojiKeyMap } from './@marianmers/emoji-list';
+import { emojiKeyMap } from '@marianmeres/emoji-list';
 
 // emojiKeyMap contains full key-to-hex map of all emojis
 {
@@ -20,7 +20,7 @@ import { emojiKeyMap } from './@marianmers/emoji-list';
 
 ## hex to key
 ```javascript
-import { emojiCodeMap } from './@marianmers/emoji-list';
+import { emojiCodeMap } from '@marianmeres/emoji-list';
 
 // emojiCodeMap contains full hex-to-key map of all emojis
 {
@@ -32,7 +32,7 @@ import { emojiCodeMap } from './@marianmers/emoji-list';
 
 ## groups map (both major and minor)
 ```javascript
-import { emojiKeyToGroupMap, emojiGroupToKeyMap } from './@marianmers/emoji-list';
+import { emojiKeyToGroupMap, emojiGroupToKeyMap } from '@marianmeres/emoji-list';
 
 // emojiKeyToGroupMap contains full key-to-groups [major, minor] map
 {
@@ -55,7 +55,7 @@ import { emojiKeyToGroupMap, emojiGroupToKeyMap } from './@marianmers/emoji-list
 
 ## text description
 ```javascript
-import { emojiFulltextMap } from './@marianmers/emoji-list';
+import { emojiFulltextMap } from '@marianmeres/emoji-list';
 
 // emojifulltextMap contains full key-to-text map of all emojis
 {
@@ -67,7 +67,7 @@ import { emojiFulltextMap } from './@marianmers/emoji-list';
 
 ## `emojiToKey` and `keyToEmoji` helpers
 ```javascript
-import { emojiToKey, keyToEmoji } from './@marianmers/emoji-list';
+import { emojiToKey, keyToEmoji } from '@marianmeres/emoji-list';
 
 assert('pileOfPoo' === emojiToKey('💩'));
 assert('💩' === keyToEmoji('pileOfPoo'));
