@@ -1,6 +1,6 @@
 {
 	"name": "@marianmeres/emoji-list",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"exports": "./src/mod.ts",
 	"tasks": {
 		"test": "deno test",
@@ -27,10 +27,15 @@
 		"@std/path": "jsr:@std/path@^1.1.6"
 	},
 	"publish": {
-		"exclude": ["scripts/data/", "example/"]
+		"exclude": [
+			"scripts/data/",
+			"example/"
+		]
 	},
 	"fmt": {
-		"exclude": ["example/dist"],
+		"exclude": [
+			"example/dist"
+		],
 		"useTabs": true,
 		"lineWidth": 90,
 		"indentWidth": 4,
