@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, viewport-fit=cover"
+		/>
+		<title>@marianmeres/emoji-list — example</title>
+		<meta
+			name="description"
+			content="Complete emoji list as plain object maps — live search, group browsing, and key/hex inspection of all emojis."
+		/>
+		<!-- Tracks the active (manually toggled) theme; updated by main.ts. -->
+		<meta name="theme-color" content="#fafafa" />
+		<link
+			rel="icon"
+			href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>💩</text></svg>"
+		/>
+
+		<!--
+			Styling follows @marianmeres/design-tokens with the Reboot bridge:
+			  · reboot.css — Bootstrap Reboot element normalize/reset (consumes --bs-*)
+			  · theme.css  — design-tokens "zinc" theme + reboot bridge
+			                 (sets --stuic-color-* AND the --bs-* vars; dark on :root.dark)
+			  · the inline block below — minimal, token-driven example layout
+		-->
+		<link rel="stylesheet" href="./reboot.css" />
+		<link rel="stylesheet" href="./theme.css" />
+
+		<!--
+			Anti-FOUC: set the dark class before first paint so dark-preference
+			users don't flash light. main.ts re-confirms this idempotently.
+			The storage key must match THEME_KEY in main.ts.
+		-->
+		<script>
+		try {
+			var k = "emoji-list-example-theme";
+			var s = localStorage.getItem(k);
+			var d = s ? s === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+			document.documentElement.classList.toggle("dark", d);
+		} catch (e) {}
+		</script>
+
+		<style>
+		:root {
+			color-scheme: light;
+		}
+		:root.dark {
+			color-scheme: dark;
+		}
+		html,
+		body {
+			height: 100%;
+		}
+		body {
+			min-height: 100vh;
+			min-height: 100dvh;
+		}
+
+		/* App shell: a viewport-tall flex column. The top region (header +
+		   search + controls + detail card) and the footer stay put; only the
+		   emoji grid in between scrolls. */
+		.app {
+			display: flex;
+			flex-direction: column;
+			height: 100vh;
+			height: 100dvh;
+			max-width: 48rem;
+			margin: 0 auto;
+			padding: clamp(1rem, 4vw, 2.5rem) clamp(1rem, 4vw, 2rem);
+		}
+		.app-top {
+			flex: none;
+		}
+		.grid-scroll {
+			flex: 1 1 auto;
+			min-height: 0; /* let the flex item shrink so it can scroll */
+			overflow-y: auto;
+			overscroll-behavior: contain;
+			-webkit-overflow-scrolling: touch;
+			padding-bottom: 0.5rem;
+		}
+
+		.app-header {
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-between;
+			gap: 1rem;
+			margin-bottom: 1.5rem;
+		}
+		.app-header h1 {
+			margin: 0 0 0.3rem;
+			font-size: 1.05rem;
+			font-weight: 600;
+			line-height: 1.3;
+		}
+		.app-header h1 a {
+			color: inherit;
+			text-decoration: none;
+		}
+		.app-header h1 code {
+			color: inherit;
+			font-size: 0.95em;
+		}
+		.lead {
+			max-width: 60ch;
+			margin: 0;
+			color: var(--stuic-color-muted-foreground);
+			font-size: 0.9rem;
+		}
+
+		.theme-toggle {
+			flex: none;
+			width: 2.75rem;
+			height: 2.75rem;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			border: 1px solid var(--stuic-color-border);
+			border-radius: 0.5rem;
+			background: var(--stuic-color-surface);
+			color: var(--stuic-color-surface-foreground);
+			font-size: 1.1rem;
+			line-height: 1;
+			cursor: pointer;
+		}
+		.theme-toggle:hover {
+			background: var(--stuic-color-surface-hover);
+		}
+
+		/* 1rem (16px) font keeps iOS Safari from zooming in on focus. */
+		.search-input {
+			width: 100%;
+			font: inherit;
+			font-size: 1rem;
+			min-height: 3rem;
+			padding: 0.7rem 0.9rem;
+			margin-bottom: 1rem;
+			border: 1px solid var(--stuic-color-border);
+			border-radius: 0.6rem;
+			background: var(--stuic-color-input);
+			color: var(--stuic-color-foreground);
+		}
+		.search-input::placeholder {
+			color: var(--stuic-color-muted-foreground);
+		}
+
+		.controls {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: space-between;
+			gap: 0.5rem 1rem;
+			margin-bottom: 1rem;
+		}
+		.group-select {
+			font: inherit;
+			font-size: 0.85rem;
+			min-height: 2.25rem;
+			padding: 0.25rem 0.6rem;
+			border: 1px solid var(--stuic-color-border);
+			border-radius: 0.5rem;
+			background: var(--stuic-color-surface);
+			color: var(--stuic-color-surface-foreground);
+			max-width: 100%;
+			cursor: pointer;
+		}
+		.status {
+			margin: 0;
+			color: var(--stuic-color-muted-foreground);
+			font-size: 0.8rem;
+			font-variant-numeric: tabular-nums;
+			min-height: 1.2em;
+		}
+
+		/* Detail card: what the maps/helpers return for the picked emoji. */
+		.detail {
+			display: flex;
+			align-items: center;
+			gap: 0.9rem;
+			padding: 0.75rem 0.9rem;
+			margin-bottom: 1rem;
+			border: 1px solid var(--stuic-color-border);
+			border-radius: 0.6rem;
+			background: var(--stuic-color-surface);
+			color: var(--stuic-color-surface-foreground);
+		}
+		.detail-emoji {
+			flex: none;
+			font-size: 2.6rem;
+			line-height: 1;
+			font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji",
+				sans-serif;
+		}
+		.detail-body {
+			flex: 1 1 auto;
+			min-width: 0;
+		}
+		.detail-name {
+			margin: 0;
+			font-weight: 600;
+			font-size: 0.95rem;
+		}
+		.detail-meta {
+			margin: 0.1rem 0 0.35rem;
+			font-size: 0.8rem;
+			color: var(--stuic-color-muted-foreground);
+		}
+		.detail-codes {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 0.3rem 0.75rem;
+			margin: 0;
+			font-size: 0.8rem;
+		}
+		.detail-codes .label {
+			color: var(--stuic-color-muted-foreground);
+		}
+		.detail-codes code {
+			color: inherit;
+			overflow-wrap: anywhere; /* tag/ZWJ sequence hex ids get long */
+		}
+		.copy-btn {
+			flex: none;
+			font: inherit;
+			font-size: 0.8rem;
+			min-height: 2.25rem;
+			padding: 0 0.8rem;
+			border: 1px solid var(--stuic-color-border);
+			border-radius: 0.5rem;
+			background: var(--stuic-color-background);
+			color: var(--stuic-color-foreground);
+			white-space: nowrap;
+			cursor: pointer;
+		}
+		.copy-btn:hover {
+			background: var(--stuic-color-surface-hover);
+		}
+
+		/* The emoji grid itself. */
+		.grid {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(2.6rem, 1fr));
+			gap: 0.25rem;
+		}
+		.cell {
+			aspect-ratio: 1;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 1.5rem;
+			line-height: 1;
+			font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji",
+				sans-serif;
+			border: 1px solid transparent;
+			border-radius: 0.5rem;
+			background: transparent;
+			padding: 0;
+			cursor: pointer;
+		}
+		.cell:hover {
+			background: var(--stuic-color-surface-hover);
+		}
+		.cell.selected {
+			border-color: var(--stuic-color-primary);
+			background: var(--stuic-color-surface);
+		}
+
+		.grid-empty {
+			margin: 0;
+			padding: 1.5rem 0.75rem;
+			border: 1px dashed var(--stuic-color-border);
+			border-radius: 0.5rem;
+			text-align: center;
+			color: var(--stuic-color-muted-foreground);
+		}
+
+		.info {
+			flex: none;
+			margin: 0;
+			padding-top: 0.85rem;
+			border-top: 1px solid var(--stuic-color-border);
+			color: var(--stuic-color-muted-foreground);
+			font-size: 0.8rem;
+			line-height: 1.6;
+		}
+		.info a {
+			color: inherit;
+			text-decoration: underline;
+		}
+
+		:where(.search-input, .group-select, .theme-toggle, .copy-btn, .cell):focus-visible {
+			outline: 2px solid var(--stuic-color-primary);
+			outline-offset: 2px;
+		}
+		</style>
+	</head>
+	<body>
+		<!-- The whole UI lives in templates; main.ts clones and wires them. -->
+		<template id="tpl-app">
+			<div class="app">
+				<div class="app-top">
+					<header class="app-header">
+						<div>
+							<h1>
+								<a href="https://github.com/marianmeres/emoji-list">
+									<code>@marianmeres/emoji-list</code>
+								</a>
+							</h1>
+							<p class="lead">
+								Complete emoji list as plain object maps, with search
+								and conversion helpers. Search or browse below, pick
+								an emoji to inspect its key and hex id.
+							</p>
+						</div>
+						<button
+							type="button"
+							class="theme-toggle"
+							data-on="click:toggleTheme"
+							aria-label="Toggle dark mode"
+							title="Toggle dark mode"
+						>◐</button>
+					</header>
+
+					<input
+						type="text"
+						class="search-input"
+						data-ref="query"
+						data-on="input:setQuery"
+						placeholder="Search emoji names and keys…"
+						autocomplete="off"
+						autocapitalize="off"
+						autocorrect="off"
+						spellcheck="false"
+						enterkeyhint="search"
+						aria-label="Search query"
+					/>
+
+					<div class="controls">
+						<select
+							class="group-select"
+							data-ref="group"
+							data-on="change:setGroup"
+							aria-label="Filter by group"
+						></select>
+						<p class="status" data-ref="status" role="status"
+							aria-live="polite"></p>
+					</div>
+
+					<div class="detail" data-ref="detail" hidden>
+						<span class="detail-emoji" data-ref="dEmoji"
+							aria-hidden="true"></span>
+						<div class="detail-body">
+							<p class="detail-name" data-ref="dName"></p>
+							<p class="detail-meta" data-ref="dMeta"></p>
+							<p class="detail-codes">
+								<span>
+									<span class="label">key:</span>
+									<code data-ref="dKey"></code>
+								</span>
+								<span>
+									<span class="label">hex:</span>
+									<code data-ref="dHex"></code>
+								</span>
+							</p>
+						</div>
+						<button
+							type="button"
+							class="copy-btn"
+							data-ref="copy"
+							data-on="click:copyEmoji"
+							title="Copy the emoji character to the clipboard"
+						>Copy</button>
+					</div>
+				</div>
+
+				<div class="grid-scroll" data-ref="scroll">
+					<div class="grid" data-ref="grid" aria-label="Emojis"></div>
+					<p class="grid-empty" data-ref="empty" hidden>
+						No emojis matched your query. Try a different term, or clear
+						the group filter.
+					</p>
+				</div>
+
+				<footer class="info">
+					Everything runs locally in your browser — the whole dataset ships
+					in the bundle. Generated from the official Unicode
+					<a
+						href="https://unicode.org/Public/emoji/latest/emoji-test.txt"
+						target="_blank"
+						rel="noopener"
+					>emoji-test.txt</a>
+					(v<span data-ref="dataVersion"></span>).
+					<span data-ref="version"></span>
+				</footer>
+			</div>
+		</template>
+
+		<div id="app"></div>
+
+		<script type="module" src="./dist/bundle.js"></script>
+	</body>
+</html>

@@ -1,6 +1,10 @@
+node_modules/
+.idea
 .DS_Store
-node_modules
-/package
+.npm-dist
+tmp/*
+!tmp/.gitkeep
+example/src/version.generated.ts
 .env
 .env.*
 !.env.example

@@ -1,74 +1,69 @@
 # @marianmeres/emoji-list
 
-List of emojis (data from https://unicode.org/emoji/charts/full-emoji-list.html)
-compiled into javascript plain object maps. Useful as low level helpers for various 
-emoji processing tools.
+[![NPM](https://img.shields.io/npm/v/@marianmeres/emoji-list)](https://www.npmjs.com/package/@marianmeres/emoji-list)
+[![JSR](https://jsr.io/badges/@marianmeres/emoji-list)](https://jsr.io/@marianmeres/emoji-list)
+[![License](https://img.shields.io/npm/l/@marianmeres/emoji-list)](LICENSE)
 
-NOTE: only default skin-tone
+Complete list of emojis compiled into plain object maps, with search and conversion helpers. Useful as a low level building block for emoji processing tools.
 
-## key to hex
-```javascript
-import { emojiKeyMap } from '@marianmeres/emoji-list';
+Data is generated from the official Unicode
+[emoji-test.txt](https://unicode.org/Public/emoji/latest/emoji-test.txt)
+(currently **v17.0**, 1918 emojis). Default skin tone only.
 
-// emojiKeyMap contains full key-to-hex map of all emojis
-{
-    "grinningFace": "1f600",
-    // ... ~1870 records omitted here
-    "flagWales": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
-}
+## Installation
+
+```bash
+npm i @marianmeres/emoji-list
 ```
 
-## hex to key
-```javascript
-import { emojiCodeMap } from '@marianmeres/emoji-list';
-
-// emojiCodeMap contains full hex-to-key map of all emojis
-{
-    "1f600": "grinningFace",
-    // ... ~1870 records omitted here
-    "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f": "flagWales"
-}
+```bash
+deno add jsr:@marianmeres/emoji-list
 ```
 
-## groups map (both major and minor)
-```javascript
-import { emojiKeyToGroupMap, emojiGroupToKeyMap } from '@marianmeres/emoji-list';
+## Quick Start
 
-// emojiKeyToGroupMap contains full key-to-groups [major, minor] map
-{
-    "grinningFace": [ "smileys and emotion", "face-smiling" ],
-    // ... ~1870 records omitted here
-    "flagWales": [ "flags", "subdivision-flag" ]
-}
+```typescript
+import { emojiToKey, keyToEmoji, searchEmoji } from "@marianmeres/emoji-list";
 
-// emojiGroupToKeyMap contains full group-to-key map
-{
-    // major group
-    "smileys and emotion": [ "grinningFace", /*...*/ ],
-    // ...
-	
-    // major/minor group
-    "smileys and emotion/face-smiling": [ "grinningFace", /*...*/ ],
-    // ...
-}
+emojiToKey("💩"); // "pileOfPoo"
+keyToEmoji("pileOfPoo"); // "💩"
+
+searchEmoji("wales");
+// [{
+//     key: "flagWales",
+//     emoji: "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+//     name: "flag: Wales",
+//     group: "flags",
+//     subgroup: "subdivision-flag",
+// }]
 ```
 
-## text description
-```javascript
-import { emojiFulltextMap } from '@marianmeres/emoji-list';
+## Raw data maps
 
-// emojifulltextMap contains full key-to-text map of all emojis
-{
-    "grinningFace": "grinning face",
-    // ... ~1870 records omitted here
-    "flagWales": "flag: Wales"
-}
+```typescript
+import {
+	emojiCodeMap, //         { "1f600": "grinningFace", ... }
+	emojiFulltextMap, //     { "grinningFace": "grinning face", ... }
+	emojiGroupToKeyMap, //   { "smileys and emotion": ["grinningFace", ...], ... }
+	emojiKeyMap, //          { "grinningFace": "1f600", ... }
+	emojiKeyToGroupMap, //   { "grinningFace": ["smileys and emotion", "face-smiling"], ... }
+} from "@marianmeres/emoji-list";
 ```
 
-## `emojiToKey` and `keyToEmoji` helpers
-```javascript
-import { emojiToKey, keyToEmoji } from '@marianmeres/emoji-list';
+## API
 
-assert('pileOfPoo' === emojiToKey('💩'));
-assert('💩' === keyToEmoji('pileOfPoo'));
+See [API.md](API.md) for complete API documentation.
+
+## Interactive example
+
+A small browser app — live search, group browsing, and key/hex inspection of
+every emoji — lives in [example/](example/):
+
+```bash
+deno task example:build && deno task example:serve
+# → http://localhost:8000/
 ```
+
+## License
+
+[MIT](LICENSE)
