@@ -92,3 +92,9 @@ Deno.test("includes modern emoji data", () => {
 	// default skin tone only
 	assertEquals(emojiToKey("👋🏿"), null);
 });
+
+Deno.test("keyToEmoji ignores inherited Object.prototype properties", () => {
+	for (const key of Object.getOwnPropertyNames(Object.prototype)) {
+		assertEquals(keyToEmoji(key), "", key);
+	}
+});

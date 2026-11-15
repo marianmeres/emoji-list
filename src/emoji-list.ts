@@ -68,7 +68,7 @@ export function emojiToKey(emoji: string): string | null {
  * Returns an empty string if not found.
  */
 export function keyToEmoji(key: string): string {
-	return hexToEmoji(emojiKeyMap[key] ?? "");
+	return Object.hasOwn(emojiKeyMap, key) ? hexToEmoji(emojiKeyMap[key]) : "";
 }
 
 /**
